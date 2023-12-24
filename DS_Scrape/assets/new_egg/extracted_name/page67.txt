@@ -26,8 +26,7 @@ LG gram 15Z9 Home & Business Laptop (Intel i7-1165G7 4-Core, 15.6" 60 Hz Full HD
 Lenovo Laptop ThinkPad T14 Gen 1 (Intel) 20S0003MUS Intel Core i7 10th Gen 10610U (1.80 GHz) 16 GB Memory 512 GB PCIe SSD Intel UHD Graphics 14" IPS 1920 x 1080 Windows 10 Pro 64-bit
 HP 17 Notebook, 17.3" FHD  Display,AMD Ryzen 5 5500U 6-Core , 20GB RAM, 1TB NVMe SSD, AMD Radeon, HDMI,  Wi-Fi,  FingerPrinter, Bluetooth, Windows 10 Home S
 Lenovo ThinkPad L15 Gen 2 15.6" 60Hz Full HD Home  and  Business Laptop (Intel i5-1135G7 4-Core, 16GB RAM, 512GB PCIe SSD, Intel Iris Xe, WiFi 6E, Bluetooth 5.2, Webcam, Win 11 Pro) with Hub
-HP 17.3" Laptop - 13th Intel Core i5-1335U - 1080p - Windows 11
-Notebook PC 12GB RAM 512GB SSD 17-cn3053cl
+HP 17.3" Laptop - 13th Intel Core i5-1335U - 1080p - Windows 11 Notebook PC 12GB RAM 512GB SSD 17-cn3053cl
 HP - ENVY x360 2-in-1 15.6" Touch-Screen Laptop - Intel Evo Platform Intel Core i7 - 16GB Memory - 512GB SSD - Natural Silver Tablet Notebook 15-ew0023dx
 Lenovo - IdeaPad 1 14" Laptop - AMD A6-Series - 4GB Memory - AMD Radeon R4 - 64GB eMMC Flash Memory - Platinum Gray (81VS009GUS)
 Acer Aspire 5 Slim Laptop, AMD Ryzen3 2-Cores 3200U(Beats i5-8200Y), AMD Radeon Vega 3, Graphics, 20GB DDR4  1TB PCIe SSD, 15.6 inches Full HD IPS Display, WiFi, Backlight Keyboard, Windows 11
@@ -41,7 +40,7 @@ MSI GV63 15.6" 144Hz Gaming Laptop Intel Core i5-11400H GTX1650 8GB 512GB NVMe S
 MSI GF63 Thin 9SC-068 15.6" Gaming Laptop, Thin Bezel, Intel Core i5-9300H, NVIDIA GeForce GTX1650, 8GB, 256GB NVMe NVMe SSD (GF63THIN9SC-068)
 MSI Pulse GL66 15.6" FHD Gaming Laptop Intel Core i5-11400H RTX3050 8GB 512GBNVMe SSD Win11 - Gray (11UCK-1250) (GL661050)
 MSI GF63 15.6" 144 Hz Gaming Laptop Intel Core i5-11400H RTX 3050 TI 16GB 512GB NVMe SSD Win11 (11UC-263) (GF6311263)
-Lenovo 2022 Yoga 7i 2-in-1 360Â° 16" 2.5K Touchscreen Laptop, Intel Evo Platform Core i5 1240P, 8GB RAM, 2TB PCIe SSD, Intel Iris Xe Graphics, Backlit Keyboard, Win 11, Storm Grey, 32GB USB Card
+Lenovo 2022 Yoga 7i 2-in-1 360° 16" 2.5K Touchscreen Laptop, Intel Evo Platform Core i5 1240P, 8GB RAM, 2TB PCIe SSD, Intel Iris Xe Graphics, Backlit Keyboard, Win 11, Storm Grey, 32GB USB Card
 Newest Lenovo C340 15.6" FHD Touchscreen 2-in-1 Chromebook Laptop, Intel i3 CPU(Up to 3.4GHz), 4GB RAM, 128GB Space(64GB eMMC+64GB MSD), USB-C, Wi-Fi, Bluetooth, Webcam, Chrome OS+JVQ MP
 Lenovo ThinkPad X13 Home  and  Business Laptop (Intel i5-10210U 4-Core, 8GB RAM, 256GB PCIe SSD, Intel UHD, 13.3" Full HD (1920x1080), WiFi, Bluetooth, Webcam, HDMI, Backlit KB, Win 11 Pro) with Hub
 Lenovo ThinkPad X1 Yoga Home and Business Laptop (Intel i7-8665U 4-Core, 16GB RAM, 1TB SSD, 14" Touch  4K UHD (3840x2160), Intel UHD 620, Active Pen, Fingerprint, Wifi, Bluetooth, Webcam, Win 10 Pro)
@@ -56,7 +55,7 @@ HP EliteBook 640 G9 14" Notebook - Full HD - 1920 x 1080 - Intel Core i5 12th Ge
 Lenovo ThinkPad X1 Yoga Gen 5 20UB003QUS 14" Touchscreen 2 in 1 Notebook - 4K UHD - 3840 x 2160 - Intel Core i7 (10th Gen) i7-10610U Quad-core (4 Core) 1.80 GHz - 16 GB RAM - 1 TB SSD - Iron Gray
 Dell Inspiron 3502 Notebook, 15.6" HD Display, Intel Pentium Silver N5030 Upto 3.1GHz, 4GB RAM, 128GB NVMe SSD, HDMI, Card Reader, Wi-Fi, Bluetooth, Windows 10 Pro S
 Dell Latitude 7420 Laptop, 14" FHD Display, Intel Core i5-1145G7 Upto 4.4GHz, 8GB RAM, 512GB NVMe SSD, Thunderbolt , HDMI, Card Reader, Wi-Fi, Bluetooth, Windows 11 Pro
-2022 LENOVO Yoga 7i 2-in-1 360Â° 15.6" Touch Screen Laptop, Intel Evo Platform Core i7 1165G7, 12GB RAM, 512GB PCIe SSD, Intel Iris Xe Graphics, Backlit Keyboard, Win 11, Dark Moss, 32GB USB Card
+2022 LENOVO Yoga 7i 2-in-1 360° 15.6" Touch Screen Laptop, Intel Evo Platform Core i7 1165G7, 12GB RAM, 512GB PCIe SSD, Intel Iris Xe Graphics, Backlit Keyboard, Win 11, Dark Moss, 32GB USB Card
 Lenovo IdeaPad 3 Home  and  Business Laptop (Intel i7-1065G7 4-Core, 8GB RAM, 256GB PCIe SSD, Intel Iris Plus, 17.3" Full HD (1920x1080), Fingerprint, WiFi, Bluetooth, Webcam, Win 11 Home) with Hub
 Lenovo ThinkPad E14 Gen 2 Business Laptop 14.0" 60Hz Touch FHD IPS Display (Intel i5-1135G7 4-Core, Intel Iris Xe, 16GB RAM, 256GB PCIe SSD, Backlit KB, FP, WiFi 6, BT 5.1, HD Webcam, Win11P) w/Hub
 Lenovo IdeaPad 3 15ITL05 81X80055US 15.6" Notebook - Full HD - 1920 x 1080 - Intel Core i3 11th Gen i3-1115G4 Dual-core (2 Core) 3 GHz - 4 GB RAM - 128 GB SSD - Abyss Blue (81X80055US)

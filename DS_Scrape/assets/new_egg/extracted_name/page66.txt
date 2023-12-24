@@ -36,7 +36,7 @@ LG gram 17ZB Home & Business Laptop (Intel i7-1260P 12-Core, 17.0" 60 Hz Wide QX
 New Lenovo IdeaPad 3 15.6" FHD Screen Laptop - Intel Pentium Silver N5030 4GB RAM 128GB SSD, HDMI, 802.11 Wireless-AC, Windows 11 ONE Year Office
 Lenovo IdeaPad 3i 15.6" FHD Lightweight Laptop (Intel Pentium Gold 7505, 4GB RAM, 128GB SSD, Windows 11) (Renewed) (82H801GGUS-cr)
 Lenovo ThinkPad X1 Carbon 7th Gen 20QD000BUS 14" Ultrabook - 1920 x 1080 - Core i5 i5-8265U - 8 GB RAM - 256 GB SSD
-Newest Dell Inspiron 15.6â€™â€™ HD Laptop for Business and Student, Intel Pentium Silver N5030 Processor(up to 3.1 Ghz), 4GB RAM, 128GB SSD, Webcam, USB, HDMI, Bluetooth, Win10 S
+Newest Dell Inspiron 15.6’’ HD Laptop for Business and Student, Intel Pentium Silver N5030 Processor(up to 3.1 Ghz), 4GB RAM, 128GB SSD, Webcam, USB, HDMI, Bluetooth, Win10 S
 2021 Lenovo IdeaPad 3 15.6" HD Laptop Intel Dual-Core i3-1005G1 12GB RAM DDR4 256GB M.2 SSD Intel UHD Graphics HDMI Card Reader Bluetooth Webcam Almond Windows 10 Pro w/ RE 32GB USB 3.0 D (81WE0016US)
 2021 Lenovo Ideapad 3i 15.6" FHD Display Laptop Computer, Intel Core i3-1115G4, 20GB DDR4 RAM, 1TB PCIe SSD, Intel UHD Graphics, HD Webcam, HDMI, Bluetooth, Windows 11 S, Abyss Blue, 32GB USB Card
 2021 Lenovo IdeaPad 3 15.6" FHD Laptop Computer, 10th Gen Intel Core i3-1005G1, 20GB RAM, 2TB PCIe SSD, Intel UHD Graphics, Dolby Audio, HD Webcam, HDMI, Windows 10S, Grey, 32GB SnowBell USB Card
@@ -78,8 +78,7 @@ Lenovo ThinkBook 14s-IWL 20RM0009US 14" Notebook - 1920 x 1080 - Core i5 i5-8265
 Lenovo ideapad S340 15.6" Laptop, Intel Core i5-8265U Quad-Core Processor, 8GB Memory, 128GB Solid State Drive, Windows 10 - Onyx Black - 81N800H0US (10-LENOVO-2425)
 Lenovo ThinkPad E15 Gen 2 Intel Business Laptop, 15.6" FHD IPS 250 nits, i3-1115G4, 8GB, 1TB SSD, UHD Graphics, Win 10 Pro
 Samsung 12.2" Touchscreen 2-in-1 Chromebook - Intel Celeron - 1920 x 1200p - Digital Pen & Bonus Pouch XE520QAB-K04US Laptop Notebook Tablet 4GB 64GB Storage
-MSI Katana 15.6" Laptop - 12th Gen Intel Core i7-12700H - GeForce RTX 3060 - 1080p - 144Hz
-Notebook 16GB RAM 512GB SSD RTX 3060 12UE-603
+MSI Katana 15.6" Laptop - 12th Gen Intel Core i7-12700H - GeForce RTX 3060 - 1080p - 144Hz Notebook 16GB RAM 512GB SSD RTX 3060 12UE-603
 LG gram 16T9 Home & Business 2-in-1 Laptop (Intel i7-1260P 12-Core, 16.0" 60 Hz Touch Wide QXGA (2560x1600), Intel Iris Xe, Win 11 Pro) with Microsoft 365 Personal , Dockztorm Hub
 HP x360 11 G3 Chromebook, 11.6" IPS HD Touch Display, Intel Celeron N4020 Upto 2.8GHz, 4GB RAM, 32GB eMMC, DisplayPort via USB-C, Card Reader, Wi-Fi, Bluetooth, Chrome OS | Education Edition (1A767UT)
 Acer Swift 3 Laptop, 14" IPS FHD Display, AMD Ryzen 7 5700U Upto 4.3GHz, 8GB RAM, 4TB NVMe SSD, Vega 8, HDMI, Wi-Fi, Bluetooth, Windows 11 Pro
@@ -89,7 +88,7 @@ Lenovo Chromebook 3 Laptop, 14" HD Display, Intel Celeron N4020 CPU, 4GB LPDDR4 
 2022 Newest Dell Inspiron 15.6" HD Business Laptop, Intel Pentium Silver N5030, 16GB RAM, 1TB Hard Disk Drive, WiFi, Webcam, HDMI, Bluetooth, Win10 Pro, Black
 Lenovo ThinkBook 14s-IWL 20RM0008US 14" Notebook - 1920 x 1080 - Core i7 i7-8565U - 8 GB RAM - 256 GB SSD
 HP Chromebook, 11.6" HD 1366 x 768 WLED Laptop Computer, Intel Celeron N3350 up to 2.4GHz, 4GB RAM, 32GB eMMC, WiFi, Bluetooth, Webcam, Media Reader, USB-C, Chrome OS, ABYS 256GB MicroSD Card
-2022 LENOVO Yoga 7i 2-in-1 360Â° 16" 2.5K Touchscreen Laptop, Intel Evo Platform Core i5 1240P, 8GB RAM, 1TB PCIe SSD, Intel Iris Xe Graphics, Backlit Keyboard, Win 11, Storm Grey, 32GB USB Card
+2022 LENOVO Yoga 7i 2-in-1 360° 16" 2.5K Touchscreen Laptop, Intel Evo Platform Core i5 1240P, 8GB RAM, 1TB PCIe SSD, Intel Iris Xe Graphics, Backlit Keyboard, Win 11, Storm Grey, 32GB USB Card
 Lenovo ThinkPad T15 Business Laptop, 15.6" FHD (1920 x 1080), 10th Gen Intel Core i7-10510U, 8GB RAM, 512GB SSD,3.0, Windows 10 Pro
 Dell Latitude 3301 Laptop, 13.3" HD Display, Intel Core i3-8145U Upto 3.9GHz, 4GB RAM, 256GB NVMe SSD, HDMI, DisplayPort via USB-C, Card Reader, Wi-Fi, Bluetooth, Windows 10 Pro
 Lenovo ThinkPad X1 Yoga Gen 6 2-in-1, 14" IPS FHD+ Touch Display, Intel Core i5-1135G7 Upto 4.2GHz, 8GB RAM, 2TB NVMe SSD, HDMI, Thunderbolt, Wi-Fi, Bluetooth, Windows 11 Pro

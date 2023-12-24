@@ -34,8 +34,7 @@ Lenovo ThinkPad P14s Gen 2 Intel Laptop,  T Series, 512GB
 HP 14" Laptop FHD IPS 1920 x 1080 Intel Core i3-1215U 4GB RAM 128GB SSD Natural Silver - 14" FHD 1920 x 1080 Display - In-plane Switching (IPS) Technology - Intel Core i3-1215U Hexa-Core - 1
 Dell Inspiron 7620 16" OLED UHD+ 3840 X 2400  2-in-1 Laptop,12th Gen Intel Core i7-1260P Processor,64GB DDR4,512GB SSD,NVIDIA GeForce MX550 2GB,Wifi-AX,Bluetooth,Windows 11 Pro
 Acer Predator Triton 300 SE Gaming Laptop, 16" WQXGA 240Hz IPS Display, Intel Core i7-12700H Processor, NVIDIA GeForce RTX 3060, 32GB DDR5 RAM, 1TB SSD, Wi-Fi 6E, Backlit Keyboard, Windows 11 Home
-HP - Victus 15.6" Full HD 144Hz Gaming Laptop - Intel Core i5-13420H - 8GB Memory - NVIDIA GeForce RTX 3050 - 512GB SSD - Performance Blue
-Notebook
+HP - Victus 15.6" Full HD 144Hz Gaming Laptop - Intel Core i5-13420H - 8GB Memory - NVIDIA GeForce RTX 3050 - 512GB SSD - Performance Blue Notebook
 New Dell Vostro 7620 Business 16" Full HD+ NVIDIA GeForce RTX 3050 Ti Intel core i7-12700H 16GB RAM 512GB SSD Backlit Keyboard Wi-Fi 6 HDMI Windows 11 Pro Black
 Acer Nitro 5 Gaming Laptop, 15.6" QHD IPS 165Hz Display, Ryzen 7 6800H (Beats i9-11900H), NVIDIA GeForce RTX 3070 Ti, 32GB DDR5 RAM, 2TB SSD, Wi-Fi 6E, RGB Backlit Keyboard, Bluetooth, Windows 11 Home
 MSI Laptop Intel Core i5 11th Gen 1155G7 (2.50GHz) 8GB Memory 512 GB NVMe SSD Intel Iris Xe Graphics 15.6" Windows 10 Home 64-bit Modern 15 A11MU-654
@@ -68,8 +67,7 @@ ASUS - ROG Zephyrus 14" FHD 144Hz Gaming Laptop - AMD Ryzen 7 - 16GB DDR4 Memory
 Acer Predator Triton 300 SE Gaming Laptop, 16" WQXGA 240Hz IPS Display, Intel Core i7-12700H Processor, NVIDIA GeForce RTX 3060, 16GB DDR5 RAM, 1TB SSD, Wi-Fi 6E, Backlit Keyboard, Windows 11 Home
 Acer - Predator Triton 300 SE-14 165Hz Creator/Gaming LaptopIntel Core i7NVIDIA GeForce RTX 3060-16GB LPDDR5512GB SSD-Gray Notebook PT314-52s-747P
 HP 15.6" HD TouchScreen LED Notebook,10th Gen Intel Core i5-1035G1 Quad Core Processor,16GB DDR4 RAM,256GB SSD,Intel UHD Graphics,Wifi,Bluetooth,USB,HDMI, Windows 10 Pro
-HP - 14" Laptop - AMD Ryzen 3 - 8GB Memory - 128GB SSD - Natural Silver
-Notebook 14-fq0033dx
+HP - 14" Laptop - AMD Ryzen 3 - 8GB Memory - 128GB SSD - Natural Silver Notebook 14-fq0033dx
 Acer Predator Triton 300 SE Gaming Laptop, 16" WQXGA 240Hz IPS Display, Intel Core i7-12700H Processor, NVIDIA GeForce RTX 3060, 64GB DDR5 RAM, 1TB SSD, Wi-Fi 6E, Backlit Keyboard, Windows 11 Home
 New ASUS Vivobook 15.6" Laptop Full HD Intel core I7-1065G7 8GB RAM 256GB SSD 1TB HDD Windows 10 Home Grey
 Dell Inspiron 14" Touchscreen Laptop - AMD Ryzen 5 5625U - FHD+ (1920 x 1200) - Windows 11 Notebook i5425-A532SLV-PUS 16GB RAM 512GB SSD

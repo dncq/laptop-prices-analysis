@@ -1,8 +1,8 @@
 MSI Raider GE78HX 13VH-438US Gaming Laptop Intel Core i9-13980HX 2.20 GHz 17.0" Windows 11 Home 64-bit
 Acer Nitro 5 Gaming Laptop Intel Core i5-12500H 2.50 GHz 15.6" Windows 11 Home 64-bit AN515-58-56CH
-ASUS ROG Strix G17 (2023) Gaming Laptop, 17.3‚Äù QHD 240Hz, GeForce RTX 4070, AMD Ryzen 9 7945HX, 16GB DDR5, 1TB PCIe SSD, Wi-Fi 6E, Windows 11, G713PI-DS94
+ASUS ROG Strix G17 (2023) Gaming Laptop, 17.3î QHD 240Hz, GeForce RTX 4070, AMD Ryzen 9 7945HX, 16GB DDR5, 1TB PCIe SSD, Wi-Fi 6E, Windows 11, G713PI-DS94
 ASUS TUF Gaming F17 (2022) Gaming Laptop, 17.3" FHD 144Hz Display, GeForce RTX 3050, Intel Core i5-12500H, 16GB DDR4, 512GB PCIe SSD, Wi-Fi 6, Windows 11, FX707ZC-ES53
-ASUS ROG Zephyrus Duo 16 (2023) Gaming Laptop, 16‚Äù Mini LED 240Hz/3ms, QHD 16:10 Display, 100% DCI-P3, NVIDIA GeForce RTX 4080, AMD Ryzen 9 7945HX, 32GB DDR5, 1TB SSD, Windows 11 Pro, GX650PZ-XS96
+ASUS ROG Zephyrus Duo 16 (2023) Gaming Laptop, 16î Mini LED 240Hz/3ms, QHD 16:10 Display, 100% DCI-P3, NVIDIA GeForce RTX 4080, AMD Ryzen 9 7945HX, 32GB DDR5, 1TB SSD, Windows 11 Pro, GX650PZ-XS96
 ASUS ROG Strix G16 (2023) Gaming Laptop, 16" Nebula Display 16:10 QHD 240Hz, GeForce RTX 4070, Intel Core i9-13980HX, 32GB DDR5, 1TB PCIe SSD, Wi-Fi 6E, Windows 11 Pro, G614JI-XS96
 ASUS ROG Flow Z13 (2023) Gaming Laptop Tablet, 13.4" Nebula Display 16:10 QHD+ 165Hz, GeForce RTX 4050, Intel Core i9-13900H, 16GB LPDDR5, 1TB PCIe SSD, Wi-Fi 6E, Windows 11, GZ301VU-DS94
 ASUS ROG Strix G16 (2023) Gaming Laptop, 16" 16:10 QHD+ 240Hz, GeForce RTX 4060, Intel Core i9-13980HX, 16GB DDR5, 1TB PCIe SSD, Wi-Fi 6E, Windows 11, G614JV-ES94
@@ -12,7 +12,7 @@ ASUS ROG Strix G15 (2022) Gaming Laptop, 15.6" FHD 144Hz, GeForce RTX 3050, AMD 
 ASUS FA707NV-ES74 Gaming Laptop AMD Ryzen 7 7735HS 3.20 GHz 17.3" Windows 11 Home 64-bit
 ASUS G634JY-XS97 Gaming Laptop Intel Core i9-13980HX 2.20 GHz 16.0" Windows 11 Pro 64-bit
 ASUS ROG Strix G17 (2022) Gaming Laptop, 17.3" 144Hz IPS FHD Display, NVIDIA GeForce RTX 3050 GPU, AMD Ryzen 7 6800H Processor, 16GB DDR5 RAM, 512GB SSD, RGB Keyboard, Windows 11, G713RC-RS73
-ASUS ROG Zephyrus Duo 16 (2023) Gaming Laptop, 16‚Äù Mini LED 240Hz/3ms, QHD 16:10 Display, 100% DCI-P3, NVIDIA GeForce RTX 4090, AMD Ryzen 9 7945HX, 32GB DDR5, 2TB SSD, Windows 11 Pro, GX650PY-XS97
+ASUS ROG Zephyrus Duo 16 (2023) Gaming Laptop, 16î Mini LED 240Hz/3ms, QHD 16:10 Display, 100% DCI-P3, NVIDIA GeForce RTX 4090, AMD Ryzen 9 7945HX, 32GB DDR5, 2TB SSD, Windows 11 Pro, GX650PY-XS97
 MSI Thin GF63 12VE-437US Gaming Laptop Intel Core i5-12450H 2.00 GHz 15.6" Windows 11 Home 64-bit
 ASUS ROG Strix SCAR 17 X3D (2023) Gaming Laptop, 17.3" QHD 240Hz/3ms, 100% DCI-P3 Display, GeForce RTX 4090, AMD Ryzen?9?7945HX3D, 32GB DDR5, 2TB PCIe SSD, Wi-Fi 6E, Windows 11 Pro, G733PYV-XH97
 MSI Raider GE76 12UHS-255 Gaming Laptop Intel Core i7-12700H (Up to 4.70 GHz) 17.3" Windows 11 Home 64-bit
@@ -60,15 +60,15 @@ Acer Chromebook 314 C922 C922-K06Y 14" Chromebook - HD - 1366 x 768 - Octa-core 
 Acer PT14-51-7979 Gaming Laptop Intel Core i7-13700H 2.40 GHz 14.0" Windows 11 Home 64-bit
 Dell Latitude  3540 15.6" Notebook - Intel Core i51335U 13th Gen - 8GB Memory - 256 GB SSD - Windows 11 Pro  7YN8G
 MSI Alpha 17C7VG-007US Gaming Laptop AMD Ryzen 9 7945HX 2.50 GHz 17.3 Windows 11 Home 64-bit
-ASUS ROG Zephyrus G15 Ultra Slim Gaming Laptop, 15.6‚Äù 240Hz QHD Display, GeForce RTX 3080, AMD Ryzen 9 6900HS, 16GB DDR5, 1TB PCIe NVMe SSD, Wi-Fi 6, Windows 11, Eclipse Gray, GA503RS-PH94
+ASUS ROG Zephyrus G15 Ultra Slim Gaming Laptop, 15.6î 240Hz QHD Display, GeForce RTX 3080, AMD Ryzen 9 6900HS, 16GB DDR5, 1TB PCIe NVMe SSD, Wi-Fi 6, Windows 11, Eclipse Gray, GA503RS-PH94
 DELL Notebooks Latitude 3540 - Intel Core i7 13th Gen - 16GB Memory - 512 GB SSD - 15.6" Touchscreen - Windows 11 Pro V6PFC
 MSI Katana 15 B13VFK-1264US Gaming Laptop Intel Core i7-13620H 2.40 GHz 15.6" Windows 11 Pro 64-bit
 ASUS VivoBook S14 S435 Laptop, 14" FHD Display, Intel Evo Platform, i7-1165G7 CPU, 8GB RAM, 512GB PCIe SSD, Windows 11 Home, AI Noise-Cancellation, Deep Green, S435EA-DH71-GR
 MSI Stealth 15M B12UE-042 Gaming Laptop Intel Core i7-1280P 1.80 GHz 15.6" Windows 11 Pro 64-bit
-ASUS GV301QH-XS98-B Gaming Laptop AMD¬†Ryzen¬†9¬†5980HS¬†3.00 GHz 13.4" Windows 10 Pro 64-bit
+ASUS GV301QH-XS98-B Gaming Laptop AMD†Ryzen†9†5980HS†3.00 GHz 13.4" Windows 10 Pro 64-bit
 HP 470 G10 17.3" Notebook - Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz - 16 GB RAM - 512 GB SSD - Windows 11 Pro - NVIDIA GeForce MX550 with 2 GB - Asteroid Silver  85F41UT#ABA
 MSI Raider GE76 12UGS-201 Gaming Laptop Intel Core i7-12700H 2.30 GHz 17.3" Windows 11 Home 64-bit
-Microsoft Surface Laptop Studio 2 - 14.4" PixelSense Flow Display - 13th Gen Intel¬Æ Core i7 13800H Processor - 64GB Memory - 1TB SSD - NVIDIA GeForce RTX 4060 - Windows 11 Pro - Platinum  Z2F-00001
+Microsoft Surface Laptop Studio 2 - 14.4" PixelSense Flow Display - 13th Gen IntelÆ Core i7 13800H Processor - 64GB Memory - 1TB SSD - NVIDIA GeForce RTX 4060 - Windows 11 Pro - Platinum  Z2F-00001
 Lenovo ThinkPad E16 Gen 1 21JN0073US 16" Notebook - WUXGA - 1920 x 1200 - Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz - 16 GB Total RAM - 512 GB SSD - Graphite Black
 Razer RZ09-0483SEH3-R3U1 Gaming Laptop Intel Core i9-13950HX 2.20 GHz 16.0" Windows 11 Home 64-bit
 MSI Laptop Intel Core i7 11th Gen 11800H (2.30GHz) 16GB Memory 512 GB NVMe SSD NVIDIA GeForce RTX 3060 Laptop GPU 17.3" 4K / UHD Windows 10 Home 64-bit Creator 17 B11UE-471

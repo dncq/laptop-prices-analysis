@@ -75,7 +75,7 @@ LG Gram Pro Home & Business Laptop (Intel i7-1360P 12-Core, 16.0" 144 Hz Wide QX
 HP 15t-dw300 15.6" IPS HD Touchscreen Ultra-Thin  and  Light Laptop (Intel i5-1135G7 4-Core, 16GB RAM, 512GB PCIe SSD, Intel Iris Xe, 1366x768, WiFi 5, Bluetooth 5, HD Webcam, Win11 Pro) w/Hub
 Lenovo ThinkPad T14 Gen 3 AMD Ryzen 7 PRO 6850U, 14" WUXGA (1920x1200) IPS 300nits Anti-Glare Touch, 16 GB RAM DDR5 6400MHz, 512 GB SSD, Windows Pro, 3 Yrs, 21CF003TUS
 Lenovo ThinkPad P71 Notebook, 17.3" 4K UHD Display, Intel Xeon E3-1535M Upto 4.2GHz, 16GB RAM, 512GB NVMe SSD, NVIDIA Quadro P4000, HDMI, Micro DP, Thunderbolt, Wi-Fi, BT, Windows 10 Pro (20HK003FUS)
-Asus ROG Zephyrus G14 Premium Gaming Laptop 14‚Äù FHD 120Hz IPS Display AMD 8-Core Ryzen 9 4900HS 24GB RAM 2TB SSD GeForce RTX 2060 Max-Q 6GB Backlit Keyboard Wifi6 USB-C HDMI Dolby Audio Win10
+Asus ROG Zephyrus G14 Premium Gaming Laptop 14î FHD 120Hz IPS Display AMD 8-Core Ryzen 9 4900HS 24GB RAM 2TB SSD GeForce RTX 2060 Max-Q 6GB Backlit Keyboard Wifi6 USB-C HDMI Dolby Audio Win10
 Lenovo ThinkPad T14 20S0004TUS 14" 4K Laptop i7-10610U 24GB 1TB SSD Win 10 Pro
 2021 Dell Inspiron 3000 15 Laptop, 15.6" Full HD Touchscreen Display, AMD Quad-Core Ryzen 5 3450U (Beats Intel i5-8250U), 16GB DDR4, 1TB PCIe SSD, Online Meeting Ready, WiFi, RJ-45, HDMI, Win 10 S
 2021 Dell Inspiron 3000 15 Laptop, 15.6" Full HD Touchscreen Display, AMD Quad-Core Ryzen 5 3450U (Beats Intel i5-8250U), 8GB DDR4, 256GB PCIe SSD, Online Meeting Ready, WiFi, RJ-45, HDMI, Win 10 S
@@ -83,8 +83,7 @@ HP Envy x360 2-in-1-15.6" FHD Touch - i5-8250u - 8GB - 256GB SSD (3VU72UA)
 HP - 15.6" Full HD Chromebook - Intel Core i3 - 8GB Memory - 128GB UFS - Mineral Silver 15a-nb0023dx Laptop
 HP - 17.3" HD+ Laptop - AMD Ryzen 3 7320U - 8GB Memory - 256GB SSD - Natural Silver
 HP 2022 Newest Chromebook X360 Spin 2-in-1 Convertible Touchscreen Laptops for Student  and  Business, 14'' HD, Intel Celeron N4120, 4GB RAM, 64GB SSD, Webcam, Bluetooth, Stylus Pen Included, Chrome O
-Acer - Swift 3 -14" OLED WQXGA Laptop- -12th Gen Intel Core i7 12700H-Iris Xe Graphics-16GB LPDDR5-1TB Gen 4 SSD - Gray
- Notebook
+Acer - Swift 3 -14" OLED WQXGA Laptop- -12th Gen Intel Core i7 12700H-Iris Xe Graphics-16GB LPDDR5-1TB Gen 4 SSD - Gray  Notebook
 Dell Inspiron 15 3000 FHD 1080p, AMD Ryzen 5, 8GB Memory, 256GB SSD, AMD Radeon Vega 8 Graphics, Windows 10 Home, Black (Latest Model)
 Lenovo ThinkPad T14 Gen 3 AMD Ryzen 7 PRO 6850U, 14" WUXGA (1920x1200) IPS 300nits Anti-Glare, 16 GB RAM DDR5 6400MHz, 512 GB SSD, Backlit KYB Fingerprint Reader, Windows Pro
 Lenovo ThinkPad T14 Gen 3 AMD Ryzen 7 PRO 6850U, 14" WUXGA (1920x1200) IPS 300nits Anti-Glare, Touch, 16 GB RAM DDR5 6400MHz, 512 GB SSD, Backlit KYB Fingerprint Reader, Windows Pro

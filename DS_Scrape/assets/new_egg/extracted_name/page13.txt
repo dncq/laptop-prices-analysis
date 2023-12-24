@@ -4,11 +4,11 @@ Lenovo Flex 5 14.0" 2-in-1 (2240 x 1400) IPS Glass 2.2K Touchscreen Notebook,AMD
 Lenovo ThinkBook 14 G6 IRL 21KG000FUS 14" Touchscreen Notebook - WUXGA - 1920 x 1200 - Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz - 16 GB Total RAM - 512 GB SSD - Arctic Gray Laptop
 EliteBook 830 G10 13.3" Touchscreen Notebook - WUXGA - 1920 x 1200 - Intel Core i7 13th Gen i7-1365U Deca-core (10 Core) - 16 GB Total RAM - 16 GB On-board Memory - 512 GB SSD - Intel Chip - Wind
 EliteBook 840 G10 14" Notebook - WUXGA - 1920 x 1200 - Intel Core i7 13th Gen i7-1370P Tetradeca-core (14 Core) - Intel Evo Platform - 16 GB Total RAM - 512 GB SSD - Intel Chip - Windows 11 Pro -
-Lenovo LOQ Tower Desktop, i5-13400F, NVIDIAÂ® GeForce RTX 3050 8GB GDDR6, 8GB, 512GB SSD, For Gaming
+Lenovo LOQ Tower Desktop, i5-13400F, NVIDIA® GeForce RTX 3050 8GB GDDR6, 8GB, 512GB SSD, For Gaming
 Asus Expertbook B2 B2502c B2502cva-xve54 15.6" Notebook - Full Hd - 1920 X 1080
 EliteBook 830 G10 13.3" Touchscreen Notebook - WUXGA - 1920 x 1200 - Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) - 16 GB Total RAM - 16 GB On-board Memory - 512 GB SSD - Intel Chip - Wind
 Lenovo ThinkPad T16 Gen 1 21CH0040US 16" Touchscreen Notebook - WUXGA - 1920 x 1200 - AMD Ryzen 7 PRO 6850U Octa-core (8 Core) 2.70 GHz - 16 GB Total RAM - 16 GB On-board Memory - 512 GB SSD - Th
-[Windows 11 Home] Newest HP 15 Laptop, 15.6â€™â€™ HD Display, AMD Ryzen 3 3250U, 32GB SDRAM, 1TB PCIe SSD, Wi-Fi, Bluetooth, Type-C, HDMI, Media Card Reader, Natural Silver
+[Windows 11 Home] Newest HP 15 Laptop, 15.6’’ HD Display, AMD Ryzen 3 3250U, 32GB SDRAM, 1TB PCIe SSD, Wi-Fi, Bluetooth, Type-C, HDMI, Media Card Reader, Natural Silver
 HP 15 Laptop, 15.6" HD Micro-Edge Display, AMD Ryzen 3 5300U (Beats i7-1065G7), 32GB RAM, 1TB SSD, Wi-Fi 5, Long-Lasting Battery, Fast Charge, Webcam, Windows 11 Home, Bundle With Cefesfy USB Hub
 ThinkPad T16 AMD G1, AMD Ryzen 7 PRO 2.70GHz Windows 11 Pro 64, 16GB RAM 512GB SSD
 Lenovo IdeaPad 3i 14"FHD Laptop, Intel Core i5-1135G7, 8GB, 256GB SSD, Windows 11, Platinum Grey, 81X700FVUS Notebook
@@ -31,7 +31,7 @@ HP EliteOne 870 G9 All-in-One Desktop Computer - Intel Core i5 13th Gen i5-13500
 HP EliteBook 1040 G10 14" Touchscreen Notebook - WUXGA - 1920 x 1200 - Intel Core i7 13th Gen i7-1365U Deca-core (10 Core) - 16 GB Total RAM - 512 GB SSD - Intel Chip - Windows 11 Pro - Intel Iri
 Latitude 5400 5430 14" Notebook - Full HD - 1920 x 1080 - Intel Core i7 12th Gen i7-1265U Deca-core (10 Core) 1.80 GHz - 16 GB Total RAM - 256 GB SSD - Intel Chip - Windows 11 Pro - Intel Iris Xe
 ASUS Vivobook 15 Laptop, 15.6" FHD Display, Intel Core i5-1135G7(Beats i7-1065G7) Processor, 36GB RAM, 1TB SSD, Intel Iris Xe Graphics, Wi-Fi 5, Bluetooth, Numeric Keypad, Webcam, Windows 11 Home
-MSI Stealth GS66 12UGS-246 Gaming Laptop - 15.6" Full HD 240Hz - 12th Gen. IntelÂ® Core i7-12700H - 32GB DDR5 - 512GB NVMe SSD - Windows 11 Pro  GS6612246
+MSI Stealth GS66 12UGS-246 Gaming Laptop - 15.6" Full HD 240Hz - 12th Gen. Intel® Core i7-12700H - 32GB DDR5 - 512GB NVMe SSD - Windows 11 Pro  GS6612246
 Dell Precision 3000 3580 15.6" Mobile Workstation - Full HD - 1920 x 1080 - Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz - 16 GB Total RAM - 256 GB SSD - Titan Gray - Intel Chip -
 Acer Chromebook 311 C722 C722-K4CN 11.6" Chromebook - HD - 1366 x 768 - ARM Cortex A73 Quad-core (4 Core) 2 GHz - 4 GB RAM - 32 GB Flash Memory - Chrome OS - ARM Mali-G72 MP3 - ComfyView (Matte)
 Dell Education Chromebook 3000 3110 11.6" Touchscreen Convertible 2 in 1 Chromebook - HD - 1366 x 768 - Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz - 8 GB Total RAM - 32 GB Flash Memory - Int
@@ -76,7 +76,7 @@ ASUS Zenbook 14X Home & Business Laptop (Intel i7-13700H 14-Core, 16GB LPDDR5 48
 Lenovo ThinkPad X13 Gen 4 Intel Laptop, 13.3" IPS  LED , i5-1335U,   Iris Xe Graphics, 16GB, 512GB
 ASUS ROG Strix G15 Gaming Laptop, 15.6" WQHD IPS 165Hz Display, NVIDIA GeForce RTX 3060, AMD Ryzen 7 6800H, 32GB DDR5 RAM, 2TB SSD, Wi-Fi, Windows 11 Home, Bundle With Cefesfy Gaming Mouse
 Dell Precision 3000 3570 15.6" Mobile Workstation - Full HD - 1920 x 1080 - Intel Core i7 12th Gen i7-1255U Deca-core (10 Core) 1.70 GHz - 16 GB Total RAM - 512 GB SSD - Intel Chip - Windows 11 P
-BMAX Y11 Laptop 360Â° rotating screen 11.6 Inch Quad Core Intel N4120 1920*1080 IPS Screen 8GB LPDDR4 RAM 256GB SSD ROM Notebook Windows10
+BMAX Y11 Laptop 360° rotating screen 11.6 Inch Quad Core Intel N4120 1920*1080 IPS Screen 8GB LPDDR4 RAM 256GB SSD ROM Notebook Windows10
 Lenovo ThinkPad P14s 21J50010US 14" Laptop R7 PRO 6850U 32GB 1TB SSD W11P
 Dell Latitude 3000 3140 11.6" Netbook - Hd - 1366 X 768 - Intel N100 Quad-core
 HP Pavilion 15.6"  Touchscreen Intel core i7 64GB RAM  Backlit Keyboard Wi-Fi 6 Bluetooth 5.3 Windows 11

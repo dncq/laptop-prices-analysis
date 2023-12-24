@@ -73,9 +73,8 @@ ASUS - Vivobook 14" Laptop - Intel Core 11th Gen i3 with 8GB Memory - 128GB SSD 
 ASUS ZenBook Pro Duo 15 Gaming & Business Laptop (Intel i9-11900H 8-Core, 15.6" 60Hz Touch Full HD (1920x1080), NVIDIA RTX 3060, 32GB RAM, Win 11 Pro) with Microsoft 365 Personal , Hub
 Dell XPS 17 9710  Gaming & Entertainment Laptop (Intel i7-11800H 8-Core, 17.3" 60Hz Wide UXGA (1920x1200), NVIDIA RTX 3050, 64GB RAM, 8TB PCIe SSD, Win 11 Home) with Microsoft 365 Personal , Hub
 HP Pavilion 15.6" FHD Touchscreen IPS Micro-Edge Display Laptop | AMD Ryzen 7 4700U 8-Core | 16GB DDR4 | 512GB SSD | Integrated AMD Radeon Graphics| Webcam | Windows 10 Pro | 32GB Tela USB Card
-ASUS - 2-in-1 14" Chromebook - Intel Core M3-8100Y - 8GB Memory - 64GB eMMC - Silver
-Laptop Tablet
-Lenovo ThinkPad P53s, 15.6" FHD, NVIDIAÂ® QuadroÂ® P520 2GB, i7-8565U, 8GB DDR4 2400MHz (Soldered) RAM, 256GB SSD PCIe, Win 10 Pro 64
+ASUS - 2-in-1 14" Chromebook - Intel Core M3-8100Y - 8GB Memory - 64GB eMMC - Silver Laptop Tablet
+Lenovo ThinkPad P53s, 15.6" FHD, NVIDIA® Quadro® P520 2GB, i7-8565U, 8GB DDR4 2400MHz (Soldered) RAM, 256GB SSD PCIe, Win 10 Pro 64
 HP Chromebook 14 Laptop, Intel Celeron N4020, 4 GB RAM, 32 GB eMMC, 14 HD Micro-Edge Display, Chrome OS, Thin & Portable, 4K Graphics, Backlit Ash Gray Keyboard (14a-na0024nr, 2021, Mineral Silver)
 LG Gram 2022 16" WQXGA (2560 x 1600) Ultra Lightweight Laptop | Intel Evo 12th Gen Intel i7-1260P | 16GB RAM |512GB SSD | Windows11 | WiFi 6E | Windows11 | Bundle with Wireless Mouse
 HP 14" Ryzen 3 4GB/128GB Laptop-Silver (Google Classroom Compatible)

@@ -57,7 +57,7 @@ Lenovo ThinkPad T470s Windows 10 Pro LTE 4G Laptop - Intel Core i7-7600U, 8GB RA
 Lenovo ThinkPad T470s Windows 7 Pro LTE 4G Laptop - Intel Core i7-7600U, 8GB RAM, 500GB SSD, 14" IPS WQHD (2560x1440) Matte Display, Fingerprint Reader, Silver Color
 Lenovo thinkPad L14 Notebook, 14" IPS FHD Display, Intel Core i7-10510U Upto 4.9GHz, 16GB RAM, 1TB NVMe SSD, HDMI, Card Reader, Wi-Fi, Bluetooth, Windows 10 Pro
 Lenovo ThinkPad T490 Notebook, 14" FHD Display, Intel Core i5-8265U Upto 3.9GHz, 16GB RAM, 2TB NVMe SSD, HDMI, Thunderbolt, Card Reader, Wi-Fi, Bluetooth, Windows 10 Pro
-Lenovo ThinkPad P15v 15.6" 16GB 512GB SSD Coreâ„¢ i7-11800H 2.3GHz Win10P, Black
+Lenovo ThinkPad P15v 15.6" 16GB 512GB SSD Core™ i7-11800H 2.3GHz Win10P, Black
 Lenovo ThinkPad P14s Gen 2 21A0003QUS 14" Touchscreen Mobile Workstation - Full HD - 1920 x 1080 - AMD Ryzen 7 PRO 5850U Octa-core (8 Core) 1.90 GHz - 32 GB RAM - 512 GB SSD - Black (21A0003QUS)
 Lenovo ThinkBook 14 G3 ACL 21A2009DUS 14" Notebook - Full HD - 1920 x 1080 - AMD Ryzen 7 5700U Octa-core (8 Core) 1.80 GHz - 24 GB RAM - 512 GB SSD - Mineral Gray (21A2009DUS)
 Lenovo ThinkPad P14s Gen 1 20Y1S09300 14" Touchscreen Mobile Workstation - Full HD - 1920 x 1080 - AMD Ryzen 7 PRO 4750U Octa-core (8 Core) 1.70 GHz - 16 GB Total RAM - 512 GB SSD - Glossy Black
@@ -72,8 +72,7 @@ Lenovo V14 G2 ALC 82KC004SUS 14" Notebook - Full HD - 1920 x 1080 - AMD Ryzen 5 
 Lenovo ThinkPad T14 20UD000HUS 14" Laptop R5 PRO 4650U 8GB 256GB SSD W10P
 NEW HP ZBook Power G9 Workstation 16" LCD i7-12800HX 16GB 512GB Nvidia RTX A1000
 ASUS 15.6" FHD Laptop, Intel Celeron N4020, 4GB RAM, 128GB eMMC, Windows 11 Home, Black, L510MA-WS05 Notebook
-Acer - Predator Helios Neo 16" WUXGA 165Hz IPS Gaming Laptop - Intel i5-13500HX  GeForce RTX 4050 with 16GB DDR5 512GB SSD - Steel Gray
-Notebook PC
+Acer - Predator Helios Neo 16" WUXGA 165Hz IPS Gaming Laptop - Intel i5-13500HX  GeForce RTX 4050 with 16GB DDR5 512GB SSD - Steel Gray Notebook PC
 Lenovo ThinkPad T14s 20UH000EUS 14" Laptop R7-4750U Pro 16GB 512GB SSD W10P
 Lenovo ThinkPad T490s 20NX0031US 14 Notebook - 1920 x 1080 - Core i7 i7-8665U - 16 GB RAM - 512 GB SSD - Black - Windows 10 Pro 64-bit - Intel UHD Graphics 620 (Renewed) (20N3-S48)
 [2023] HIDevolution ASUS ROG Zephyrus G14 GA402NU 14" WQXGA 165Hz, 3.2 GHz Ryzen 7 7735HS, RTX 4050, 16 GB DDR5 RAM, 512 GB PCIe SSD, Windows 11 Home

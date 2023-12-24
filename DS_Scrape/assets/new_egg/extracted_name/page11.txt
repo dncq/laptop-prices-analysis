@@ -57,8 +57,7 @@ Lenovo ThinkPad X1 Carbon 20U9 14" Laptop i7-10610U 16GB 1TB SSD W10P 20U9005KUS
 MSI GL Series - 15.6" 144 Hz IPS - Intel Core i7 11th Gen 11800H (2.40GHz) - NVIDIA GeForce RTX 3050 - 16 GB DDR4 - 1 TB NVMe SSD - Windows 11 Home 64-bit - Gaming Laptop (Pulse GL66 11UCK-1249)
 Lenovo ThinkPad T14 Gen 2 14" 16GB 512GB SSD AMD Ryzen 5 PRO 5650U 2.10GHz Win10P, Black
 MSI Raider GE78 HX 13VH-080US Gaming Laptop Intel Core i9-13980HX 2.20 GHz 17.0" Windows 11 Pro 64-bit
-Lenovo IdeaPad 5 15.6" Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p
-81YK006XUS Notebook 12GB RAM 512GB SSD
+Lenovo IdeaPad 5 15.6" Touchscreen Laptop - 10th Gen Intel Core i7-1065G7 - 1080p 81YK006XUS Notebook 12GB RAM 512GB SSD
 AMD Ryzen 7 5700U Processor,16GB DDR4,1TB SSD,Dell Inspiron 3525 15.6" Full HD 1920 x 1080 Laptop,  AMD Radeon Graphics, Wifi-AC, Bluetooth, HDMI, Windows 11 Pro
 Lenovo 300e Chromebook Gen 3 AMD Laptop, 11.6" IPS  LED , 3015Ce, AMD Radeon, 4GB, 32GB
 New ASUS TUF 15.6 FHD Laptop | Intel Core i7-10870H Processor | 32GB RAM | 1TB SSD | NVIDIA GeForce GTX 1660Ti | RGB Backlit Keyboard | Windows 10 Home
@@ -92,6 +91,6 @@ Lenovo ThinkPad T14 Gen 4 21K30004US 14" Notebook - WUXGA - 1920 x 1200 - AMD Ry
 HP ProBook 450 G10 15.6" Notebook - Full HD - 1920 x 1080 - Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz - 16 GB Total RAM - 512 GB SSD - Pike Silver Plastic - Intel Chip - Window
 Lenovo Flex 5 Laptop 14" FHD Touchscreen Laptop AMD Ryzen 5 5500U 16GB RAM 512GB SSD Graphite Grey - AMD Ryzen 5 5500U - 16GB RAM - 512GB SSD - AMD Radeon Graphics - Windows 11 Home
 Lenovo ThinkBook 14 G4 IAP 21DH0010US 14" Touchscreen Notebook - Full HD - 1920 x 1080 - Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz - 16 GB Total RAM - 8 GB On-board Memory - 25
-Lenovo ThinkPad X13 Yoga Gen 4 Intel Laptop, 13.3" IPS  LED , vProÂ®,   Iris Xe Graphics, 16GB, 512GB
+Lenovo ThinkPad X13 Yoga Gen 4 Intel Laptop, 13.3" IPS  LED , vPro®,   Iris Xe Graphics, 16GB, 512GB
 Dell Latitude 3000 3330 13.3" Touchscreen Convertible 2 in 1 Notebook - Full HD - 1920 x 1080 - Intel Core i5 11th Gen i5-1155G7 Quad-core (4 Core) 2.50 GHz - 8 GB Total RAM - 8 GB On-board Memor
 MSI Thin GF63 12VE-033CA Gaming Laptop Intel Core i7-12650H (2.30GHz) 15.6" Windows 11 Home 64-bit

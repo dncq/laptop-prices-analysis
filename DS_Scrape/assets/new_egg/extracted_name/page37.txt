@@ -1,6 +1,6 @@
 HP ProBook 450 G9 Business Laptop, 15.6" FHD (1920 x 1080) Non-Touch, 12th Gen Intel Core i5-1235U, 16GB RAM, 256GB SSD, Windows 11 Pro
 HP Spectre 16-f2013dx Home & Business 2-in-1 Laptop (Intel i7-13700H 14-Core, 16.0" 60Hz Touch 3K+ (3072x1920), Intel Iris Xe, 16GB RAM, 512GB SSD, Backlit KB, Win 11 Home) with G5 Essential Dock
-Lenovo ThinkPad T14s Gen 2 Intel Laptop, 14.0"" FHD IPS  LED Backlight, vProÂ®,   Iris Xe Graphics, 16GB, 512GB, Win 11 Pro, Three YR Premier Warranty
+Lenovo ThinkPad T14s Gen 2 Intel Laptop, 14.0"" FHD IPS  LED Backlight, vPro®,   Iris Xe Graphics, 16GB, 512GB, Win 11 Pro, Three YR Premier Warranty
 Lenovo ThinkPad P16s Gen 1 Home & Business Laptop (AMD Ryzen 7 PRO 6850U 8-Core, 16.0" 60Hz Wide UXGA (1920x1200), AMD Radeon PRO, 32GB LPDDR5 6400MHz RAM, Win 11 Pro) with DV4K Dock
 ASUS 2023 Vivobook 14 Laptop, 14 FHD (1920 x 1080) Display, Intel Core i5-1235U CPU, Intel Iris X Graphics, 8GB RAM, 256GB SSD, Windows 11 Home, Quiet Blue, F1404ZA-AS51
 New ASUS VivoBook 15.6" FHD LED Touchscreen Laptop | Intel Core i5-1035G | Intel UHD Graphics | 8GB RAM | 256GB SSD | Sonic Master Audio | HD webcam | Fingerprint Reader | Windows 10
@@ -75,10 +75,8 @@ ASUS Chromebook C423NA-WB04 Laptop Notebook 14" HD Nano-Edge Display, Intel Proc
 ASUS ROG Zephyrus Duo 16 GX650 GX Gaming & Entertainment Laptop (AMD Ryzen 9 7945HX 16-Core, 16.0" 240Hz Wide QXGA (2560x1600), GeForce RTX 4080, 32GB DDR5 4800MHz RAM, Win 11 Pro) with DV4K Dock
 Acer Chromebook 511 C741L C741L-S85Q 11.6" Chromebook - HD - 1366 x 768 - Qualcomm Kryo 468 Octa-core (8 Core) 2.40 GHz - 4 GB RAM - 32 GB Flash Memory - Qualcomm SC7180 Chip - Chrome OS - Qualco
 Acer Aspire 5 A515-57 Home & Business Laptop (Intel i7-1255U 10-Core, 15.6" 60 Hz Full HD (1920x1080), Intel Iris Xe, 16GB RAM, 2x512GB PCIe SSD (1TB), Backlit KB, Wifi, Win 10 Pro) with DV4K Dock
-HP - 17.3" Laptop - Intel Core i5 - 8GB Memory - 256GB SSD - Natural Silver
-Notebook PC Computer 17-by4633dx
-HP 17.3" Laptop - 11th Gen Intel Core i5-1135G7 - 1080p
-Notebook PC Computer 12GB Memory 1TB Hard Drive
+HP - 17.3" Laptop - Intel Core i5 - 8GB Memory - 256GB SSD - Natural Silver Notebook PC Computer 17-by4633dx
+HP 17.3" Laptop - 11th Gen Intel Core i5-1135G7 - 1080p Notebook PC Computer 12GB Memory 1TB Hard Drive
 ASUS ZenBook Pro 15 Home & Business Laptop (AMD Ryzen 9 5900HX 8-Core, 15.6" 60 Hz Touch Full HD (1920x1080), GeForce RTX 3050 Ti, 16GB RAM, 1TB SSD, Backlit KB, Wifi, Win 11 Pro) with DV4K Dock
 HP 17.3 inch Laptop - Intel i3-1215U - 12GB/512GB SSD - Natural Silver
 Acer Predator Triton 500 SE  Gaming & Entertainment Laptop (Intel i7-11800H 8-Core, 16GB RAM, 512GB SSD, 16" Wide QXGA (2560x1600), NVIDIA GeForce RTX 3060, Wifi, Bluetooth, Webcam, Win 10 Home)

@@ -12,7 +12,7 @@ Lenovo Lenovo Yoga 7 Home & Business 2-in-1 Laptop (Intel i5-1240P 12-Core, 16.0
 HP 14" Touchscreen Laptop - AMD Ryzen 7 5700U - Windows 11 - Blue
 Dell Inspiron 3511 15.6" Full HD 1920 x 1080,11th Gen Intel Core i3-1115G4 Dual Core Processor, 16GB DDR4 RAM, 256GB SSD, Intel UHD Graphics, Wifi-AC, Bluetooth,HDMI,USB, Windows 11 Pro
 ASUS Zenbook 14X Home & Business Laptop (Intel i7-13700H 14-Core, 16GB LPDDR5 4800MHz RAM, 4TB PCIe SSD, Intel Iris Xe, 14.5'', 120 Hz Touch 2.8K (2880x1800), Wifi, Bluetooth, Win 11 Home)
-MSI GE76 Raider Premium Gaming Laptop 17.3‚Äù FHD IPS 144Hz 11th Gen Intel 8-Core i7-11800H 64GB DDR4 1TB SSD GeForce RTX 3060 6GB Backlit KB Thunderbolt USB-C MiniDP 2.5Gb Ethernet Win10 Grey
+MSI GE76 Raider Premium Gaming Laptop 17.3î FHD IPS 144Hz 11th Gen Intel 8-Core i7-11800H 64GB DDR4 1TB SSD GeForce RTX 3060 6GB Backlit KB Thunderbolt USB-C MiniDP 2.5Gb Ethernet Win10 Grey
 Dell Inspiron 16 5620 16.0" FHD+ (1920 x 1200) Touch Laptop,Intel Core i7-1255U,NVIDIA GeForce MX570,16 GB RAM 512 GB SSD, WiFi 6 and Bluetooth 5.2,Windows 11 Pro, Platinum Silver
 Lenovo Flex 5i 82HS000WUS 2-in-1 Laptop Tablet Notebook 12GB RAM 512GB SSD Intel Core i7-1165G7
 HP Portable Laptop, Student and Business, 14" HD Display, Intel Celeron N4120, 4GB RAM, 64GB eMMC, 1 Year Office 365, Webcam, HDMI, Wi-Fi, Windows 11 Home, Grayish Blue
@@ -26,11 +26,11 @@ HP - ENVY 17.3" Touch-Screen Laptop - Intel Core i7 - 12GB Memory - 512GB SSD + 
 HP ProBook Laptop Computer 14" FHD Intel Core i5 16 GB memory; 256 GB SSD
 MSI GF Series GF63 THIN 9SC 15.6" 60 Hz IPS Intel Core i5 9th Gen 9300H (2.40 GHz) GeForce GTX 1650 Max-Q 8 GB Memory 512 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop
 HP 17.3" Non-Touch Laptop - Intel Core i3-1115G4, 8GB Memory, 1TB HDD, Intel UHD Graphics, Bluetooth, Webcam, Windows 10, Natural Silver -17-CN0013DX
-Lenovo ThinkPad P1 Gen 6 Intel Laptop, 16" IPS  LED , vPro¬Æ,  GeForce RTX 4090 Laptop GPU 16GB GDDR6, 32GB, 1TB, One YR Onsite Warranty
+Lenovo ThinkPad P1 Gen 6 Intel Laptop, 16" IPS  LED , vProÆ,  GeForce RTX 4090 Laptop GPU 16GB GDDR6, 32GB, 1TB, One YR Onsite Warranty
 ASUS ZenBook S UX393 Home & Business Laptop (Intel i7-1165G7 4-Core, 13.9" 60Hz Touch 3300x2200, Intel Iris Xe, 16GB RAM, 1TB SSD, Win 11 Pro) with Microsoft 365 Personal , Dockztorm Hub
 ASUS Zenbook 14X Home & Business Laptop (Intel i7-13700H 14-Core, 16GB LPDDR5 4800MHz RAM, 4TB PCIe SSD, Intel Iris Xe, 14.5'', 120 Hz Touch 2.8K (2880x1800), Wifi, Bluetooth, Win 11 Pro)
 Samsung Galaxy Book2 Business NP641BED-XA1US 14" Notebook - Intel Core i7 12th Gen i7-1260P - 16 GB Total RAM - 512 GB SSD - Graphite - Intel Chip
-Lenovo ThinkPad P16 Gen 2 Intel Laptop, 16"  Low Blue Light, vPro¬Æ, NVIDIA RTX 5000 Ada Generation Laptop GPU 16GB GDDR6, 128GB, 4TB
+Lenovo ThinkPad P16 Gen 2 Intel Laptop, 16"  Low Blue Light, vProÆ, NVIDIA RTX 5000 Ada Generation Laptop GPU 16GB GDDR6, 128GB, 4TB
 ASUS VivoBook 15 F513 15.6" Laptop Intel 11th Gen i5-1135G7 16GB 256GB SSD F513EA-OS56 Notebook
 HP 14.0"(1920 x 1080) FHD Laptop,AMD Ryzen 3-3250 (up to 3.50GHz),AMD Radeon Graphics,16 GB RAM,512 GB SSD, Wi-Fi 5 and Bluetooth 5, Windows 11 Pro,Silver
 ASUS ZenBook S UX393 Home & Business Laptop (Intel i7-1165G7 4-Core, 13.9" 60Hz Touch 3300x2200, Intel Iris Xe, 16GB RAM, 1TB PCIe SSD, Win 10 Pro) with Microsoft 365 Personal , Dockztorm Hub
@@ -44,7 +44,7 @@ HP 14.0"(1920 x 1080) FHD Laptop,AMD Ryzen 3-3250 (up to 3.50GHz),AMD Radeon Gra
 Acer Nitro 5 AN515-58-525P Gaming Laptop | Intel Core i5-12500H | NVIDIA GeForce RTX 3050 Laptop GPU | 15.6" FHD 144Hz IPS Display | 8GB DDR4 | 512GB PCIe Gen 4 SSD | Killer Wi-Fi 6 | Backlit Keyboard
 Lenovo Flex 7i 14.0" Touchscreen 2.2K IPS 2-in-1 Laptop (Intel i7-1255U 10-Core, Intel Iris Xe, 16GB RAM, 1TB PCIe SSD, Backlit KYB, FP, Thunderbolt 4, WiFi 6E, BT 5.2, Win11Home)
 Lenovo IdeaPad 3 Home & Business Laptop (Intel i3-1115G4 2-Core, 15.6" 60Hz Touch HD (1366x768), Intel UHD, 8GB RAM, 256GB SSD, Wifi, HDMI, Win 11 Home S-Mode) with Microsoft 365 Personal , Hub
-Lenovo ThinkPad P1 Gen 6 Intel Laptop, 16", vPro¬Æ,  RTX 4000 Ada Generation Laptop GPU 12GB GDDR6, 32GB, 1TB, One YR Onsite Warranty
+Lenovo ThinkPad P1 Gen 6 Intel Laptop, 16", vProÆ,  RTX 4000 Ada Generation Laptop GPU 12GB GDDR6, 32GB, 1TB, One YR Onsite Warranty
 Lenovo ThinkPad X13 Gen 2 Home & Business Laptop (Intel i5-1135G7 4-Core, 13.3" 60 Hz Touch Wide UXGA (1920x1200), Intel Iris Xe, 16GB RAM, Win 11 Pro) with Microsoft 365 Personal , Dockztorm Hub
 ASUS ZenBook S UX393 Home & Business Laptop (Intel i7-1165G7 4-Core, 13.9" 60Hz Touch 3300x2200, Intel Iris Xe, 16GB RAM, 1TB PCIe SSD, Backlit KB, Wifi, Win 10 Pro) with G5 Essential Dock
 Microsoft Surface Laptop 4 13.5" Touchscreen Notebook - 2256 x 1504 - Intel Core i5 11th Gen i5-1135G7 Quad-core (4 Core) 2.40 GHz - 8 GB Total RAM - 512 GB SSD - Ice Blue - Intel Chip - Windows
@@ -63,7 +63,7 @@ Lenovo ThinkPad X13 Gen 2 Home & Business Laptop (Intel i5-1135G7 4-Core, 13.3" 
 Lenovo Yoga 7 82QG00 Home & Business 2-in-1 Laptop (Intel i5-1240P 12-Core, 16.0" 60Hz Touch Wide QXGA (2560x1600), Intel Iris Xe, 8GB LPDDR5 4800MHz RAM, 256GB SSD, Backlit KB, Wifi, Win 11 Home)
 Lenovo IdeaPad 3i Home & Business Laptop (Intel i5-1155G7 4-Core, 15.6" 60 Hz Touch Full HD (1920x1080), Intel Iris Xe, 8GB RAM, Win 11 Home S-Mode) with Microsoft 365 Personal , Dockztorm Hub
 Asus Aspire Vero 15 inch Laptop - WIndows 11 - Intel i7 - 16/512 GB SSD - Cypress Green
-Lenovo ThinkPad P1 Gen 6 Intel Laptop, 16", vPro¬Æ,  RTX 4000 Ada Generation Laptop GPU 12GB GDDR6, 64GB, 2TB, One YR Onsite Warranty
+Lenovo ThinkPad P1 Gen 6 Intel Laptop, 16", vProÆ,  RTX 4000 Ada Generation Laptop GPU 12GB GDDR6, 64GB, 2TB, One YR Onsite Warranty
 Lenovo ThinkPad P14s Gen 3 21AK0029US 14" Touchscreen Mobile Workstation - 3840 x 2400 - Intel Core i7 12th Gen i7-1280P 1.80 GHz - 32 GB Total RAM - 1 TB SSD - Black - Windows 11 Pro - NVIDIA T5
 2022
 Lenovo IdeaPad 5 15 Home & Business Laptop (Intel i7-1255U 10-Core, 15.6" 60Hz Touch Full HD (1920x1080), Intel Iris Xe, 12GB RAM, Win 11 Pro) with Microsoft 365 Personal , Dockztorm Hub
@@ -89,8 +89,7 @@ Lenovo ThinkPad E14 G4 Home & Business Laptop (Intel i7-1255U 10-Core, 14.0" 60H
 HP Laptop ProBook 440 G8 Intel Core i5 11th Gen 1135G7 (2.40GHz) 8GB Memory 256 GB PCIe NVMe SSD Intel Iris Xe Graphics 14.0" Windows 10 Pro 64-bit 28K85UT#ABA
 ASUS ROG Zephyrus M16 Gaming Laptop (Intel i7-12700H 14-Core, 16.0" 165Hz Wide UXGA (1920x1200), NVIDIA GeForce RTX 3060, 16GB DDR5 4800MHz RAM, 512GB SSD, Backlit KB, Wifi, USB 3.2, Win 11 Home)
 Lenovo ThinkPad E14 G4 Home & Business Laptop (Intel i7-1255U 10-Core, 14.0" 60Hz Full HD (1920x1080), Intel Iris Xe, 16GB RAM, 512GB SSD, Wifi, USB 3.2, HDMI, Webcam, Bluetooth, Win 10 Pro)
-HP - 17.3" Laptop - Intel Core i3 - 8GB Memory - 256GB SSD - Natural Silver
-Notebook 17-by4013dx
+HP - 17.3" Laptop - Intel Core i3 - 8GB Memory - 256GB SSD - Natural Silver Notebook 17-by4013dx
 Lenovo ThinkPad E15 Gen 4 Home & Business Laptop (Intel i7-1255U 10-Core, 15.6" 60Hz Full HD (1920x1080), Intel Iris Xe, 8GB RAM, 512GB SSD, Wifi, USB 3.2, HDMI, Webcam, Bluetooth, Win 11 Pro)
 Microsoft Surface Laptop 4 13.5" Touchscreen Notebook Computer, Intel Core i5-1135G7 2.4GHz, 16GB RAM, 512GB SSD, Windows 11 Home, Ice Blue
 Lenovo ThinkBook 15 G4 Home & Business Laptop (Intel i7-1255U 10-Core, 15.6" 60 Hz Touch Full HD (1920x1080), Intel Iris Xe, 16GB RAM, 512GB SSD, Backlit KB, Wifi, Win 11 Pro) with DV4K Dock

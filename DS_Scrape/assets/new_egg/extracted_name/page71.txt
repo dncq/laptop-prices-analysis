@@ -62,7 +62,7 @@ HP ZBook Firefly  Notebook 15 G8 15.6" FHD Mobile WS Intel Core i5-1145G7 4 Core
 Lenovo Flex 3 11.6" HD Touchscreen 2-in-1 Chromebook Laptop, MediaTek MT8173C Quad-Core CPU, 4GB RAM, 32GB eMMC, Chrome OS,Gray
 Lenovo Chromebook 2-in-1 Laptop Quad-Core Processor, 4GB RAM, 32GB eMMC, Google Chrome OS,
 Lenovo ThinkPad T14s Gen 2 14" Touch 16GB 512GB SSD Core i5-1135G7 2.40GHz Win10P, Black
-ASUS VivoBook 15 Thin and Light Laptop, 15.6‚Äù FHD Display, Intel i3-1005G1 CPU, 8GB RAM, 128GB SSD, Backlit Keyboard, Fingerprint, Windows 10 Home in S Mode, Slate Gray (F512JA-AS34)
+ASUS VivoBook 15 Thin and Light Laptop, 15.6î FHD Display, Intel i3-1005G1 CPU, 8GB RAM, 128GB SSD, Backlit Keyboard, Fingerprint, Windows 10 Home in S Mode, Slate Gray (F512JA-AS34)
 HP 14" Laptop - 10th Gen Intel Core i3-1005G1 Processor 1.2GHz 4GB DDR4 2666 SDRAM 128GB SSD 14-dq1033cl (14-dq1033cl)
 HP 15-dw Laptop Intel Core i3-1115G4 8GB 256GB SSD 15.6 Full HD WLED Win 10
 2022 HP 15.6 FHD IPS Laptop Computer, 11th Gen Intel Core i3 1115G4 Processor, 16GB DDR4 RAM, 1TB Natural silver 16GB RAM | 1TB SSD
@@ -79,7 +79,7 @@ HP Pavilion x360 2-in-1, 14" IPS FHD Touch Display, Intel Core i5-1235U Upto 4.4
 HP Pavilion x360 2-in-1, 14" IPS FHD Touch Display, Intel Core i5-1135G7 Upto 4.1GHz, 32GB RAM, 1TB NVMe SSD, HDMI, Card Reader, Wi-Fi, Bluetooth, Windows 11 Home
 HP Pavilion x360 2-in-1, 14" IPS FHD Touch Display, Intel Core i5-1135G7 Upto 4.1GHz, 8GB RAM, 1TB NVMe SSD, HDMI, Card Reader, Wi-Fi, Bluetooth, Windows 11 Home
 HP Pavilion x360 2-in-1, 14" IPS FHD Touch Display, Intel Core i5-1135G7 Upto 4.1GHz, 16GB RAM, 512GB NVMe SSD, HDMI, Card Reader, Wi-Fi, Bluetooth, Windows 11 Home
-Lenovo Flagship ThinkBook 13s Gen 2 Business Laptop 13.3?‚Ç¨? WQXGA IPS (300 nits 100% sRGB) 11th Gen Intel Quad-Core i7-1165G7 16GB RAM 2TB SSD Fingerprint Backlit USB-C WiFi6 Win10 Pro + HDMI Cable
+Lenovo Flagship ThinkBook 13s Gen 2 Business Laptop 13.3?Ä? WQXGA IPS (300 nits 100% sRGB) 11th Gen Intel Quad-Core i7-1165G7 16GB RAM 2TB SSD Fingerprint Backlit USB-C WiFi6 Win10 Pro + HDMI Cable
 Lenovo ThinkBook 13s Gen 2 Premium Laptop I 13.3 inch WQXGA IPS 100% sRGB I 11th Gen Intel 4-Core i7-1165G7 I 16GB DDR4 2TB SSD I Backlit Fingerprint USB-C HDMI Win10Pro + 32GB Micro SD Card
 MSI Modern 15A Thin and Light Daily Laptop: 15.6" FHD 1080p, Intel Core i7-1195G7, Intel Iris Xe, 8GB, 1TB SSD, Win10, Carbon Gray (A11MU-652) (Modern15A652)
 Lenovo Flex 5 14" Full HD 2-in-1 Touchscreen Laptop, AMD Ryzen 7 5700U, 16GB RAM, 512GB SSD, Windows 11 Home
@@ -92,6 +92,5 @@ HP Stream Laptop PC 11.6" Intel N4000 Quad Core 4GB DDR4 SDRAM 32GB eMMC Include
 2018 HP 15.6" Touch Screen, 8th Gen Intel Core i7-8550U, 8GB Memory, 256GB Solid State Drive, Windows 10 Home (2UE55UA)
 HP Newest 14" Touchscreen Laptop, Intel Dual-Core N4020, 8GB RAM, 128GB Storage(64GB eMMC+64GB Micro SD), Webcam, 1Yr Office w/ Accessories(Rose Gold)
 2022 Newest HP 17 Laptop, 17.3" FHD IPS Display, Intel Core i5-1135G7 Quad-Core Processor, Intel Iris Xe Graphics, 16GB RAM, 1TB PCIe SSD, HDMI, Windows 11 + Microfiber Cloth
-Lenovo Yoga C940-14 FHD(1920x1080) IPS Touch, 360¬∞ 2-in-1 Design, Fingerprint Reader, Intel 10th gen i7-1065G7 up to 1.3 GHz, 4 Cores, 8GB DDR4 RAM, 512GB SSD, Win 10, Gray, EAT Pen
-Lenovo Flex 5 14" 2-in-1 Touchscreen Laptop - AMD Ryzen 7 4700U - 1080p
-81X20001US Notebook 16GB RAM 512GB SSD Tablet
+Lenovo Yoga C940-14 FHD(1920x1080) IPS Touch, 360∞ 2-in-1 Design, Fingerprint Reader, Intel 10th gen i7-1065G7 up to 1.3 GHz, 4 Cores, 8GB DDR4 RAM, 512GB SSD, Win 10, Gray, EAT Pen
+Lenovo Flex 5 14" 2-in-1 Touchscreen Laptop - AMD Ryzen 7 4700U - 1080p 81X20001US Notebook 16GB RAM 512GB SSD Tablet

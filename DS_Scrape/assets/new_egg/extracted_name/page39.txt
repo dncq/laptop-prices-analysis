@@ -1,5 +1,5 @@
 Dell Latitude 3540 Business Laptop 15.6" IPS FHD (1920x1080) (13th Gen Intel Core i5-1335U 10-Core, 8GB RAM, 256GB PCIe SSD, Intel UHD, Backlit KB, WiFi 6E, Bluetooth 5.3, FHD Webcam, Win 10 Pro)
-New HP 17.3" diagonal FHD (1920 x 1080) display laptop/IntelÂ® Coreâ„¢ i3-1115G4 processor/8G RAM/256GBSSD/Intel UHD Graphics/Silver/Windows 11 Home OS
+New HP 17.3" diagonal FHD (1920 x 1080) display laptop/Intel® Core™ i3-1115G4 processor/8G RAM/256GBSSD/Intel UHD Graphics/Silver/Windows 11 Home OS
 New HP Business Laptop 15.6" Touchscreen Intel UHD Graphics Intel Core i3-1115G4 8GB RAM 256GB SSD HDMI WiFi 5.0 Windows 11 Pro Silver
 New HP 15.6" HD Laptop | 10th Generation Intel Core i3-1005G1 Processor | Intel UHD Graphics | 8GB RAM | 256GB SSD | Windows 10 Home in S mode
 Acer Swift 3 SF313 Laptop (Intel i5-1035G4 4-Core, 13.5" 2256x1504, 8GB RAM, 512GB m.2 SATA SSD, Intel Iris Plus, Webcam, Wifi, Bluetooth, Backlit KB, Win 11 Pro) with Microsoft 365 Personal , Hub
@@ -19,7 +19,7 @@ ASUS VivoBook S15 S532 Notebook, 15.6" FHD Display, Intel Core i7-8565U Upto 4.6
 Lenovo ThinkPad X1 Carbon 11th Gen Business Laptop, 14.0" WUXGA (1920 x 1200) Touchscreen, 13th Gen Intel Core i7-1365U, 32GB Ram, 1TB SSD, Windows 11 Pro
 Lenovo Ideapad 1 14 14.0" Laptop, 14.0" Hd (1366 X 768) Display, Intel Celeron N4020 Processor, 4Gb Ddr4 Ram, 64 Gb Ssd Storage, Intel Uhd Graphics 600, Win 10 In S Mode, 81Vu0079us, Ice Blue
 2022 Lenovo Ideapad 3i 15.6" HD Touchscreen Premium Laptop, 11th Gen Intel Dual-Core i3-1115G4 upto 4.1GHz, 8GB RAM, 256GB PCIe SSD, Intel UHD Graphics, Windows 11 Home (S mode), Gray
-New Lenovo IdeaPad 3i 15.6â€œ FHD Anti-Glare Energy-efficient LED Laptop | Intel Core i3-1115G4 Processor | 8GB RAM | 256GB SSD | Intel UHD Graphics | Gray | Windows 11 in S Mode | Bundle with Mouse Pad
+New Lenovo IdeaPad 3i 15.6“ FHD Anti-Glare Energy-efficient LED Laptop | Intel Core i3-1115G4 Processor | 8GB RAM | 256GB SSD | Intel UHD Graphics | Gray | Windows 11 in S Mode | Bundle with Mouse Pad
 Lenovo ThinkPad X1 Carbon 11th Gen Business Laptop, 14.0" WUXGA (1920 x 1200) Non-Touch, 13th Gen Intel Core i7-1355U, 16GB Ram, 256GB SSD, Windows 11 Pro
 Lenovo Ideapad 3i Touch Laptop, 15.6" FHD Display, 11th Gen Intel 4-Core i5-1135G7, Intel Iris Xe Graphics, 20GB RAM, 1TB PCIe SSD, Webcam, KeyPad, WiFi 6, USB-C, Win 11 Pro, Arctic Grey
 Lenovo Ideapad 3 15 Laptop, 15.6" FHD (1920x1080) Touchscreen, Intel Core i5-1135G7 4 cores, Intel UHD Graphics, 16GB DDR4  1TB PCIe SSD, Wi-Fi with Bluetooth 5.0, Windows 11
@@ -46,8 +46,7 @@ Lenovo IdeaPad 3 15 Laptop, 15.6" FHD Touchscreen, Intel Core i5-1135G7 4 Cores 
 ASUS VivoBook 15 Laptop, 15.6" FHD Touch Display, Intel Core i3-1005G1 Upto 3.4GHz, 4GB RAM, 128GB NVMe SSD, HDMI, Card Reader, Wi-Fi, Bluetooth, Windows 10 Home S (R564JA-UH31T)
 Lenovo IdeaPad Gaming 3 Gaming Laptop, 15.6" FHD IPS 120Hz, AMD Ryzen 7-7735HS Up to 4.75 Ghz, GeForce RTX 4050, 32GB DDR5, 2TB PCIe SSD, Backlit, WIFI 6, USB-C, RJ45, Win 11 Pro
 HP 17.3" FHD, Intel Iris Xe Graphics, Intel Core i5-1135G7, 16GB RAM, 512GB SSD, Natural Silver, Windows 11 Pro,
-HP ENVY 17.3" Touchscreen Laptop - 13th Gen Intel Core i7-1355U - GeForce RTX 3050 - 1080p - Windows 11
- 32GB RAM Notebook PC
+HP ENVY 17.3" Touchscreen Laptop - 13th Gen Intel Core i7-1355U - GeForce RTX 3050 - 1080p - Windows 11  32GB RAM Notebook PC
 HP 17t-cn000 Home & Business Laptop (Intel i7-1165G7 4-Core, 17.3" 60Hz HD+ (1600x900), Intel Iris Xe, 8GB RAM, 2TB  SATA SSD, Wifi, USB 3.2, HDMI, Webcam, Bluetooth, Win 11 Home) with DV4K Dock
 Lenovo IdeaPad 3 15.6" Full HD IPS Notebook, 10th Gen Intel Core i3-1005G1 Processor, 8GB DDR4 RAM, 512GB SSD, Intel UHD Graphics, WiFi-AC, Bluetooth, HDMI, USB, Windows 10 Pro
 Lenovo Ideapad 3 15 laptop, 11th Gen Intel Core i3-1115G4 2-Cores Processor, Intel UHD Graphics, 8GB DDR4  1TB PCIe SSD,15.6" HD Touchscreen, WiFi, Bluetooth, HDMI, Webcam, Windows 10 Pro

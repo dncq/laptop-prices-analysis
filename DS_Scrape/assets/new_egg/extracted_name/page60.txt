@@ -72,7 +72,7 @@ Lenovo - 2022 - IdeaPad 3i - Everyday Laptop Computer - Intel Core i5 12th Gen -
 IdeaPad Gaming 3i 15" Laptop - Intel Core i5-11300H - NVIDIA GeForce GTX 1650 - 8GB Memory - 512GB SSD - Shadow Black
 Lenovo THINKPAD E14 GEN 2,Intel CORE I5-1135G7 (2.40GHZ,8MB),14.0 1920X1080 Non-Touch,W (20TA004QUS)
 Lenovo ThinkPad L14 Gen2 20X100GEUS 14" Notebook - Full HD - 1920 x 1080 - Intel Core i7 11th Gen i7-1165G7 Quad-core (4 Core) 2.80 GHz - 16 GB RAM - 512 GB SSD - Black - Windows 10 Pro - In-plan
-MSI GE76 Raider Premium Gaming Laptop 17.3‚Äù FHD IPS 144Hz 11th Gen Intel 8-Core i7-11800H 16GB DDR4 1TB SSD GeForce RTX 3060 6GB Backlit KB Thunderbolt USB-C MiniDP 2.5Gb Ethernet Win10 Grey
+MSI GE76 Raider Premium Gaming Laptop 17.3î FHD IPS 144Hz 11th Gen Intel 8-Core i7-11800H 16GB DDR4 1TB SSD GeForce RTX 3060 6GB Backlit KB Thunderbolt USB-C MiniDP 2.5Gb Ethernet Win10 Grey
 Lenovo IdeaPad 3 Laptop, 15.6" FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB Storage, AMD Radeon 7 Graphics, Windows 11 Home, Abyss Blue (82KU0100US)
 Lenovo Yoga 13 Ultrabook - Windows 8.1 Pro - Intel Core i7-3517U, 8GB RAM, 128GB SSD, 13.3" Multi-Touch HD+ IPS Display (1600x900), Silver Grey
 Lenovo ThinkBook 13s Notebook, 13.3" FHD Display, Intel Core i7-8565U Upto 4.6GHz, 8GB RAM, 1TB NVMe SSD, HDMI, Wi-Fi, Bluetooth, Windows 10 Pro
@@ -80,7 +80,7 @@ Lenovo ThinkBook 13s Notebook, 13.3" FHD Display, Intel Core i7-8565U Upto 4.6GH
 Lenovo ThinkBook 13s Notebook, 13.3" FHD Display, Intel Core i7-8565U Upto 4.6GHz, 16GB RAM, 128GB NVMe SSD, HDMI, Wi-Fi, Bluetooth, Windows 10 Pro
 Lenovo ThinkBook 13s Notebook, 13.3" FHD Display, Intel Core i7-8565U Upto 4.6GHz, 16GB RAM, 1TB NVMe SSD, HDMI, Wi-Fi, Bluetooth, Windows 10 Pro
 Lenovo ThinkBook 13s Notebook, 13.3" FHD Display, Intel Core i7-8565U Upto 4.6GHz, 8GB RAM, 128GB NVMe SSD, HDMI, Wi-Fi, Bluetooth, Windows 10 Pro
-Lenovo ThinkPad T490s Intel¬Æ Core‚Ñ¢ i7-8565U,  8 GB DDR4, 512 GB SSD, 14.0" FHD IPS Touch,  Windows 10 Pro 64
+Lenovo ThinkPad T490s IntelÆ Coreô i7-8565U,  8 GB DDR4, 512 GB SSD, 14.0" FHD IPS Touch,  Windows 10 Pro 64
 Dell Inspiron 3511 Laptop, 15.6" FHD Display, Intel Core i5-1035G1 Upto 4.2GHz, 16GB RAM, 512GB NVMe SSD, HDMI, Card Reader, Wi-Fi, Bluetooth, Windows 11 Home
 Lenovo Laptop ThinkPad X1 Carbon Gen 8 Intel Core i7 10th Gen 10610U (1.80GHz) 16GB Memory 512 GB PCIe SSD Intel UHD Graphics 14.0" Touchscreen Windows 10 Pro 64-bit 20U90030US
 Lenovo Ideapad 3 15.6" FHD Laptop | AMD Ryzen 5 5500U (Beat i7-1195G7) | 8GB RAM | 1024GB SSD | Backlit | AMD Radeon Graphics | Windows 11 Home | Bundle with 64GB USB Flash Drive

@@ -1,7 +1,7 @@
 SAMSUNG Galaxy Book Go 14" Laptop - Qualcomm Snapdragon 7c Gen 2 - 4GB Memory - 64GB eUFS - Silver NP340XLA-KA6US Notebook
 LG gram 16Z90R-Q.APB7U1 16" Notebook - Intel Core i7 - 16 GB Total RAM - 1 TB SSD - Intel Chip - Windows 11 Pro - In-plane Switching (IPS) Technology
-Lenovo ThinkPad X1 Carbon Gen 10 Intel Laptop, 14" IPS, vProÂ®,   Iris Xe Graphics, GB, 512GB
-Lenovo ThinkPad X13 Gen 4 Intel Laptop, 13.3" IPS  60Hz, vProÂ®,   Iris Xe Graphics, 16GB, 512GB
+Lenovo ThinkPad X1 Carbon Gen 10 Intel Laptop, 14" IPS, vPro®,   Iris Xe Graphics, GB, 512GB
+Lenovo ThinkPad X13 Gen 4 Intel Laptop, 13.3" IPS  60Hz, vPro®,   Iris Xe Graphics, 16GB, 512GB
 ThinkPad T14 G3, Intel Core i5-1245U vPro Windows 10 Pro 64 16 GB 512GB SSD Intel UHD Graphics
 Lenovo ThinkPad T14s Gen 4 Intel Laptop, 14" IPS, i5-1335U,   Iris Xe Graphics, 16GB, 512GB, Three YR Onsite Warranty
 Newest HP Laptop, 15.6" diagonal HD Display,  Intel Pentium Silver N5000, 16GB RAM, 1TB SSD, Intel UHD Graphics, Bluetooth 4.2, Wi-Fi, Windows 10 Home S Mode, Cefesfy
@@ -12,7 +12,7 @@ Lenovo ThinkBook 14 Gen 4 AMD Laptop, 14" FHD IPS, Ryzen 7 5825U,  AMD Radeon Gr
 Lenovo ThinkPad P16v Intel Laptop, 16" IPS  60Hz, i5-13500H,   Iris Xe Graphics, 16GB, 512GB, One YR Onsite Warranty
 HP Victus Gaming Laptop, 15.6" FHD IPS 144Hz Display, AMD Ryzen 5 7535HS(>i7-11800H), 32GB DDR5 RAM, 2TB SSD, NVIDIA GeForce RTX 2050, Wi-Fi 6, Backlit Keyboard, Numeric Keypad, Windows 11 Home
 Dell Precision 7000 7780 17.3" Mobile Workstation - Full HD - 1920 x 1080 - Intel Core i7 13th Gen i7-13850HX Icosa-core (20 Core) 2.20 GHz - 32 GB Total RAM - 512 GB SSD - Aluminum Titan Gray -
-Lenovo ThinkPad T14s Gen 4 Intel Laptop, 14" IPS  60Hz, vProÂ®,   Iris Xe Graphics, 16GB, 512GB
+Lenovo ThinkPad T14s Gen 4 Intel Laptop, 14" IPS  60Hz, vPro®,   Iris Xe Graphics, 16GB, 512GB
 LG gram 15Z90R-Q.APB4U1 15" Notebook - Full HD - 1920 x 1080 - Intel Core i5 13th Gen i5-1350P Dodeca-core (12 Core) 1.90 GHz - 16 GB Total RAM - 256 GB SSD - Obsidian Black - Intel Chip - Window
 Newest 13th Generation Dell Inspiron 15 3530 Laptop, 15.6" FHD Touchscreen, Intel Core i7-1355U, 32GB RAM, 1TB SSD, Webcam, HDMI, Wi-Fi 6, Windows 11 Home, Black
 Lenovo ThinkPad P1 Gen 5 Intel Laptop, 16" IPS  LED , i7-12700H,  RTX, 16GB, 512GB, One YR Onsite Warranty
@@ -24,19 +24,19 @@ Lenovo ThinkPad T14 Gen 4 AMD Laptop, 14" IPS, Ryzen 7 PRO 7840U,  AMD Radeon 78
 Lenovo ThinkPad P16 Gen 2 Intel Laptop, 16" IPS, i7-13700HX,  RTX A1000 Laptop GPU 6GB GDDR6, 16GB, 512GB, One YR Onsite Warranty
 HP 17-cn0023dx Home & Business Laptop (Intel i5-1135G7 4-Core, 17.3" 60Hz Full HD (1920x1080), Intel Iris Xe, 16GB RAM, 512GB PCIe SSD, Wifi, USB 3.2, HDMI, Webcam, Bluetooth, Win 11 Pro)
 Asus Chromebook Flip CM5 CM5500FDA-DN344T 15.6" Touchscreen Convertible 2 in 1 Chromebook - Full HD - 1920 x 1080 - AMD Ryzen 3 3250C Dual-core (2 Core) 2.60 GHz - 4 GB RAM - 64 GB Flash Memory -
-CTL Chromebox PX11E - 11.6" HD, Dual-Core Intel Celeron N4500, 4GB/64GB, 180Â° Hinge Laptop, AUE 2030 - CTL Chromebox PX11E - 11.6" HD, Dual-Core Intel Celeron N4500, 4GB/64GB, 180
+CTL Chromebox PX11E - 11.6" HD, Dual-Core Intel Celeron N4500, 4GB/64GB, 180° Hinge Laptop, AUE 2030 - CTL Chromebox PX11E - 11.6" HD, Dual-Core Intel Celeron N4500, 4GB/64GB, 180
 Lenovo ThinkPad E16 Gen 1 AMD Laptop, 16" IPS  60Hz, Ryzen 7 7730U,  AMD Radeon Graphics, 16GB, 1TB, One YR Onsite Warranty
 Acer AN515-58-725A Gaming Laptop Intel Core i7-12700H 2.30 GHz 15.6" Windows 11 Home 64-bit
 MSI GE76 Raider Premium Gaming Laptop 17.3 FHD IPS 144Hz 11th Gen Intel 8-Core i7-11800H 32GB DDR4 1TB SSD GeForce RTX 3060 6GB Backlit KB Thunderbolt USB-C MiniDP 2.5Gb Ethernet Win10 Grey
 HP Envy x360 15.6 inch 2-In-1 Laptop- i7-1355U - 16GB/512GB SSD - Natural Silver
-MSI Modern 15 15.6" Ultra Thin and Light Professional Laptop IntelÂ® Coreâ„¢ i7-1195G7 IntelÂ® IrisÂ® Xe 16GB DDR4 1TB NVMe SSD Win 11 Pro,15 B11M-022US 3 Years Warranty
-Lenovo ThinkPad P16 Gen 2 Intel Laptop, 16" IPS  LED Backlight, vProÂ®, NVIDIA RTX A1000 Laptop GPU 6GB GDDR6, 16GB, 512GB
+MSI Modern 15 15.6" Ultra Thin and Light Professional Laptop Intel® Core™ i7-1195G7 Intel® Iris® Xe 16GB DDR4 1TB NVMe SSD Win 11 Pro,15 B11M-022US 3 Years Warranty
+Lenovo ThinkPad P16 Gen 2 Intel Laptop, 16" IPS  LED Backlight, vPro®, NVIDIA RTX A1000 Laptop GPU 6GB GDDR6, 16GB, 512GB
 NEW ASUS Vivobook 17.3" Full HD IPS (1920x1080) Notebook,AMD Ryzen 7 7730U 8-Core Processor,24GB DDR4,1TB SSD,AMD Radeon Graphics,Wifi-AC,Bluetooth,HDMI,Windows 11 Pro
 Lenovo ThinkPad P16 Gen 2 Intel Laptop, 16" IPS  LED Backlight, i9-13980HX, NVIDIA RTX, 32GB, 1TB
 LG gram 15ZT90P-G.AX33U1 15.6" Notebook - 8 GB Total RAM - 256 GB SSD - In-plane Switching (IPS) Technology - IEEE 802.11ax Wireless LAN Standard
 HP Laptop Pavilion Intel Core i7 12th Gen 1255U (1.70GHz) 8GB Memory 512 GB PCIe SSD Intel Iris Xe Graphics 15.6" Touchscreen Windows 11 Home 64-bit 15-eg2076nr
 Lenovo ThinkPad X1 Yoga Gen 7 Intel Laptop, 14" IPS  Low Blue Light, i5-1235U,   Iris Xe Graphics, 8GB, 256GB, One YR Onsite Warranty
-Lenovo Notebook ThinkPad T14 Gen 2 Laptop, 14" FHD IPS  Low Power, vProÂ®,   UHD Graphics, GB, 512GB SSD
+Lenovo Notebook ThinkPad T14 Gen 2 Laptop, 14" FHD IPS  Low Power, vPro®,   UHD Graphics, GB, 512GB SSD
 HP EliteBook x360 830 G10 13.3" Notebook - WUXGA - Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) - Intel Evo Platform - 16 GB RAM - 256 GB SSD - Windows 11 Pro  7Y3E2UT#ABA
 HP 2023 high-cost performance Laptop,17t-cn200,17.3"HD+ Touchscreen Display,Intel i7-1255U Processor,Iris Xe Graphics,Long Battery Life,Wi-Fi5,Bluetooth5,Windows 11Pro (32GB RAM | 512GB PCIe SSD)
 Lenovo ThinkBook 13s Gen 3 AMD Laptop, 13.3" IPS, Ryzen 5 5600U,  AMD Radeon Graphics, 8GB, 256GB
@@ -53,7 +53,7 @@ ASUS VivoBook 13 Slate OLED T3300KA-DH21T Intel Pentium Silver N6000 (1.10GHz) 4
 Lenovo Notebook IdeaPad Flex 5 Laptop, 14"" FHD IPS  Touch, i3-1115G4,   UHD Graphics for 11th Gen  Processors, 8GB, 256GB SSD
 Lenovo ThinkBook 14 Gen 6 AMD Laptop, 14" IPS  60Hz, Ryzen 7 7730U,  AMD Radeon Graphics, GB, 512GB SSD
 Dell Inspiron 7420 14" FHD+ (1920 x 1200) 2-in-1 Touchscreen Notebook,12th Gen Intel Core i5-1235U Processor,16GB DDR4,512GB SSD,Intel Graphics,Wifi-AX,Bluetooth,HDMI,USB Type-C Display,Windows 11 Pro
-Lenovo Notebook ThinkPad X1 Yoga Gen 6 Laptop, 14" IPS, vProÂ®,   Iris Xe Graphics, GB, 256GB SSD
+Lenovo Notebook ThinkPad X1 Yoga Gen 6 Laptop, 14" IPS, vPro®,   Iris Xe Graphics, GB, 256GB SSD
 ThinkPad 21HD0088US 14" Laptop i7-1365U 16GB 512GB SSD W11P
 ASUS Creator Laptop, 15.6" FHD OLED Display, 13th Gen Intel Core i7-13620H Up to 4.90 GHz, GeForce RTX 3050 6GB, 40GB DDR5, 2TB PCIe 4.0, Backlit KB, Thunderbolt 4, Wi-Fi 6E, HDMI, Win 11 Pro
 Lenovo ThinkPad T15g Laptop, 15.6" UHD IPS  600 nits, W-10855M, NVIDIA GeForce RTX 2080 Super with Max-Q 8GB, 128GB, 1TB SSD, Win 10 Pro
@@ -93,4 +93,4 @@ Lenovo Notebook ThinkPad X13 Yoga Gen 3 Laptop, 13.3" IPS  Touch, 10C,   Iris Xe
 Lenovo Notebook IdeaPad 5 Laptop, 15.6" FHD IPS, i7-1255U,   Iris Xe Graphics, GB, 512GB SSD
 Lenovo ThinkPad P1 Gen 5 Intel Laptop, 16" IPS  LED , i7-12700H,  RTX, 32GB, 1TB, One YR Onsite Warranty
 Lenovo ThinkPad P16v Intel Laptop, 16" IPS  LED Backlight, i7-13700H, NVIDIA RTX, 16GB, 512GB
-Lenovo Notebook Workstation P1 Gen 5 Laptop, 16" IPS  LED , vProÂ®,  RTX A1000 Laptop GPU 4GB GDDR6, GB, 1TB SSD
+Lenovo Notebook Workstation P1 Gen 5 Laptop, 16" IPS  LED , vPro®,  RTX A1000 Laptop GPU 4GB GDDR6, GB, 1TB SSD

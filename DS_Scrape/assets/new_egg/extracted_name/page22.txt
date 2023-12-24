@@ -27,7 +27,7 @@ HP 15.6" Full HD IPS LED Notebook,11th Gen Intel Core i5-1135G7 Quad-Core Proces
 HP 15.6" Full HD IPS LED Notebook,11th Gen Intel Core i5-1135G7 Quad-Core Processor,32GB DDR4 RAM,2TB SSD,Intel Iris Xe Graphics,Wifi-AC,Bluetooth,USB,HDMI, Windows 11 Pro
 HP 15.6" Full HD IPS LED Notebook,11th Gen Intel Core i5-1135G7 Quad-Core Processor,32GB DDR4 RAM,1TB SSD,Intel Iris Xe Graphics,Wifi-AC,Bluetooth,USB,HDMI, Windows 10 Pro
 HP Laptop Touchscreen, 15.6" HD Display, Intel Core i3-1215U Processor, 8GB RAM, 512GB SSD, Intel UHD Graphics, Wi-Fi, Media Card Reader, Windows 11 Home, Bundle With Cefesfy USB Hub
-Lenovo Notebook ThinkPad X1 Titanium Gen 1 Laptop, 13.5" IPS, vProÂ®,  Iris Xe, GB, 512GB
+Lenovo Notebook ThinkPad X1 Titanium Gen 1 Laptop, 13.5" IPS, vPro®,  Iris Xe, GB, 512GB
 Acer Swift 3 Intel Evo Thin & Light Laptop, 13.5" 2256 x 1504 IPS, Intel Core i7-1165G7, Intel Iris Xe Graphics, 8GB LPDDR4X, 512GB NVMe SSD, Wi-Fi 6, Fingerprint Reader, Back-lit KB, SF313-53-78UG
 MSI Cyborg Gaming Laptop, 15.6" FHD 144Hz Display, Intel Core i7-12650H Processor, NVIDIA GeForce RTX 4060 Graphics, 32GB DDR5 RAM, 2TB SSD, Backlit Keyboard, Wi-Fi, Windows 11 Home, Black
 Lenovo V14 G3 IAP 82TS005NUS 14" Notebook - Full HD - 1920 x 1080 - Intel Core i3 12th Gen i3-1215U Quad-core (4 Core) 1.20 GHz - 8 GB Total RAM - 256 GB SSD - Intel Chip - Windows 11 Pro - Intel
@@ -48,7 +48,7 @@ NEW HP EliteBook 1040 G9 Business Notebook,14" Full HD+ 1920x1200 Display,12th G
 HP 15.6" Full HD IPS LED Notebook,11th Gen Intel Core i5-1135G7 Quad-Core Processor,32GB DDR4 RAM,2TB SSD,Intel Iris Xe Graphics,Wifi-AC,Bluetooth,USB,HDMI, Windows 10 Pro
 HP 15.6" Full HD IPS LED Notebook,11th Gen Intel Core i5-1135G7 Quad-Core Processor,16GB DDR4 RAM,2TB SSD,Intel HD Graphics,Wifi-AC,Bluetooth,USB,HDMI, Windows 10 Pro
 HP 15.6" Full HD IPS LED Notebook,11th Gen Intel Core i5-1135G7 Quad-Core Processor,32GB DDR4 RAM,2TB SSD,Intel Iris Xe Graphics, Wifi-AC, Bluetooth, USB, HDMI, Windows 11 Pro
-Lenovo Notebook Workstation P17 Gen 2 Laptop, 17.3" FHD IPS  LED , vProÂ®,  RTX, GB, 1TB
+Lenovo Notebook Workstation P17 Gen 2 Laptop, 17.3" FHD IPS  LED , vPro®,  RTX, GB, 1TB
 Dell Inspiron 15.6" FHD Touchscreen Anti-Glare LED Laptop | Intel Core i5-1135G7 Processor | 32GB RAM | 1TB SSD | Intel UHD Graphics | Windows 11 Home
 Lenovo ThinkPad E15 Gen 4 15.6" FHD Business Laptop (AMD Ryzen 5 5625U, 16GB RAM, 512GB PCIe SSD, 6-Core (Beat i7-1165G7)) IPS Anti-Glare, FHD Webcam, Type-C, HDMI, Wi-Fi 6, Win 10 / Win 11 Pro
 HP 15.6" Full HD IPS LED Notebook,11th Gen Intel Core i5-1135G7 Quad-Core Processor,32GB DDR4 RAM,2TB SSD,Intel Iris Xe Graphics,Wifi-AC,Bluetooth,USB,HDMI, Windows 10 Pro
@@ -75,7 +75,7 @@ New HP 15.6" Full HD (1920x1080) TouchScreen Laptop, 11th Gen Intel Core i7-1165
 New HP 15.6" Full HD (1920x1080) TouchScreen Laptop, 11th Gen Intel Core i7-1165G7 Processor, 12GB DDR4 RAM, 2TB SSD, Intel Iris Xe Graphics, Wifi-AC, Bluetooth,HDMI,USB, Windows 11 Pro
 New HP 15.6" Full HD (1920x1080) TouchScreen Laptop, 11th Gen Intel Core i7-1165G7 Processor, 32GB DDR4 RAM, 2TB SSD, Intel Iris Xe Graphics, Wifi-AC, Bluetooth,HDMI,USB, Windows 11 Pro
 ASUS ZenBook 13 Ultra-Slim Laptop, 13.3" OLED FHD NanoEdge Bezel Display, AMD Ryzen 7 5700U, 8GB LPDDR4X RAM, 512GB PCIe SSD, NumberPad, Wi-Fi 5, Windows 10 Home, Pine Grey, UM325UA-DS71
-Lenovo Notebook Workstation P17 Gen 2 Laptop, 17.3" FHD IPS  LED , vProÂ®,  RTX, GB, 1TB
+Lenovo Notebook Workstation P17 Gen 2 Laptop, 17.3" FHD IPS  LED , vPro®,  RTX, GB, 1TB
 HP EliteBook 845 G8 14" Notebook - Full HD - 1920 x 1080 - AMD Ryzen 5 PRO 5650U Hexa-core (6 Core) 2.30 GHz - 16 GB RAM - 256 GB SSD
 HP EliteBook 840 G8 14" Notebook - Full HD - 1920 x 1080 - Intel Core i7 11th Gen i7-1165G7 Quad-core (4 Core) 2.80 GHz - 16 GB Total RAM - 512 GB SSD - Silver (613Q1UT#ABA)
 New Lenovo IdeaPad 1 15.6" Full HD Intel UHD Graphics Intel Pentium Silver N6000 12GB DDR4 RAM 128GB eMMC + 1TB PCIe NVMe M.2 SSD Windows 11 Pro Black Microsoft 365 Personal (1-Year Subscription)

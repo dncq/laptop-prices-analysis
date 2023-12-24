@@ -2,10 +2,10 @@ Lenovo ThinkBook 15 G4 ABA 21DL000JUS 15.6" Notebook - Full HD - 1920 x 1080 - A
 Dell Inspiron 3520 15.6" Full HD 1920 x 1080, 11th Gen Intel Core i3-1115G4 Dual Core Processor, 8GB DDR4 RAM, 512GB SSD, Intel UHD Graphics, Wifi-AC, Bluetooth,HDMI,USB, Windows 11 Pro
 New MSI GF63 Thin Gaming Laptop 15.6" Full HD Intel Core i5-10300H, NVIDIA GeForce GTX 1650 Max-Q, 16GB DDR4 RAM 512GB NVMe SSD Windows 10 Pro Black
 DELL Latitude 5340 2in1 Laptop 13.3" 1920 x 1080 Intel Core I7-1365U 10-Core 5.2GHz 16GB RAM 256GB SSD Touchscreen Windows 11 Pro 8XYTH
-Lenovo ThinkPad T16 Intel Laptop, 16" IPS  60Hz, vProÂ®,   UHD Graphics, 16GB, 512GB SSD
+Lenovo ThinkPad T16 Intel Laptop, 16" IPS  60Hz, vPro®,   UHD Graphics, 16GB, 512GB SSD
 SMART BUY ELITEBOOK 650 G10     I5-1345U 15.6IN 8GB 256GB W1164
 HP Victus - 16.1" 144 Hz IPS - Intel Core i7 13th Gen 13700H (2.40GHz) - NVIDIA GeForce RTX 4050 Laptop GPU - 16 GB DDR5 - 1 TB PCIe SSD - Windows 11 Home 64-bit - Gaming Laptop (16-r0097nr)
-Lenovo ThinkPad X13 Yoga Gen 4 Intel Laptop, 13.3" IPS  LED Backlight, vProÂ®,   Iris Xe Graphics, 16GB, 512GB
+Lenovo ThinkPad X13 Yoga Gen 4 Intel Laptop, 13.3" IPS  LED Backlight, vPro®,   Iris Xe Graphics, 16GB, 512GB
 Lenovo THINKBOOK 16P G4 IRH  I7-13700H 3.70G 16GB 512GB 16IN
 ASUS ROG Zephyrus Duo 16 (2023) Gaming Laptop, 16 Mini LED 240Hz/3ms, QHD 16:10 Display, 100% DCI-P3, NVIDIA GeForce RTX 4090, AMD Ryzen 9 7945HX, 64GB DDR5, 4TB SSD, Windows 11 Pro, GX650PY-XS97
 Lenovo ThinkPad P16 Gen 2 21FA002TUS EDGE 16" Laptop i7-13700HX 32GB 1TB SSD W11P
@@ -23,11 +23,11 @@ Acer Nitro 16 Gaming Laptop, 16" WQXGA IPS 165Hz Display, AMD 8-Core Ryzen 7 773
 Acer Aspire 3 15 Slim Laptop, 15.6" Full HD (1920 x 1080) Display, AMD Ryzen 3 7320U Quad-Core Processor, AMD Radeon Graphics, 8GB DDR4  512GB PCIe SSD, Wi-Fi 6, Windows 11 Home
 Dell Latitude 5420 14" Full HD Laptop,11th Gen Intel Core i7-1185G7 vPro Processor,32GB DDR4,1TB SSD,Intel Iris Xe Graphics,Wifi-AX,Bluetooth,ThunderBolt,Smart Card Reader,Windows 10 Pro
 ASUS 2023 Vivobook 14 Laptop, 14 FHD (1920 x 1080) Display, Intel Core i5-1235U CPU, Intel Iris X Graphics, 8GB RAM, 256GB SSD, Windows 11 Home, Quiet Blue, F1404ZA-AS51
-Lenovo Legion Slim 5i Gen 8 Intel Laptop, 16" IPS, i5-13500H, NVIDIAÂ® GeForce RTX 4050 Laptop GPU 6GB GDDR6, 16GB, 512GB, For Gaming
+Lenovo Legion Slim 5i Gen 8 Intel Laptop, 16" IPS, i5-13500H, NVIDIA® GeForce RTX 4050 Laptop GPU 6GB GDDR6, 16GB, 512GB, For Gaming
 Lenovo ThinkPad X1 Nano Gen 1 13" Touchscreen Notebook 2K Intel Core i5-1140G7 16GB RAM 512GB SSD Intel Iris Xe Graphics Black
 HP Victus Gaming Laptop, 15.6" FHD IPS 144Hz Display, Intel Core i5-13420H Processor, NVIDIA GeForce RTX 3050 Graphics, 32GB RAM, 2TB SSD, Wi-Fi 6, Bluetooth, Backlit Keyboard, Windows 11 Home, Blue
 Lenovo IdeaPad Slim 3i Chromebook Plus Laptop, 14" FHD IPS  LED , i3-N305,   UHD Graphics, GB, 128GB
-Lenovo LOQ Laptop, 15.6" FHD IPS, i7-13700H, NVIDIAÂ® GeForce RTX 4050 Laptop GPU 6GB GDDR6, 16GB, 512GB, For Gaming
+Lenovo LOQ Laptop, 15.6" FHD IPS, i7-13700H, NVIDIA® GeForce RTX 4050 Laptop GPU 6GB GDDR6, 16GB, 512GB, For Gaming
 MSI Katana 15 B12V Katana 15 B12VGK-439US 15.6" Gaming Notebook - Full HD - 1920 x 1080 - Intel Core i7 12th Gen i7-12650H Deca-core (10 Core) 1.70 GHz - 32 GB Total RAM - 1 TB SSD - Intel Chip -
 Lenovo ThinkPad X13s Gen 1 21BX0013US 13.3" Touchscreen Notebook - WUXGA - 1920 x 1200 - Qualcomm 3 GHz - 16 GB Total RAM - 16 GB On-board Memory - 256 GB SSD - Thunder Black - Qualcomm Snapdrago
 Lenovo ThinkPad P14s Gen 4 Intel Laptop, 14"  60Hz, i7-1360P, NVIDIA RTX, 32GB, 1TB
@@ -47,7 +47,7 @@ Lenovo Legion 5 Gaming Laptop, 15.6" WQHD IPS, AMD Ryzen 7 7735H Up to 4.75GHz, 
 Lenovo IdeaPad Flex 5-2023 - Touchscreen 2-in-1 Laptop - Windows 11 Home - 14" FHD Display - 16GB Memory - 256GB Storage - AMD Ryzen 5 5500U - Abyss Blue
 ThinkPad T14 G3, Intel Core i7-1260P vPro Windows 10 Pro Windows 11 Pro 64 16.0GB, 1x512GB SSD
 Lenovo ThinkPad P16s Gen 2 Non-touch 400 nits 16" Laptop, 13th Gen Intel Core i7-1360P Processor (E-cores up to 3.70 GHz P-cores up to 5.00 GHz), 16GB RAM, 1TB SSD, Windows 11 Pro - 21HK001YUS
-Lenovo ThinkPad X1 Carbon Gen 10 Intel Laptop, 14" IPS, vProÂ®,   Iris Xe Graphics, GB, 512GB
+Lenovo ThinkPad X1 Carbon Gen 10 Intel Laptop, 14" IPS, vPro®,   Iris Xe Graphics, GB, 512GB
 Lenovo ThinkPad E15 Gen 4 Intel Laptop, 15.6" FHD IPS, i7-1255U,  Iris Xe, 16GB, 1TB, One YR Onsite Warranty
 Lenovo ThinkBook 16 Gen 6 Intel Laptop, 16" IPS  60Hz, i5-1335U,   UHD Graphics, GB, 256GB
 Lenovo ThinkPad X1 Yoga Gen 7 21CD0045US 14" Touchscreen Convertible 2 in 1 Notebook - WUXGA - 1920 x 1200 - Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) - 16 GB Total RAM - 256 GB SSD - St...
@@ -58,7 +58,7 @@ Lenovo 14w Gen 2 AMD Laptop, 14"  LED , 3015e,  AMD Radeon Graphics, GB, 128GB
 Lenovo ThinkPad P14s Gen 4 Intel Laptop, 14" IPS  60Hz, i5-1340P,  RTX A500 Laptop GPU 4GB GDDR6, 16GB, 512GB, One YR Onsite Warranty
 New ASUS ROG Zephyrus 14" FHD 144Hz Gaming Laptop | AMD R7-5800HS Processor | NVIDIA GeForce RTX 3060 | 16GB RAM | 1024GB SSD | Backlit Keyboard | Windows 11 Home | Bundled with Gaming Mouse
 Dynabook Satellite Pro C50-J 15.6" Notebook - HD - 1366 x 768 - Intel Core i5 11th Gen i5-1135G7 Quad-core (4 Core) - 16 GB Total RAM - 256 GB SSD - Graphite Black - Intel Chip - Windows 11 Pro -
-Lenovo LOQ Laptop, 16" IPS  144Hz, i7-13620H, NVIDIAÂ® GeForce RTX 4050 Laptop GPU 6GB GDDR6, 16GB, 512GB, For Gaming
+Lenovo LOQ Laptop, 16" IPS  144Hz, i7-13620H, NVIDIA® GeForce RTX 4050 Laptop GPU 6GB GDDR6, 16GB, 512GB, For Gaming
 THINKPAD P1 G5 I7 12700H 3.50G  16IN  NON TOUCH W11P64 32GB 1TB SSD
 Lenovo ThinkPad P16v Intel Laptop, 16" IPS  60Hz, i7-13700H,  RTX A500 Laptop GPU 4GB GDDR6, 16GB, 512GB, One YR Onsite Warranty
 Lenovo ThinkPad X1 Carbon Gen 9 Intel Laptop, 14"   100% sRGB, VPro,  Iris Xe, 16GB, 512GB, Three YR Premier Warranty
@@ -74,7 +74,7 @@ Samsung Galaxy Book3 Pro 360 NP754QFG-KB2US 16" Touchscreen Convertible 2 in 1 N
 Lenovo ThinkBook 14 Gen 6 Intel Laptop, 14" IPS  Glass, i5-1335U,   UHD Graphics, GB, 256GB
 LG gram 16Z90R-N.APC5U1 16" Notebook - Intel Core i5 - 8 GB Total RAM - 512 GB SSD - Intel Chip - Windows 11 Pro - In-plane Switching (IPS) Technology
 HP - ENVY 2-in-1 15.6" Touch-Screen Laptop - AMD Ryzen 5 - 8GB Memory - 256GB SSD - Nightfall Black 15m-eu0033dx
-Lenovo ThinkPad T16 Gen 2 Intel Laptop, 16"  400 nits, vProÂ®,   UHD Graphics, 16GB, 512GB
+Lenovo ThinkPad T16 Gen 2 Intel Laptop, 16"  400 nits, vPro®,   UHD Graphics, 16GB, 512GB
 Lenovo ThinkPad L14 Gen 3 Intel Laptop, 14" FHD IPS  LED , i5-1235U,  UHD, 8GB, 512GB, One YR Onsite Warranty
 Lenovo ThinkBook 13s Gen 4 Intel Laptop, 13.3" IPS  Low Power, i5-1240P,   Iris Xe Graphics, 8GB, 256GB, One YR Onsite Warranty
 HP EliteBook 845 G8 14" Notebook - Full HD - 1920 x 1080 - AMD Ryzen 7 PRO 5850U Octa-core (8 Core) 1.90 GHz - 16 GB RAM - 512 GB SSD - AMD Chip - Windows 10 Pro - AMD Radeon Graphics - In-plane

@@ -40,7 +40,7 @@ ASUS - Zenbook 15.6" Laptop - AMD Ryzen 7 - 8GB Memory - NVIDIA GeForce MX450 - 
 LG Gram 17ZB Home & Business Laptop (Intel i7-1360P 12-Core, 17.0" 60 Hz Wide QXGA (2560x1600), Intel Iris Xe, 32GB RAM, 2x512GB PCIe SSD (1TB), Backlit KB, Wifi, Win 10 Pro) with DV4K Dock
 New  HP 15.6  IPS FHD Laptop | Intel Core i7-1165G7 Processor | Intel Iris Xe graphics | 12GB RAM | 256GB SSD | Touchscreen | Windows 11 Home in S mode | Silver
 HP 15.6" Full HD Business Laptop Intel core i3-1115G4 32GB RAM 1TB SSD Intel UHD Graphics Finger Printreader Webcam Wi-Fi Bluetooth 4.2 USB Type-C HDMI Windows 11 Pro Silver
-HP 15.6" HD SVA  Brightview WLED Laptop (Intel Core i3-1005G1 Processor, 4GB DDR4-2666 SDRAM, 128GB SSD, Intel¬Æ UHD Graphics, Windows 10 Home, Natural Silver)
+HP 15.6" HD SVA  Brightview WLED Laptop (Intel Core i3-1005G1 Processor, 4GB DDR4-2666 SDRAM, 128GB SSD, IntelÆ UHD Graphics, Windows 10 Home, Natural Silver)
 HP Newest 15 laptop, 11th Gen Intel Core i3-1115G4 2-Cores Processor, Intel UHD Graphics, 32GB DDR4  1TB PCIe SSD, 15.6" diagonal HD Display, WiFi, USB, Bluetooth, HDMI, Webcam, Windows 11
 2020 HP Pavilion 15.6 Inch Touchscreen Laptop (Intel 2-Core i3-1005G1 up to 3.4GHz, 12GB DDR4 RAM, 256GB SSD, Intel UHD Graphics, HDMI, WiFi, Bluetooth, Webcam, Windows 10 Home)
 Newest HP 15.6" HD Display Laptop, Intel Core i3-1115G4 Processor, 16GB RAM, 512GB SSD, Intel UHD Graphics, Wi-Fi 6, Bluetooth, Windows 11 Home in S Mode, CEFESFY Accessories
@@ -49,7 +49,7 @@ New HP Envy 2-in-1 15.6" FHD Touchscreen Laptop,Intel 13th Generation Core i7 Ev
 New HP Envy 2-in-1 15.6" FHD Touchscreen Laptop,Intel 13th Generation Core i7 Evo Platform 1355U,Intel Iris Xe Graphics,Wi-Fi 6 and Bluetooth 5.3, Windows 11 Pro,16 GB RAM 512 GB SSD,Silver
 Lenovo ThinkPad E15 Gen 4 Laptop, 15.6" IPS FHD Display, Intel Core i7-1255U Upto 4.7GHz, 16GB RAM, 512GB NVMe SSD, HDMI, Thunderbolt, Wi-Fi, Bluetooth, Windows 11 Pro (21E6007QUS)
 MSI Summit 2-in-1 Laptop 16" QHD+ Touchscreen Display | Intel Core i7-1195G7 |16GB Memory | 1TB SSD | Intel Iris Xe Graphics| Windows 10 Pro| MSI Stylus Pen | Backlit Keyboard | Fingerprint Reader
-HP Business 15 Laptop 15.6‚Äù Diagonal HD Touchscreen Display 11th Gen Intel Core i3-1115G4 8GB RAM 256GB SSD Intel UHD Graphics USB-C HDMI Wifi5 HD Webcam Card Reader Win10 Silver
+HP Business 15 Laptop 15.6î Diagonal HD Touchscreen Display 11th Gen Intel Core i3-1115G4 8GB RAM 256GB SSD Intel UHD Graphics USB-C HDMI Wifi5 HD Webcam Card Reader Win10 Silver
 New ASUS TUF 15.6 FHD Laptop | Intel Core i7-10870H Processor | 16GB RAM | 512GB SSD+ 2TB HDD | NVIDIA GeForce GTX 1660Ti | RGB Backlit Keyboard | Windows 10 Home
 Acer Aspire 5 Slim Business Laptop 15.6" FHD (10-Core Intel i7-1255U upto 4.7 GHz, 8GB RAM, 512GB PCIe SSD, Backlit KYB, Fingerprint, Thunderbolt 4, WiFi 6, Win 10 Home)
 Newest ASUS VivoBook 15.6" FHD Touchscreen Laptop | 10th Gen Intel Core i5-1035G1 | 12GB RAM | 256GB PCIe SSD |Sonic Master Audio | HD webcam | Fingerprint Reader | Windows 10
@@ -68,7 +68,7 @@ HP 15 Notebook, 15.6" HD Display, Intel Core i5-1135G7 Upto 4.2GHz, 8GB RAM, 128
 HP 15 Notebook, 15.6" HD Display, Intel Core i5-1135G7 Upto 4.2GHz, 16GB RAM, 2TB NVMe SSD, HDMI, Card Reader, Wi-Fi, Bluetooth, Windows 10 Pro
 HP Envy 16.0" 120Hz Touchscreen IPS WQXGA Gaming Laptop (Intel i9-13900H 14-Core, GeForce RTX 4060 8GB, 64GB DDR5, 2x2TB PCIe SSD (4TB), Backlit KYB, 2 Thunderbolt 4, WiFi 6E, Win 11 Pro)
 Dell VOSTRO Home & Business Laptop (Intel i7-1255U 10-Core, 15.6" 120 Hz Full HD (1920x1080), NVIDIA MX550, 8GB RAM, 512GB SSD, Wifi, USB 3.2, HDMI, Webcam, Ubuntu Linux 18.04) with DV4K Dock
-Newest HP x360 2-in-1 14-inch FHD Touchscreen Chromebook ‚Äì 10th Gen. Intel Core i3-10110U, 8GB RAM, 64GB eMMC, B&O Audio, WiFi 6, Backlit Keyboard, Fingerprint Reader - Mineral Silver
+Newest HP x360 2-in-1 14-inch FHD Touchscreen Chromebook ñ 10th Gen. Intel Core i3-10110U, 8GB RAM, 64GB eMMC, B&O Audio, WiFi 6, Backlit Keyboard, Fingerprint Reader - Mineral Silver
 Lenovo ThinkPad T15 Gen 2 Laptop, 15.6" FHD IPS Touch  300 nits, i7-1185G7,   UHD Graphics, 16GB, 512GB SSD, Win 10 Pro
 Newest ASUS VivoBook 15.6" FHD Touchscreen Laptop | 10th Gen Intel Core i5-1035G1 | 8GB RAM | 1TB SSD | |Sonic Master Audio | HD webcam | Fingerprint Reader | Windows 10
 New ASUS  TUF DASH 15.6" Laptop | Intel Core i7-11370H Processor | NVIDIA GeForce RTX 3060 | 16GB RAM | 512GB SSD | Windows 11 Home | Backlit Keyboard | Bundle with HDMI Cable

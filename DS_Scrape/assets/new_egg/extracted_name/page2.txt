@@ -1,5 +1,5 @@
-2023 ASUS Vivobook Pro 16X Laptop, 16‚Äù 16:10 Display, Intel Core i9-13980HX CPU, NVIDIA GeForce RTX 4070 GPU, 16GB RAM, 1TB SSD, Windows 11 Home, Black, K6604JI-NB96
-2023 ASUS Vivobook S 16 Flip 16‚Äù WUXGA 16:10 Touch, AMD Ryzen 5 7530U CPU, AMD Radeon Vega 7 Graphics, 8GB RAM, 512GB SSD, FingerPrint Sensor, Stylus Supported, Windows 11 Home, TN3604YA-DS51T
+2023 ASUS Vivobook Pro 16X Laptop, 16î 16:10 Display, Intel Core i9-13980HX CPU, NVIDIA GeForce RTX 4070 GPU, 16GB RAM, 1TB SSD, Windows 11 Home, Black, K6604JI-NB96
+2023 ASUS Vivobook S 16 Flip 16î WUXGA 16:10 Touch, AMD Ryzen 5 7530U CPU, AMD Radeon Vega 7 Graphics, 8GB RAM, 512GB SSD, FingerPrint Sensor, Stylus Supported, Windows 11 Home, TN3604YA-DS51T
 LG Notebooks Gram Intel Core i5 -1340P Up to 4.6GHz 8GB Memory 512GB NVME Gen4 SSD 17.0" Windows 11 Pro 17Z90R-N.APC5U1
 LG Notebooks AMD Ryzen 5 5625U Up to 4.3GHz 8GB LPDDR4X Memory 512 GB SSD AMD Radeon Graphics 14.0" Windows 11 Pro 14U70Q-N.APC5U1
 ASUS VivoBook 16 Laptop, 16" WUXGA (1920 x 1200) 16:10 Display, AMD Ryzen 7 7730U CPU, AMD Radeon Graphics, 16GB RAM, 1TB SSD, Fingerprint Sensor, Windows 11 Home, Indie Black, M1605YA-ES74
@@ -14,44 +14,44 @@ LG GRAM Laptop Intel Core i7 12th Gen 1260P (2.10GHz) 16GB Memory 1 TB PCIe SSD 
 Samsung Galaxy Book3 NP754XFG-KB2US 15.6" Notebook - Full HD - 1920 x 1080 - Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz - 16 GB Total RAM - 16 GB On-board Memory - 512 GB SSD -
 Lenovo V14 G4 IRU 83A00023US 14" Notebook - Full HD - 1920 x 1080 - Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz - 8 GB Total RAM - 8 GB On-board Memory - 256 GB SSD - Black - Int
 Samsung Galaxy Book3 Pro - 14" Display - Intel Core i7 1360P 13th Gen 2.20GHz - 16GB Memory - 1 TB SSD - Intel Iris Xe Graphics - Windows 11 Pro  NP944XFG-KC1US
-2023 ASUS Vivobook S 16 Flip 16‚Äù WUXGA 16:10 Touch, Intel Core i5-13500H CPU, Intel HD Graphics, 8GB RAM, 512GB SSD, Stylus Supported, Windows 11 Home, Midnight Black, TP3604VA-DS51T
+2023 ASUS Vivobook S 16 Flip 16î WUXGA 16:10 Touch, Intel Core i5-13500H CPU, Intel HD Graphics, 8GB RAM, 512GB SSD, Stylus Supported, Windows 11 Home, Midnight Black, TP3604VA-DS51T
 Lenovo Laptop IdeaPad Slim 3 AMD Ryzen 5 7000 Series 7530U (2.00GHz) 16GB Memory 512 GB NVMe SSD AMD Radeon Graphics 15.6" Touchscreen Windows 11 Home 64-bit 82XM0032US
 Acer Laptop Swift Go 16 Intel Core i7 13th Gen 13700H (2.40GHz) 16 GB LPDDR5 Memory 1 TB PCIe SSD Intel Iris Xe Graphics 16.0" Windows 11 Home 64-bit SFG16-71-7902
 Acer Laptop Swift Go 16 Intel Core i5 13th Gen 1335U (1.30GHz) 8 GB LPDDR5 Memory 512 GB PCIe SSD Intel Iris Xe Graphics 16.0" Windows 11 Home 64-bit SFG16-71-52SD
 Acer Laptop ConceptD 5 Intel Core i7 12th Gen 12700H (2.30GHz) 32 GB LPDDR5 Memory 1 TB PCIe SSD NVIDIA GeForce RTX 3070 Ti Laptop GPU 16.0" Windows 11 Pro 64-bit CN516-73G-70XD
-ASUS Vivobook 15X OLED Laptop, 15.6‚Äù FHD OLED Display, AMD Ryzen‚Ñ¢ 7 7730U CPU, 16GB RAM, 1TB SSD, Windows 11 Home, Indie Black, S3504YA-DS77
-2023 ASUS VivoBook 16 Laptop, 16‚Äù WUXGA (1920 x 1200) 16:10 Display, AMD Ryzen 9 7940HS CPU 4.0GHz, AMD Radeon Graphics, 16GB RAM, 1TB SSD, Windows 11 Home, Cool Silver, M1605XA-EB96
-2023 ASUS ProArt StudioBook 16 OLED Laptop, 16‚Äù 3.2K OLED touch display, Intel Core i9-13980HX CPU, Nvidia Geforce RTX 4070 GPU, 32GB DDR5 SO-DIMM RAM, 1TB SSD, Windows 11 Home, H7604JI-DS96T, Mineral
-2023 ASUS ProArt StudioBook 16 OLED Laptop, 16‚Äù 3.2K OLED touch display, Intel Core i9-13980HX CPU, Nvidia GeForce RTX 4060 GPU, 32GB DDR5 SO-DIMM RAM, 1TB SSD, Windows 11 Home, H7604JV-DS96T, Mineral
+ASUS Vivobook 15X OLED Laptop, 15.6î FHD OLED Display, AMD Ryzenô 7 7730U CPU, 16GB RAM, 1TB SSD, Windows 11 Home, Indie Black, S3504YA-DS77
+2023 ASUS VivoBook 16 Laptop, 16î WUXGA (1920 x 1200) 16:10 Display, AMD Ryzen 9 7940HS CPU 4.0GHz, AMD Radeon Graphics, 16GB RAM, 1TB SSD, Windows 11 Home, Cool Silver, M1605XA-EB96
+2023 ASUS ProArt StudioBook 16 OLED Laptop, 16î 3.2K OLED touch display, Intel Core i9-13980HX CPU, Nvidia Geforce RTX 4070 GPU, 32GB DDR5 SO-DIMM RAM, 1TB SSD, Windows 11 Home, H7604JI-DS96T, Mineral
+2023 ASUS ProArt StudioBook 16 OLED Laptop, 16î 3.2K OLED touch display, Intel Core i9-13980HX CPU, Nvidia GeForce RTX 4060 GPU, 32GB DDR5 SO-DIMM RAM, 1TB SSD, Windows 11 Home, H7604JV-DS96T, Mineral
 MSI Modern 14 Laptop C13M-606US Intel i5-1335U 16GB RAM 512 GB SSD 14.0" Windows 11 Home Intel Iris Xe Graphics
-MSI PRESTIGE 16 EVO 16" QHD+ 165hz Ultra Thin 2-in-1 Professional Laptop Intel¬Æ Core‚Ñ¢ i7-13700H Iris Xe 32GB LPDDR5 1tB NVMe SSD Win 11 Pro, A13M-259US 3 Years Warranty
+MSI PRESTIGE 16 EVO 16" QHD+ 165hz Ultra Thin 2-in-1 Professional Laptop IntelÆ Coreô i7-13700H Iris Xe 32GB LPDDR5 1tB NVMe SSD Win 11 Pro, A13M-259US 3 Years Warranty
 Microsoft Surface Pro 9 For Business - 13" PixelSense Display - Intel Core i7 10-Core (12th Gen) - 16GB RAM - 1TB SSD - Windows 10 Pro - Platinum  S8V-00001
 2023 ASUS Vivobook 15 OLED Laptop, 15.6" FHD OLED Display, AMD Ryzen 7 7730U CPU, AMD Radeon GPU, 16GB RAM, 1TB SSD, Windows 11 Home
-ASUS Vivobook Pro 15 Laptop, 15.6‚Äù FHD Display, AMD Ryzen 9 7940HS Mobile CPU, NVIDIA GeForce RTX 4060 Laptop GPU, 32GB RAM, 1TB SSD, Windows 11 Home, Quiet Blue, M6500XV-EB96
-2023 ASUS Vivobook 17X Laptop, 17.3‚Äù FHD Display, Intel Core i9-13900H CPU, 16GB RAM, 1TB SSD, Windows 11 Home, Transparent Silver, K3704VA-DH96-S
+ASUS Vivobook Pro 15 Laptop, 15.6î FHD Display, AMD Ryzen 9 7940HS Mobile CPU, NVIDIA GeForce RTX 4060 Laptop GPU, 32GB RAM, 1TB SSD, Windows 11 Home, Quiet Blue, M6500XV-EB96
+2023 ASUS Vivobook 17X Laptop, 17.3î FHD Display, Intel Core i9-13900H CPU, 16GB RAM, 1TB SSD, Windows 11 Home, Transparent Silver, K3704VA-DH96-S
 ASUS Laptop Zenbook Pro 14 OLED Intel Core i9 13th Gen 13900H (2.60GHz) 16GB Memory 1 TB PCIe SSD NVIDIA GeForce RTX 4060 Laptop GPU 14.5" Touchscreen Windows 11 Home 64-bit UX6404VV-DS94T
-MSI PRESTIGE 14 EVO 14" FHD+ Ultra Thin and Light Professional Laptop Intel¬Æ Core‚Ñ¢ i7-13700H Iris Xe 32GB LPDDR5 1TB NVMe SSD Win 11 Pro, B13M-269US 3 Years Warranty
+MSI PRESTIGE 14 EVO 14" FHD+ Ultra Thin and Light Professional Laptop IntelÆ Coreô i7-13700H Iris Xe 32GB LPDDR5 1TB NVMe SSD Win 11 Pro, B13M-269US 3 Years Warranty
 ASUS Laptop Zenbook Pro 14 Duo OLED Intel Core i9 13th Gen 13900H (2.60GHz) 32GB Memory 1 TB PCIe SSD NVIDIA GeForce RTX 4060 Laptop GPU 14.5 Windows 11 Home 64-bit UX8402VV-PS96T
 MSI Laptop Prestige 14Evo Intel Core i7 11th Gen 1195G7 (2.90GHz) 32GB Memory 1 TB NVMe SSD Intel Iris Xe Graphics 14.0" Windows 10 Home 64-bit (Free upgrade to Win 11) Prestige 14Evo A11MO-217
 Microsoft Surface Pro 9 For Business - 13" PixelSense Display - Microsoft SQ 3 Processor - 16 GB RAM - 512 GB SSD - Windows 11 Pro 64-bit - 5G - Platinum  RZ1-00001
-2023 ASUS Vivobook 17 Laptop, 17.3‚Äù HD+ Display, Intel Core PENTIUM 8505 CPU, Intel UHD Graphics, 8GB RAM, 256GB SSD, Windows 11 Home, Quiet Blue, F1704ZA-DS24
+2023 ASUS Vivobook 17 Laptop, 17.3î HD+ Display, Intel Core PENTIUM 8505 CPU, Intel UHD Graphics, 8GB RAM, 256GB SSD, Windows 11 Home, Quiet Blue, F1704ZA-DS24
 ASUS Zenbook 14 Laptop, 14" WQXGA Display, Intel Core i7-1360P CPU, Intel Iris Xe Graphics, 16GB RAM, 1TB PCIe SSD, Windows 11 Home, Ponder Blue, UX3402VA-DS74
-2023 ASUS Vivobook Pro 16X OLED Laptop, 16‚Äù 16:10 OLED Display,Intel Core i9-13980HX CPU, NVIDIA¬Æ GeForce¬Æ RTX‚Ñ¢ 4060 GPU, 16GB RAM, 1TB SSD, Windows11 Home, Earl Grey,K6604JV-ES94
+2023 ASUS Vivobook Pro 16X OLED Laptop, 16î 16:10 OLED Display,Intel Core i9-13980HX CPU, NVIDIAÆ GeForceÆ RTXô 4060 GPU, 16GB RAM, 1TB SSD, Windows11 Home, Earl Grey,K6604JV-ES94
 ASUS Laptop ZenBook Pro Intel Core i9 13th Gen 13900H (2.60GHz) 32GB Memory 1 TB PCIe SSD NVIDIA GeForce RTX 4070 Laptop GPU 16.0" Touchscreen Windows 11 Home 64-bit UX7602VI-DS96T
-2023 ASUS Zenbook S 13 OLED Ultra Laptop, 13.3‚Äù OLED 2.8K Display, Intel Evo Certified, i7-1355UCPU, Intel¬Æ Iris Xe Graphics, 32GB RAM, 1TB SSD, Windows 11 Pro, Basalt Grey, UX5304VA-XS76T
+2023 ASUS Zenbook S 13 OLED Ultra Laptop, 13.3î OLED 2.8K Display, Intel Evo Certified, i7-1355UCPU, IntelÆ Iris Xe Graphics, 32GB RAM, 1TB SSD, Windows 11 Pro, Basalt Grey, UX5304VA-XS76T
 ASUS Laptop VivoBook Intel Core i7 13th Gen 13700H (2.40GHz) 16GB Memory 1 TB PCIe SSD NVIDIA GeForce RTX 2050 Laptop GPU 14.0" Windows 11 Home 64-bit K3405VF-ES74
 Asus Chromebook CX1101CMA-DB44 11.6" Chromebook - HD - 1366 x 768 - Intel Celeron N4020 Dual-core (2 Core) 1.10 GHz - 4 GB Total RAM - 64 GB Flash Memory - Transparent Silver - Intel Chip - Intel
 MSI Laptop Summit E14Evo Intel Core i7 12th Gen 1260P (2.10GHz) 16GB Memory 512 GB NVMe SSD Intel Iris Xe Graphics 14.0" Windows 11 Pro 64-bit Summit E14Evo A12M-025
 ASUS VivoBook 16 Laptop, 16" WUXGA (1920 x 1200) 16:10 Display, AMD Ryzen 5 7530U CPU, AMD Radeon Graphics, 8GB RAM, 512GB SSD, Fingerprint Sensor, Windows 11 Home, Indie Black, M1605YA-ES52
 LG Gram Laptop Intel Core i7 11th Gen 1165G7 (2.80GHz) 16GB Memory 1 TB M.2 SSD Intel Iris Xe Graphics 15.6" Windows 10 Pro 64-bit 15Z90P-N.APS7U1
 MSI Laptop Intel Core i7 13th Gen 1355U (1.70GHz) 16GB Memory 1 TB NVMe SSD Intel Iris Xe Graphics 15.6" Windows 11 Home 64-bit Modern 15 B13M-447US
-MSI Modern 15 15.6" Ultra Thin and Light Professional Laptop Intel¬Æ Core‚Ñ¢ i5-1155G7 Intel¬Æ Iris¬Æ Xe 16GB DDR4 1TB NVMe SSD Win 11 Pro, B11M-023US 3 Years Warranty
+MSI Modern 15 15.6" Ultra Thin and Light Professional Laptop IntelÆ Coreô i5-1155G7 IntelÆ IrisÆ Xe 16GB DDR4 1TB NVMe SSD Win 11 Pro, B11M-023US 3 Years Warranty
 MSI Laptop Summit E14Evo Intel Core i5 12th Gen 1240P (1.70GHz) 16GB Memory 512 GB NVMe SSD Intel Iris Xe Graphics 14.0" Windows 11 Pro 64-bit Summit E14Evo A12M-026
 MSI Laptop Prestige 15 Intel Core i7 11th Gen 1185G7 (3.00GHz) 16GB Memory 512 GB NVMe SSD NVIDIA GeForce GTX 1650 Max-Q 15.6" Windows 10 Home (Free upgrade to Win 11) Prestige 15 A11SC-034
 Lenovo IdeaPad 3 14" Notebook 1920x1080 FHD Intel Core i3-1115G4 8GB RAM 128GB SSD Intel UHD Graphics Platinum Grey - Intel Core i3-1115G4 Dual-core - 1920 x 1080 Full HD Display - Intel UHD Grap
 MSI Laptop Intel Core i9 13th Gen 13950HX (2.20GHz) 64GB Memory 2 TB NVMe SSD NVIDIA GeForce RTX 4070 Laptop GPU 17.0" Touchscreen Windows 11 Pro 64-bit Creator Z17HXStudio A13VGT-065US
-ASUS ExpertBook B14‚Äù Laptop FHD i7-1165G7 16GB 1TB D Windows 10 Pro
-MSI Prestige 16 16" QHD+ 165Hz MiniLED Ultra Thin Professional Laptop Intel¬Æ Core‚Ñ¢ i7-13700H RTX 4060 32GB LPDDR5 2TB NVMe SSD Win 11 Pro, A13VF-039US 3 Years Warranty
+ASUS ExpertBook B14î Laptop FHD i7-1165G7 16GB 1TB D Windows 10 Pro
+MSI Prestige 16 16" QHD+ 165Hz MiniLED Ultra Thin Professional Laptop IntelÆ Coreô i7-13700H RTX 4060 32GB LPDDR5 2TB NVMe SSD Win 11 Pro, A13VF-039US 3 Years Warranty
 Samsung Galaxy Tab S8 Ultra SM-X900 Tablet - 14.6" WQXGA+ - Octa-core 2.99 GHz 2.40 GHz 1.70 GHz) - 12 GB RAM - 256 GB Storage - Android 12 - Graphite
 MSI Laptop Intel Core i3 12th Gen 1215U (1.20GHz) 8GB Memory 512 GB NVMe SSD Intel UHD Graphics 14.0" Windows 11 Home 64-bit Modern 14 C12M-495US
 GIGABYTE AORUS 15 XE5 - 15.6" 165 Hz QHD 2560x1440 IPS-level Display - Intel Core i7-12700H - NVIDIA GeForce RTX 3070 Ti - 16GB DDR5 - 1TB SSD - Win11 Home - Gaming Laptop (AORUS 15 XE5-73USB34SH)
@@ -63,7 +63,7 @@ Dell Education Chromebook 3000 3110 11.6" Chromebook - HD - 1366 x 768 - Intel C
 GIGABYTE AORUS 17 XE5 - 17.3" Thin Bezel FHD 1920x1080 IPS-level Display - Intel Core i7-12700H - NVIDIA GeForce RTX 3070 Ti - 16GB DDR5 - 1TB SSD - Win11 Home - Gaming Laptop (AORUS 17 XE5-73US534SH)
 HP Notebook 16" 1920 x 1200 EliteBook 860 G10 Intel Core i7-1370P (13th Gen) 16GB Memory 512GB M.2 SSD Intel Iris Xe Graphics Touchscreen Windows 11 Pro
 HP EliteBook 860 G10 16" Notebook - WUXGA - Intel Core i5 13th Gen i5-1340P Dodeca-core (12 Core) - 16 GB RAM - 256 GB SSD - Windows 11 Pro  7Y373UT#ABA
-2023 ASUS Vivobook S 16 Flip 16‚Äù WUXGA 16:10 Touch, AMD Ryzen 7 7730U CPU, AMD Radeon Vega 7 Graphics, 16GB RAM, 1TB SSD, FingerPrint Sensor, Stylus Supported, Windows 11 Home, TN3604YA-DS74T
+2023 ASUS Vivobook S 16 Flip 16î WUXGA 16:10 Touch, AMD Ryzen 7 7730U CPU, AMD Radeon Vega 7 Graphics, 16GB RAM, 1TB SSD, FingerPrint Sensor, Stylus Supported, Windows 11 Home, TN3604YA-DS74T
 MSI Laptop Intel Core i7 13th Gen 13700H (2.40GHz) 32GB Memory 1 TB PCIe SSD Intel Iris Xe Graphics 14.0" Windows 11 Pro 64-bit Commercial 14 H A13MG-003US
 MSI Vector GP77 13VG-096US Gaming Laptop Intel Core i9-13900H 2.60 GHz 17.3" Windows 11 Pro 64-bit
 MSI Raider GE77HX 12UHS-074 Gaming Laptop Intel Core i7-12800HX 2.00 GHz 17.3" Windows 11 Home 64-bit

@@ -1,6 +1,6 @@
-Lenovo Notebook Workstation P17 Gen 2 Laptop, 17.3" FHD IPS  LED , vProÂ®,  RTX A4000 Laptop GPU 8GB GDDR6, GB, 1TB SSD
+Lenovo Notebook Workstation P17 Gen 2 Laptop, 17.3" FHD IPS  LED , vPro®,  RTX A4000 Laptop GPU 8GB GDDR6, GB, 1TB SSD
 New Lenovo Ideapad 3i 15.6" Full HD Touchscreen Intel Iris Xe Graphics Intel core i5-1135G7 36GB RAM 2TB SSD Wi-Fi 6 HDMI SD Card Reader Webcam USB-C 3.2 Windows 11 Pro Grey
-Lenovo ThinkPad P1 Gen 6 Intel Laptop, 16" IPS  LED , vProÂ®,  RTX 3500 Ada Generation Laptop GPU 12GB GDDR6, 32GB, 1TB, One YR Onsite Warranty
+Lenovo ThinkPad P1 Gen 6 Intel Laptop, 16" IPS  LED , vPro®,  RTX 3500 Ada Generation Laptop GPU 12GB GDDR6, 32GB, 1TB, One YR Onsite Warranty
 Lenovo IdeaPad 3 15.6" Full HD Touchscreen Laptop,11th Gen Intel Core i5-1135G7 Processor,20GB DDR4 RAM,512GB SSD,Intel Iris Xe Graphics,Wifi-AX,Bluetooth,HDMI,USB,Windows 11 Pro
 Lenovo IdeaPad 3 15.6" Full HD Touchscreen Laptop,11th Gen Intel Core i5-1135G7 Processor,20GB DDR4 RAM,1TB SSD,Intel Iris Xe Graphics,Wifi-AX,Bluetooth,HDMI,USB,Windows 11 Pro
 HP 15.6" Full HD Touchscreen Intel Iris Xe Graphics Intel core i7-1165G7 32GB RAM 1TB SSD HDMI USB-C WebCam Bluetooth WiFi Windows 11 Home Silver
@@ -24,8 +24,7 @@ HP ENVY x360 15.6" Touchscreen Convertible 2-in-1 Notebook Intel Core i5-1240P 8
 Lenovo Ideapad 3i Laptop, 15.6" FHD IPS Touchscreen, Intel Core i5-1155G7, 16GB RAM, 512GB SSD, Intel Iris Xe Graphics, Privacy Camera, Wi-Fi, Windows 11 Home in S Mode
 HP Envy x360 15 inch Laptop, FHD Display, Intel Core i7-1355U, 16 GB RAM, 1 TB SSD, Intel Iris Xe Graphics, Windows 11 Home, 15-ew1199nr (2023),Silver
 Lenovo Ideapad 3 Home & Business Laptop (Intel i5-1135G7 4-Core, 12GB RAM, 256GB SSD, 15.6" Touch  Full HD (1920x1080), Intel Iris Xe, Wifi, Bluetooth, Webcam, Win 11 Home S-Mode)
-HP - 15.6" Touch-Screen Full HD Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Natural Silver 15-DY5073DX
- Notebook PC
+HP - 15.6" Touch-Screen Full HD Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Natural Silver 15-DY5073DX  Notebook PC
 Lenovo IdeaPad 3 15 laptop, 11th Gen Intel Core i5-1135G7 4-Cores Processor, Intel UHD Graphics, 8GB DDR4  512GB PCIe SSD, 15.6 FHD Touchscreen, WiFi, Bluetooth, HDMI, Webcam, Grey, Windows 11
 Lenovo Ideapad 3 Home & Business Laptop (Intel i5-1135G7 4-Core, 12GB RAM, 256GB PCIe SSD, 15.6" Touch  Full HD (1920x1080), Intel Iris Xe, Wifi, Bluetooth, Webcam, Windows 10 Pro
 Lenovo IdeaPad 3 15 laptop, 11th Gen Intel Core i5-1135G7 4-Cores Processor, Intel UHD Graphics, 20GB DDR4  512GB PCIe SSD, 15.6 FHD Touchscreen, WiFi, Bluetooth, HDMI, Webcam, Grey, Windows 11
@@ -49,7 +48,7 @@ Lenovo Flex 5 14.0" 2-in-1  (1920 x 1200) IPS WUXGA Touchscreen Notebook,Intel C
 HP Envy x360 15 2-in-1 Laptop, Intel Core i7-1260P 12-Cores Processor, Intel Iris Xe Graphics, 16GB DDR4  1TB PCIe SSD, 15.6" FHD IPS Touchscreen, WiFi, Backlight Keyboard, FP Reader, Windows 11 Pro
 Lenovo IdeaPad3 15 laptop, 11th Gen Intel Core 4-Core i5-1135G7(Beats i7-1065G7),Iris Xe Graphics, 20GB DDR4  512GB PCIe SSD, 15.6" FHD Touchscreen ,WiFi, USB, Bluetooth, HDMI, Webcam, Windows 11 Pro
 Lenovo IdeaPad 3 15.6" HD TouchScreen Notebook,10th Gen Intel Core i5-1035G1 Processor,8GB DDR4 RAM,256GB SSD,Intel UHD Graphics,WiFi-AC,Bluetooth,HDMI,USB, Windows 10 Pro
-Lenovo ThinkPad P1 Gen 6 Intel Laptop, 16", vProÂ®,  RTX 3500 Ada Generation Laptop GPU 12GB GDDR6, 32GB, 1TB, One YR Onsite Warranty
+Lenovo ThinkPad P1 Gen 6 Intel Laptop, 16", vPro®,  RTX 3500 Ada Generation Laptop GPU 12GB GDDR6, 32GB, 1TB, One YR Onsite Warranty
 ASUS TUF Gaming A15 (2022) Gaming Laptop, 15.6" 300Hz FHD Display, AMD Ryzen 7 6800H, GeForce RTX 3060, 16GB DDR5, 512GB PCIe SSD, Wi-Fi 6, Windows 11 Home, Mecha Gray, FA507RM-ES73
 New HP 15.6" Full HD (1920x1080) TouchScreen Laptop, 11th Gen Intel Core i7-1165G7 Processor, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Wifi-AC, Bluetooth,HDMI,USB, Windows 11 Pro
 MSI Pulse GL76 12UEK-052 Gaming Laptop Intel Core i7-12700H (Up to 4.70 GHz) 17.3" Windows 11 Home 64-bit

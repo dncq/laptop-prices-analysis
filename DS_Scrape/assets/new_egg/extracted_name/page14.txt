@@ -21,7 +21,7 @@ Eluktronics RP-15 G2 DIY Barebone Gaming Laptop Kit | AMD Ryzen 7 7840HS CPU | N
 ASUS TUF Gaming F17 Gaming Laptop, 17.3" 144Hz FHD IPS-Type Display, Intel Core i5-11400H Processor, GeForce RTX 3050, 8GB DDR4 RAM, 512GB PCIe SSD, Wi-Fi 6, Windows 11 Home, FX706HCB-ES51
 LG gram 16Z90R-N.APB8U1 16" Notebook - WQXGA - 2560 x 1600 - Intel Core i7 13th Gen i7-1360P Dodeca-core (12 Core) 2.20 GHz - 32 GB Total RAM - 512 GB SSD - Obsidian Black - Intel Chip - Windows
 Samsung Galaxy Book2 Business NP641BED-KA3US 14" Notebook - Full HD - 1920 x 1080 - Intel Core i7 12th Gen i7-1260P 1.70 GHz - 16 GB Total RAM - 256 GB SSD - Graphite - Intel Chip - Windows 11 Pr
-Samsung - Galaxy Chromebook 2 - 13.3" QLED Touch-Screen - IntelÂ® Coreâ„¢ i3 - 8GB Memory - 128GB eMMC - Mercury Gray XE530QDA-KB1US Laptop Notebook
+Samsung - Galaxy Chromebook 2 - 13.3" QLED Touch-Screen - Intel® Core™ i3 - 8GB Memory - 128GB eMMC - Mercury Gray XE530QDA-KB1US Laptop Notebook
 Lenovo ThinkPad X1 Nano Gen 1 13" Notebook 2K Intel Core i5-1130G7 16GB RAM 512GB SSD Intel Iris Xe Graphics Black
 MSI Stealth GS66 Gaming Laptop: Intel Core i9-12900H, GeForce RTX 3070 Ti, 15.6" 360Hz Display, 32GB DDR5, 1TB NVMe SSD, Thunderbolt 4, Cooler Boost Trinity+, Win 11 Home: Core Black 12UGS-025
 Dell Latitude 3445 14" Touchscreen Chromebook - Full HD Plus - 1920 x 1200 - AMD Ryzen 5 7520C Quad-core (4 Core) 2.80 GHz - 8 GB Total RAM - 8 GB On-board Memory - 256 GB SSD - Soft Charcoal - I
@@ -42,8 +42,8 @@ Dell Latitude 9000 9440 14" Touchscreen Convertible 2 in 1 Notebook - QHD+ - 256
 MSI Vector GP68 HX 13V Vector GP68HX 13VH-054US 16" Notebook - Full HD Plus - 1900 x 1200 - Intel Core i7 13th Gen i7-13700H 3.70 GHz - 16 GB Total RAM - 1 TB SSD - Cosmo Gray - Intel HM770 Chip
 HP OMEN - 17.3" 165 Hz IPS - Intel Core i7 13th Gen 13700HX (2.10GHz) - NVIDIA GeForce RTX 4070 Laptop GPU - 16 GB DDR5 - 1 TB PCIe SSD - Windows 11 Home 64-bit - Gaming Laptop (17-cm2047nr)
 Dell Latitude 9000 9440 14" Touchscreen Convertible 2 in 1 Notebook - QHD+ - 2560 x 1600 - Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz - 16 GB Total RAM - 16 GB On-board Memory -
-Lenovo ThinkPad P1 Gen 6 Intel Laptop, 16" IPS  LED , vProÂ®,  GeForce RTX 4080 Laptop GPU 12GB GDDR6, 32GB, 1TB, One YR Onsite Warranty
-MSI SUMMIT E14FLIP EVO 14.0" QHD+ Touch Ultra Thin 2-in-1 Professional Laptop IntelÂ® Coreâ„¢ i7-1360P Iris Xe 32GB LPDDR5 1TB NVMe SSD Win 11 Pro with MSI Pen, A13MT-268US 3 Years Warranty
+Lenovo ThinkPad P1 Gen 6 Intel Laptop, 16" IPS  LED , vPro®,  GeForce RTX 4080 Laptop GPU 12GB GDDR6, 32GB, 1TB, One YR Onsite Warranty
+MSI SUMMIT E14FLIP EVO 14.0" QHD+ Touch Ultra Thin 2-in-1 Professional Laptop Intel® Core™ i7-1360P Iris Xe 32GB LPDDR5 1TB NVMe SSD Win 11 Pro with MSI Pen, A13MT-268US 3 Years Warranty
 MSI Vector GP76 12UGS-608 Gaming Laptop Intel Core i7-12700H 2.30 GHz 17.3" Windows 11 Home 64-bit
 Microsoft Surface Pro 7 - 12.3" Touch-Screen - Intel Core i5 - 8 GB Memory - 256 GB Solid State Drive (Latest Model) - Platinum
 HP 15.6" Full HD IPS Micro-Edge Touchscreen Notebook,11th Gen Intel Core i5-1135G7 Quad-Core Processor,12GB DDR4 RAM,256GB SSD,Intel Iris Xe Graphics,Wifi-AC,Bluetooth,USB,HDMI, Windows 10 Pro
@@ -71,7 +71,7 @@ Microsoft Surface Pro 8 LTE Tablet - 13 Inch - Core i5 - 16 GB RAM - 256 GB SSD 
 Dell Precision 5000 5480 14" Mobile Workstation - Full HD Plus - 1920 x 1200 - Intel Core i7 13th Gen i7-13800H Tetradeca-core (14 Core) 2.50 GHz - 32 GB Total RAM - 32 GB On-board Memory - 512 G
 HP Flagship 17.3" HD+ Business Laptop, 11th Gen Intel i3-1125G4(> i5-1035G7), 32GB DDR4 RAM, 2TB SSD, Fast Charge, Bluetooth, WiFi 5, Webcam, W/HDMI, Windows 11 S 2 TB 32GB
 HP Victus Gaming Laptop, 15.6" FHD IPS 144Hz Display, AMD Ryzen 5 7535HS(>i7-11800H), 64GB DDR5 RAM, 2TB SSD, NVIDIA GeForce RTX 2050, Wi-Fi 6, Backlit Keyboard, Numeric Keypad, Windows 11 Home
-MSI Modern 14 14" Ultra Thin and Light Professional Laptop IntelÂ® Coreâ„¢ i5-1155G7 Iris Xe 8GB 512GB NVMe SSD Win 11 Pro, 3 Years Warranty
+MSI Modern 14 14" Ultra Thin and Light Professional Laptop Intel® Core™ i5-1155G7 Iris Xe 8GB 512GB NVMe SSD Win 11 Pro, 3 Years Warranty
 Newest Lenovo Ideapad 3i Laptop, 14" FHD Non-touch Display, Intel Core i5-10210U, 12GB DDR4 RAM, 512GB PCIe SSD, Webcam, HDMI, Bluetooth, Wi-Fi, Windows 11 Home, Platinum Grey
 Asus Chromebook Flip CR11 CR1102FGA-YZ42T 11.6" Touchscreen Convertible 2 in 1 Chromebook - HD - 1366 x 768 - Intel N100 Quad-core (4 Core) 800 MHz - 4 GB Total RAM - 4 GB On-board Memory - 32 GB
 Latitude 5000 5430 14" Chromebook - Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 3.30 GHz - 8 GB Total RAM - 256 GB SSD - Titan Gray - Intel Chip - ChromeOS - Intel Iris Xe GraphicsLPDDR5

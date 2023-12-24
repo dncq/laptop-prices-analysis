@@ -1,0 +1,1395 @@
+Brand,CPU,GPU,RAM,Monitor,Resolution,Storage,OS,Weight,Price
+Lenovo,Intel Core i7 13th Gen 1355U (1.70GHz) ,Intel Iris Xe Graphics,16 GB,16 Inches,1920 x 1200,1TB SSD,Windows 11 Home,4.17 lbs.,699.99
+Acer,Intel Core i7 13th Gen 1355U (1.70GHz),Intel Iris Xe Graphics,16 GB,15.6 Inches,1920x1080,512GB SSD,Windows 11 Home,3.92 lbs.,699.99
+MSI,AMD Ryzen 5-7530U,AMD Radeon Graphics,16GB ,14 Inches,1920x1080,512GB SSD,Windows 11 Home,3.75 lbs.,399.0
+Acer,Intel Celeron N4500 (1.10GHz) ,Intel UHD Graphics,4GB,14.0 Inches,1366 x 768,128GB SSD,Chrome OS,,229.99
+MSI,Intel Core i9 13th Gen 13950HX (2.20GHz) ,NVIDIA RTX 2000 ADA,32GB,16 Inches,2560 x 1600,1TB NVMe SSD,Windows 11 Pro 64-bit,,2891.46
+MSI,AMD Ryzen 7-7730U,AMD Radeon Graphics,16GB ,14 Inches,1920x1080,512GB SSD,Windows 11 Home,3.75 lbs.,449.0
+Acer,Intel Core i5 12th Gen 1235U (1.30GHz),Intel Iris Xe Graphics,8GB,15.6 Inches,1920x1080,512GB SSD,Windows 11 Home,3.88 lbs.,553.99
+LG,Intel Core i7-1260P (2.10GHz),Intel Iris Xe Graphics,16GB,16 Inches,2560 x 1600,1TB SSD,Windows 11 Pro,3.26 lbs.,1149.99
+Lenovo,AMD Ryzen 5 5000 Series 5500U (2.10GHz),AMD Radeon Graphics,8GB,15.6 Inches,1920 x 1080,512 GB PCIe SSD,Windows 11 Home,3.52 lbs.,379.99
+Acer,Intel Core i5 11th Gen 1135G7 (2.40GHz) ,Intel Iris Xe Graphics ,8GB,14.0 Inches,1920 x 1080,128GB SSD,Chrome OS,,687.99
+HP,Intel Core i5 12th Gen 1235U (1.30GHz),Intel Iris Xe Graphics,8 GB,14 Inches,1366 x 768,256 GB PCIe SSD,Windows 11 Home,3.33 lbs.,599.99
+Lenovo,AMD Ryzen 5 7530U,AMD Radeon Graphics,16GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Home,4.63 lbs.,599.99
+MSI,Intel Core i9 13th Gen 13950HX (2.20GHz),NVIDIA RTX 3000,32GB,17.0 Inches,2560 x 1600,1TB NVMe SSD,Windows 11 Pro 64-bit,,3429.99
+MSI,Intel Core i5 13th Gen 13420H (2.10GHz),Intel Iris Xe Graphics,32GB,15.6 Inches,1920 x 1080,1TB NVMe SSD,Windows 11 Home,3.75 lbs.,699.0
+MSI,Intel Core i3 12th Gen 1215U (1.20GHz),Intel UHD Graphics,8GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,3.85 lbs.,379.0
+ASUS,Intel Core i9 13th Gen,Intel Iris Plus Graphics,16GB,16 Inches,1920 x 1200,1TB PCIe G3 SSD,Windows 11 Home,,999.99
+MSI,Intel Core i5-1155G7,Intel Iris Xe Graphics,16GB,14 Inches,1920x1080,512GB SSD,Windows 11 Home,3.75 lbs.,449.0
+MSI,Intel Core i7 13th Gen 1360P (2.20GHz),Intel Iris Xe Graphics,32GB,16 Inches,2560 x 1600,1TB NVMe SSD,Windows 11 Pro,4.63 lbs.,1699.0
+Lenovo,Intel Core i3 13th Gen 1315U (1.20GHz),Intel UHD Graphics,8GB,15.6 Inches,1920 x 1080,256GB PCIe SSD,Windows 11 in S mode,3.57 lbs.,329.99
+Lenovo,Intel Core i3 11th Gen 1115G4 (3.00GHz),Intel UHD Graphics,4GB,15.6 Inches,1920 x 1080,128 GB PCIe SSD,Windows 11 in S mode,3.75 lbs.,279.99
+MSI,Intel Core i7 13th Gen 13620H (2.40GHz),NVIDIA GeForce RTX 4050,64GB,16.0 Inches,2560 x 1600,2TB PCIe SSD,Windows 11 Home,4.98 lbs.,1499.0
+MSI,Intel Core i7 13th Gen 1360P (2.20GHz),NVIDIA GeForce RTX 4050,32GB,16 Inches,2560 x 1600,1TB PCIe SSD,Windows 11 Pro,4.63 lbs.,1974.99
+Microsoft,Intel Core i7 12th Gen 1255U (1.70GHz) ,Intel Iris Xe Graphics ,16GB,"13"" Touchscreen",2880 x 1920,512GB SSD,Windows 11 Home,1.94 lbs.,1399.99
+MSI,Intel Core i7 13th Gen 1360P (2.20GHz),Intel Iris Xe Graphics,32GB,14 Inches,2880 x 1800,1TB NVMe SSD,Windows 11 Pro,3.51 lbs.,1715.6
+MSI,Intel Core i7 13th Gen 1360P (2.20GHz),Intel Iris Xe Graphics,32GB,13.4 Inches,1920 x 1200,1TB SSD,Windows 11 Pro,2.98 lbs.,1610.34
+MSI,Intel Core i7 12th Gen 1260P (2.10GHz),Intel Iris Xe Graphics,16 GB,14 Inches,2880 x 1800,1 TB SSD,Windows 11 Pro,3.61 lbs.,1461.82
+MSI,Intel Core i7 11th Gen 11800H (2.30GHz),NVIDIA GeForce RTX 3060 Laptop GPU,16GB,16 Inches,2560 x 1600,512 GB NVMe SSD,Windows 10 Pro 64-bit,5.07 lbs.,1139.0
+MSI,Intel Core i7-1195G7,Intel Iris Xe Graphics,8GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.75 lbs.,599.0
+Acer,Intel Core i5 13th Gen 1335U (1.30GHz),Intel Iris Xe Graphics,16 GB,15.6 Inches,1920x1080,512GB SSD,Windows 11 Home,3.92 lbs.,599.99
+Acer,Intel Core i5 13th Gen 1335U (1.30GHz),Intel Iris Xe Graphics,8 GB,14.0 Inches,1920 x 1200,512GB SSD,Windows 11 Home,3.26 lbs.,599.99
+ASUS,Intel Core i9-13900H,NVIDIA GeForce RTX 4060,16GB,16 Inches,3200 x 2000,1TB SSD,Windows 11 Home,,1787.74
+Microsoft,Intel Core i5 11th Gen 1135G7 (2.40GHz) ,Intel Iris Xe Graphics ,8 GB,12.3 Inches,2736 x 1824,256 GB SSD,Windows 10 Pro 64-bit,1.70 lbs.,869.0
+MSI,Intel Core i7 13th Gen 13620H (2.40GHz),Intel Iris Xe Graphics,32GB,15.6 Inches,1920 x 1080,1TB NVMe SSD,Windows 11 Home,3.75 lbs.,749.0
+MSI,Intel Core i7 12th Gen 1280P (1.80GHz),Intel Iris Xe Graphics,32GB,14 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3.60 lbs.,899.0
+Lenovo,AMD Ryzen 7 7000 Series 7730U (2.00GHz),AMD Radeon Graphics,16GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Home,4.17 lbs.,619.99
+Microsoft,Intel Core i7,Intel Iris Plus Graphics,16GB,14.4 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,2097.99
+ASUS,Intel Core i9-13900H,NVIDIA GeForce RTX 4060,16GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Home,,1299.99
+HP,Intel Core i5 i5-1235U,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 10 Pro,,599.99
+ASUS,AMD Ryzen 5 5600H,  AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,3.75 lbs.,529.99
+HP,Intel Core i3-1115G4,Intel UHD Graphics,16GB,15.6 Inches,1366 x 768,512GB PCIe NVMe SSD,Windows 11 Home,,446.0
+LG,Intel Core i5-1340P (2.7GHz),Intel HD Graphics 620,8 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,894.99
+ASUS,Intel Core i5-12500H,Intel Iris Xe Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,3.75 lbs.,579.99
+LG,Intel Core i7 12th Gen 1260P (2.10GHz),Intel Iris Xe Graphics,16GB,16 Inches,2560 x 1600,1TB PCIe SSD,Windows 11 Pro,2.65 lbs.,1249.99
+ASUS,Intel Core i5 13th Gen 13500H (2.60GHz),NVIDIA GeForce RTX 2050,8GB,14.0 Inches,1920 x 1200,512GB M.2 NVMe PCIe 3.0 SSD,Windows 11 Home,,699.99
+ASUS,Intel Core i5-13500H,Intel UHD Graphics,8GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Home,4.14 lbs.,629.0
+Microsoft,Intel Core i3 10100Y (1.3GHz),Intel UHD Graphics 615,8 GB,10.5 Inches,1920 x 1280,128 GB SSD,Windows 11 Pro,,689.99
+ASUS,Intel Core i7-13700H CPU,NVIDIA GeForce RTX 4050 GPU,16GB,16 Inches,1920 x 1200,1TB SSD,Windows 11 Home,4.25 lbs.,1199.99
+ASUS,Intel Core i5-1340P (1.9GHz),Intel Iris Xe Graphics,16GB,14 Inches,2880 x 1800,512GB SSD,Windows 11 Home,,999.99
+MSI,Intel Core i5-1240P,Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1200,512GB SSD,Windows 11 Home,2.18 lbs.,838.88
+Lenovo,Intel Core i5-1235U (Deca-Core) 3.3GHz,Intel Iris Xe Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Home,,539.99
+ASUS,AMD Ryzen 7 7735U CPU,  AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,3.53 lbs.,979.99
+ASUS,Intel Core i7-13700H CPU,Intel Iris Xe Graphics,16GB,16 Inches,1920 x 1200,1TB SSD,Windows 11 Home,4.14 lbs.,834.99
+ASUS,Intel Core i9-13980HX,NVIDIA GeForce RTX 4070,16GB,16 Inches,2560 x 1600,1TB SSD,Windows 11 Home,4.19 lbs.,1959.99
+ASUS,AMD Ryzen 5 7530U,AMD Radeon Vega 7 Graphics,8GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Home,,699.99
+LG,Intel Core i5 -1340P,Intel UHD Graphics,8GB,17.0 Inches,2560 x 1600,512GB NVME Gen4 SSD,Windows 11 Pro,,1049.99
+LG,AMD Ryzen 5 5625U,AMD Radeon Graphics,8GB,14.0 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,639.99
+ASUS,AMD Ryzen 7 7730U CPU,  AMD Radeon Graphics,16GB,16 Inches,1920 x 1200,1TB SSD,Windows 11 Home,4.14 lbs.,735.99
+HP,Intel Core i7 12th Gen 1265U (1.80GHz),Intel Iris Xe Graphics,16GB,14.0 Inches,1920 x 1080,512GB PCIe SSD,Windows 10 Pro (available through downgrade rights from Windows 11 Pro),3.03 lbs.,749.95
+Samsung,Intel Core i5 13th Gen i5-1340P (1.90GHz),Intel Iris Xe Graphics,16 GB,14 Inches,2880 x 1800,512 GB SSD,Windows 11 Pro,,1308.99
+ASUS,AMD Ryzen 7 7735U CPU,  AMD Radeon 680M,32GB,15.6 Inches,2880 x 1800,1TB SSD,Windows 11 Home,3.09 lbs.,1299.99
+Samsung,Intel Core i5 13th Gen i5-1340P (1.90GHz),Intel Iris Xe Graphics,16 GB,16 Inches,2880 x 1800,512 GB SSD,Windows 11 Pro,,1636.24
+Samsung,Intel Core i7 13th Gen i7-1355U (1.70GHz),Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1039.99
+Samsung,Intel Core i7 13th Gen i7-1360P 2.20 GHz,Intel Iris Xe Graphics,32 GB,16 Inches,2880 x 1800,1 TB SSD,Windows 11 Pro,,1529.99
+ASUS,AMD Ryzen 7 6000 Series 6800H (3.20GHz),NVIDIA GeForce RTX 3050 Ti,16 GB,16 Inches,3840 x 2400,1 TB PCIe SSD,Windows 11 Home,4.41 lbs.,1199.99
+LG,Intel Core i7 12th Gen 1260P (2.10GHz),Intel Iris Xe Graphics,16GB,17.0 Inches,2560 x 1600,1TB PCIe SSD,Windows 11 Pro,2.98 lbs.,1219.99
+Samsung,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,999.99
+Lenovo,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,739.99
+Samsung,Intel Core i7 13th Gen 2.20GHz,Intel Iris Xe Graphics,16GB,14 Inches,2880 x 1800,1TB SSD,Windows 11 Pro,2.58 lbs.,1659.99
+ASUS,Intel Core i5-13500H Processor,Intel HD Graphics,8GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Home,,799.99
+Lenovo,AMD Ryzen 5 7000 Series 7530U (2.00GHz),AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,3.56 lbs.,617.99
+Acer,Intel Core i7 13th Gen 13700H (2.40GHz),Intel Iris Xe Graphics,16 GB,16 Inches,3200 x 2000,1 TB PCIe SSD,Windows 11 Home,3.53 lbs.,1163.99
+Acer,Intel Core i5 13th Gen 1335U (1.30GHz),Intel Iris Xe Graphics,8 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Home,3.53 lbs.,799.99
+Acer,Intel Core i7 12th Gen 12700H (2.30GHz),NVIDIA GeForce RTX 3070 Ti,32 GB,16.0 Inches,3072 x 1920,1 TB PCIe SSD,Windows 11 Pro 64-bit,5.29 lbs.,2499.99
+ASUS,Intel Core i9 13th Gen 13900H (2.60GHz),NVIDIA GeForce RTX 4070,32GB,14.5 Inches,2880 x 1800,1TB PCIe SSD,Windows 11 Home,3.64 lbs.,1999.99
+ASUS,AMD Ryzen 7 7730U CPU,  AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3.75 lbs.,799.99
+ASUS,AMD Ryzen 9 7940HS,  AMD Radeon Graphics,16GB,16 Inches,1920 x 1200,1TB SSD,Windows 11 Home,,799.99
+ASUS,Intel Core i9-13980HX Processor,NVIDIA Geforce RTX 4070 Laptop GPU,32GB DDR5 SO-DIMM Memory,16 Inches,3200 x 2000,1TB SSD,Windows 11 Home,,2541.17
+ASUS,Intel Core i9-13980HX Processor,NVIDIA GeForce RTX 4060,32GB DDR5 SO-DIMM,16 Inches,3200 x 2000,1TB SSD,Windows 11 Home,,2089.99
+MSI,Intel Core i5-1335U,Intel Iris Xe Graphics,16GB,14 Inches,1920x1080,512GB SSD,Windows 11 Home,3.09 lbs.,749.99
+MSI,Intel Core i7 13th Gen 13700H (2.40GHz),Intel Iris Xe Graphics,32GB,16 Inches,2560 x 1600,1TB SSD,Windows 11 Pro,4.19 lbs.,1562.42
+Asus,Intel Core i5-1135G7,Intel Iris Xe Graphics,8GB,14 Inches,1920 x 1080,256GB SSD,Windows 10 Pro,3.20 lbs.,511.07
+ASUS,AMD Ryzen 7 7730U CPU,  AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3.75 lbs.,849.99
+ASUS,AMD Ryzen 9 7940HS Mobile Processor,NVIDIA GeForce RTX 4060 Laptop GPU,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3.97 lbs.,1399.99
+ASUS,Intel Core i9-13900H,Intel Iris Xe Graphics,16GB,17.3 Inches,1920 x 1080,1TB SSD,Windows 11 Home,,999.99
+ASUS,Intel Core i9 13th Gen 13900H (2.60GHz),NVIDIA GeForce RTX 4060,16GB,14.5 Inches,2880 x 1800,1TB PCIe SSD,Windows 11 Home,3.64 lbs.,1899.99
+MSI,Intel Core i7 13th Gen 13700H (2.40GHz),Intel Iris Xe Graphics,32GB,14 Inches,1920 x 1200,1TB SSD,Windows 11 Pro,3.53 lbs.,1456.5
+ASUS,Intel Core i9 13th Gen 13900H (2.60GHz),NVIDIA GeForce RTX 4060,32GB,14.5 Inches,2880 x 1800,1TB PCIe SSD,Windows 11 Home,3.86 lbs.,2299.99
+MSI,Intel Core i7 11th Gen 1195G7 (2.90GHz),Intel Iris Xe Graphics,32GB,14 Inches,1920 x 1080,1TB SSD,Windows 10 Home,2.84 lbs.,1299.0
+ASUS,Intel Core PENTIUM 8505,Intel UHD Graphics,8GB,17.3 Inches,1600 x 900,256GB SSD,Windows 11 Home,4.63 lbs.,482.99
+MSI,Intel Core i5-1155G7,Intel Iris Xe Graphics,8GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.75 lbs.,564.9
+MSI,Intel Core i7-1260P (2.10GHz),NVIDIA GeForce RTX 3050,16GB,16 Inches,2560 x 1600,512GB SSD,Windows 11 Pro 64-bit,4.62 lbs.,1571.54
+ASUS,Intel Core i9-13980HX,NVIDIA GeForce RTX 4070,16GB,16 Inches,2560 x 1600,1TB SSD,Windows 11 Home,4.19 lbs.,1959.99
+ASUS,AMD Ryzen 5 7530U,AMD Radeon Vega 7 Graphics,8GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Home,,714.99
+LG,Intel Core i5 -1340P,Intel UHD Graphics,8GB,17.0 Inches,2560 x 1600,512GB NVME Gen4 SSD,Windows 11 Pro,,1049.99
+LG,AMD Ryzen 5 5625U,AMD Radeon Graphics,8GB,14.0 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,639.99
+ASUS,AMD Ryzen 7 7730U CPU,  AMD Radeon Graphics,16GB,16 Inches,1920 x 1200,1TB SSD,Windows 11 Home,4.14 lbs.,735.99
+HP,Intel Core i7 12th Gen 1265U (1.80GHz),Intel Iris Xe Graphics,16GB,14.0 Inches,1920 x 1080,512GB PCIe SSD,Windows 10 Pro (available through downgrade rights from Windows 11 Pro),3.03 lbs.,749.95
+Samsung,Intel Core i5 13th Gen i5-1340P (1.90GHz),Intel Iris Xe Graphics,16 GB,14 Inches,2880 x 1800,512 GB SSD,Windows 11 Pro,,1308.99
+ASUS,AMD Ryzen 7 7735U CPU,  AMD Radeon 680M,32GB,15.6 Inches,2880 x 1800,1TB SSD,Windows 11 Home,3.09 lbs.,1299.99
+Samsung,Intel Core i5 13th Gen i5-1340P (1.90GHz),Intel Iris Xe Graphics,16 GB,16 Inches,2880 x 1800,512 GB SSD,Windows 11 Pro,,1474.99
+Samsung,Intel Core i7 13th Gen i7-1355U (1.70GHz),Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1039.99
+Samsung,Intel Core i7 13th Gen i7-1360P 2.20 GHz,Intel Iris Xe Graphics,32 GB,16 Inches,2880 x 1800,1 TB SSD,Windows 11 Pro,,1529.99
+ASUS,AMD Ryzen 7 6000 Series 6800H (3.20GHz),NVIDIA GeForce RTX 3050 Ti,16 GB,16 Inches,3840 x 2400,1 TB PCIe SSD,Windows 11 Home,4.41 lbs.,1049.99
+LG,Intel Core i7 12th Gen 1260P (2.10GHz),Intel Iris Xe Graphics,16GB,17.0 Inches,2560 x 1600,1TB PCIe SSD,Windows 11 Pro,2.98 lbs.,1249.99
+Samsung,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,999.99
+Lenovo,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,689.99
+Samsung,Intel Core i7 13th Gen 2.20GHz,Intel Iris Xe Graphics,16GB,14 Inches,2880 x 1800,1TB SSD,Windows 11 Pro,2.58 lbs.,1659.99
+ASUS,Intel Core i5-13500H Processor,Intel HD Graphics,8GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Home,,799.99
+Lenovo,AMD Ryzen 5 7000 Series 7530U (2.00GHz),AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,3.56 lbs.,617.99
+Acer,Intel Core i7 13th Gen 13700H (2.40GHz),Intel Iris Xe Graphics,16 GB,16 Inches,3200 x 2000,1 TB PCIe SSD,Windows 11 Home,3.53 lbs.,1163.99
+Acer,Intel Core i5 13th Gen 1335U (1.30GHz),Intel Iris Xe Graphics,8 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Home,3.53 lbs.,799.99
+Acer,Intel Core i7 12th Gen 12700H (2.30GHz),NVIDIA GeForce RTX 3070 Ti,32 GB,16.0 Inches,3072 x 1920,1 TB PCIe SSD,Windows 11 Pro 64-bit,5.29 lbs.,2499.99
+ASUS,AMD Ryzen 7 7730U CPU,  AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3.75 lbs.,799.99
+ASUS,AMD Ryzen 9 7940HS,  AMD Radeon Graphics,16GB,16 Inches,1920 x 1200,1TB SSD,Windows 11 Home,,799.99
+ASUS,Intel Core i9-13980HX Processor,NVIDIA Geforce RTX 4070 Laptop GPU,32GB DDR5 SO-DIMM Memory,16 Inches,3200 x 2000,1TB SSD,Windows 11 Home,,2541.17
+ASUS,Intel Core i9-13980HX Processor,NVIDIA GeForce RTX 4060,32GB DDR5 SO-DIMM,16 Inches,3200 x 2000,1TB SSD,Windows 11 Home,,2089.99
+MSI,Intel Core i5-1335U,Intel Iris Xe Graphics,16GB,14 Inches,1920x1080,512GB SSD,Windows 11 Home,3.09 lbs.,699.99
+MSI,Intel Core i7 13th Gen 13700H (2.40GHz),Intel Iris Xe Graphics,32GB,16 Inches,2560 x 1600,1TB SSD,Windows 11 Pro,4.19 lbs.,1562.42
+ASUS,AMD Ryzen 7 7730U CPU,  AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3.75 lbs.,849.99
+ASUS,AMD Ryzen 9 7940HS Mobile Processor,NVIDIA GeForce RTX 4060 Laptop GPU,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3.97 lbs.,1399.99
+ASUS,Intel Core i9-13900H,Intel Iris Xe Graphics,16GB,17.3 Inches,1920 x 1080,1TB SSD,Windows 11 Home,,999.99
+ASUS,Intel Core i9 13th Gen 13900H (2.60GHz),NVIDIA GeForce RTX 4060,16GB,14.5 Inches,2880 x 1800,1TB PCIe SSD,Windows 11 Home,3.64 lbs.,1899.99
+MSI,Intel Core i7 13th Gen 13700H (2.40GHz),Intel Iris Xe Graphics,32GB,14 Inches,1920 x 1200,1TB SSD,Windows 11 Pro,3.53 lbs.,1476.98
+ASUS,Intel Core i9 13th Gen 13900H (2.60GHz),NVIDIA GeForce RTX 4060,32GB,14.5 Inches,2880 x 1800,1TB PCIe SSD,Windows 11 Home,3.86 lbs.,2299.99
+MSI,Intel Core i7 11th Gen 1195G7 (2.90GHz),Intel Iris Xe Graphics,32GB,14 Inches,1920 x 1080,1TB SSD,Windows 10 Home,2.84 lbs.,949.0
+ASUS,Intel Core PENTIUM 8505,Intel UHD Graphics,8GB,17.3 Inches,1600 x 900,256GB SSD,Windows 11 Home,4.63 lbs.,482.99
+ASUS,Intel Core i7-1360P (2.2GHz),Intel Iris Xe Graphics,16GB,14 Inches,2560 x 1600,1TB PCIe NVMe SSD,Windows 11 Home,2.98 lbs.,1099.99
+ASUS,Intel Core i9 13th Gen 13980HX (2.20GHz),NVIDIA GeForce RTX 4060,16GB,16 Inches,3200 x 2000,1TB SSD,Windows 11 Home,4.41 lbs.,1699.99
+ASUS,Intel Core i9 13th Gen 13900H (2.60GHz),NVIDIA GeForce RTX 4070,32GB,16.0 Inches,3200 x 2000,1TB PCIe SSD,Windows 11 Home,5.29 lbs.,2699.99
+ASUS,Intel Core i7-1355UCPU,Intel Iris Xe Graphics,32GB,13.3 Inches,2.8K,1TB SSD,Windows 11 Pro,2.2 lbs,1312.99
+ASUS,Intel Core i7 13th Gen 13700H (2.40GHz),NVIDIA GeForce RTX 2050,16GB,14.0 Inches,1920 x 1200,1TB PCIe SSD,Windows 11 Home,3.09 lbs.,1080.33
+Asus,Intel Celeron N4020 Dual-core (2 Core) 1.10 GHz,Intel UHD Graphics 600,4 GB,11.6 Inches,1366 x 768,64 GB Flash Memory,Windows 10 Home,,183.95
+MSI,Intel Core i7 12th Gen 1260P (2.10GHz),Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,4.29 lbs.,999.0
+ASUS,AMD Ryzen 5 7530U CPU,  AMD Radeon Graphics,8GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Home,4.14 lbs.,577.99
+LG,Intel Core i7 11th Gen 1165G7 (2.80GHz),Intel Iris Xe Graphics,16GB,15.6 Inches,1920 x 1080,1TB M.2 SSD,Windows 10 Pro 64-bit,2.47 lbs.,1029.99
+MSI,Intel Core i7 13th Gen 1355U (1.70GHz),Intel Iris Xe Graphics,16GB,15.6 Inches,1920x1080,1TB SSD,Windows 11 Home,3.75 lbs.,899.99
+MSI,Intel Core i5 11th Gen 1155G7 (2.50GHz),Intel Iris Xe Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,3.52 lbs.,899.0
+MSI,Intel Core i5 12th Gen 1240P (1.70GHz),Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,4.29 lbs.,850.0
+MSI,Intel Core i7 11th Gen 1185G7 (3.00GHz),NVIDIA GeForce GTX 1650 Max-Q,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 10 Home,3.71 lbs.,1282.99
+Lenovo,Intel Core i3-1115G4,Intel UHD Graphics,8GB,14 Inches,1920 x 1080,128GB SSD,Windows 10 Home,,308.0
+MSI,Intel Core i9 13th Gen 13950HX (2.20GHz),NVIDIA GeForce RTX 4070,64GB,17.0 Inches,2560 x 1600,2TB NVMe SSD,Windows 11 Pro 64-bit,5.49 lbs.,3717.99
+ASUS,Intel Core i7-1165G7,Intel HD Graphics,16GB,14 Inches,1920 x 1080,1TB SSD,Windows 10 Pro,,1349.99
+MSI,Intel Core i7 13th Gen 13700H (2.40GHz),NVIDIA GeForce RTX 4060,32GB,16 Inches,2560 x 1600,2TB NVMe SSD,Windows 11 Pro,4.19 lbs.,1975.2
+Samsung,Qualcomm Snapdragon 8 Gen 1,Adreno 730,12 GB,14.6 Inches,WQXGA+,256 GB,Android 12,,1199.99
+MSI,Intel Core i3 12th Gen 1215U (1.20GHz),Intel UHD Graphics,8GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Home,2.62 lbs.,449.99
+MSI,AMD Ryzen 5 7000 Series 7530U (2.00GHz),AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3.85 lbs.,699.99
+ASUS,Intel Core i5 11th Gen 1135G7 (2.40GHz),Intel Iris Xe Graphics,8GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 10 Pro 64-bit,3.81 lbs.,629.99
+MSI,Intel Core i9 13th Gen 13900H (2.60GHz),NVIDIA GeForce RTX 4050,16GB,16 Inches,2560 x 1600,1TB PCIe SSD,Windows 11 Home,4.98 lbs.,1599.99
+Dell,Intel N100 Quad-core (4 Core),Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,64 GB Flash Memory,Windows 11 Pro Education,,378.99
+Dell,Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz,Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,3.54 Pounds,199.0
+GIGABYTE,Intel Core i7-12700H,NVIDIA GeForce RTX 3070 Ti,16GB,"17.3"" Thin Bezel FHD 1920x1080 IPS-level Anti-glare Display (360Hz, 72% NTSC)",1920x1080,1TB SSD,Windows 11 Home,5.95 lbs.,1920.0
+HP,Intel Core i7-1370P (13th Gen),Intel Iris Xe Graphics,16GB,16 Inches,1920 x 1200,512GB M.2 SSD,Windows 11 Pro,3.81 lb,1925.99
+HP,Intel Core i5 13th Gen i5-1340P,Intel HD Graphics 620,16 GB,16 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,6.65 pounds,1587.99
+ASUS,AMD Ryzen 7 7730U CPU,  AMD Radeon Vega 7 Graphics,16GB,16 Inches,1920 x 1200,1TB SSD,Windows 11 Home,,898.99
+MSI,Intel Core i7 13th Gen 13700H (2.40GHz),Intel Iris Xe Graphics,32GB,14 Inches,1920 x 1200,1TB PCIe SSD,Windows 11 Pro 64-bit,3.31 lbs.,1129.0
+MSI,Intel Core i9-13900H,NVIDIA GeForce RTX 4070,32GB,17.3 Inches,2560 x 1440,1TB PCIe SSD,Windows 11 Pro,6.17 lbs.,2015.98
+MSI,Intel Core i7 12800HX (2.00GHz),NVIDIA GeForce RTX 3080 Ti,16GB,17.3 Inches,1920 x 1080,1TB PCIe SSD,Windows 11 Home,6.39 lbs.,1948.7
+HP,AMD Ryzen 5 7520U,AMD Radeon Graphics,256 GB SSD,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Home,,374.99
+ASUS,Intel Core i5-11300H,NVIDIA GeForce GTX 1650 Max-Q,8GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,3.64 lbs.,920.99
+MSI,Intel Core i5 11th Gen 1155G7 (2.50GHz),Intel Iris Xe Graphics,8GB,14 Inches,1920 x 1080,512GB SSD,Windows 10 Home,2.62 lbs.,799.0
+HP,Intel Core i7 13th Gen 1365U (1.8 GHz/5.2 Ghz Boost),Intel Iris Xe Graphics,32 GB,13.5 Inches,1920 x 1280,1 TB SSD,Windows 11 Pro,2 - 2.9 lbs.,2069.17
+Samsung,Intel Core i7-1360P (2.20GHz),Intel Iris Xe Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.44 lb,1449.99
+MSI,Intel Core i5 12th Gen 1240P (1.70GHz),Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.60 lbs.,799.0
+MSI,Intel Core i9 12th Gen 12900H (2.50GHz),NVIDIA GeForce RTX 3080 Laptop GPU,32GB,17.0 Inches,2560 x 1600,2TB NVMe SSD,Windows 11 Pro 64-bit,6.79 lbs.,3328.99
+Microsoft,Intel Core i7 10-Core (12th Gen),Intel Iris Xe Graphics,16GB,13.5 Inches,2256 x 1504 PixelSense Touchscreen,512GB SSD,Windows 10 Pro,2.86 lb,1783.99
+Lenovo,Intel Core i5 12th Gen 1235U (1.30GHz) ,Intel Iris Xe Graphics ,8GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Home,3.59 lbs.,737.99
+ASUS,Intel Core i9-12900H,NVIDIA GeForce RTX 3060,32GB,15.6 Inches,1920 x 1080,1TB PCIe NVMe M.2 SSD,Windows 11 Pro,5.16 lbs.,2913.99
+Lenovo,AMD Ryzen 3 7320U Quad-core (4 Core) 2.40 GHz,AMD Radeon 610M Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Home,,409.0
+MSI,Intel Core i5-11400H,NVIDIA GeForce RTX 2050,8GB,15.6 Inches,1920 x 1080 IPS-Level 144Hz,512 GB NVMe SSD,Windows 11 Home,4.10 lbs.,699.0
+MSI,Intel Core i9-12900H,NVIDIA GeForce RTX 3070 Ti,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,4.96 lbs.,1691.99
+Aorus,Intel Core i7 12700H (2.30GHz),NVIDIA GeForce RTX 3080 Ti,16 GB,17.3 Inches,1920 x 1080,1 TB SSD,Windows 11 Home,5.95 lbs.,2205.99
+HP,Intel Core i5 12th Gen 1245U (1.60GHz),Intel Iris Xe Graphics,16GB,14.0 Inches,1920 x 1200,512GB PCIe SSD,Windows 11 Pro 64-bit,2.56 lbs.,899.99
+DELL,Intel Core i5 13th Gen,Intel Iris Xe Graphics,16GB,13.3 Inches,2560 x 1600,256GB SSD,Windows 11 Pro,,1500.54
+Samsung,Intel Core i5,UHD Graphics,8GB,13.3 Inches,3840 x 2160,256GB SSD,Chrome OS,,624.7
+Samsung,Qualcomm Snapdragon 778G,Qualcomm Adreno 618,6 GB,10.1 Inches,1920 x 1200,128 GB,Android 9 Pie,,620.99
+Samsung,Intel Core i7 13th Gen i7-13700H 2.40 GHz,Intel Geforce RTX 4070,32 GB,16 Inches,2880 x 1800,1 TB SSD,Windows 11 Pro,,2729.99
+Samsung,Intel Core i5 13th Gen i5-1340P Dodeca-core (12 Core) 1.90 GHz,Intel Evo Platform,16 GB,13.3 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1255.81
+Samsung,Intel Core i9 13th Gen i9-13900H Tetradeca-core (14 Core) 2.60 GHz,Intel Evo Platform,32 GB,16 Inches,2880 x 1800,1 TB SSD,Windows 11 Pro,,3251.99
+Dell,Intel Core i7-1265U (3.6GHz),Intel Iris Xe Graphics,32GB,14 Inches,1920 x 1080,512GB SSD,Windows 10 Pro,,2397.99
+Dell,Intel Core i5 11th Gen i5-1145G7 Quad-core (4 Core) 2.60 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1563.91
+Dell,Intel Celeron N5100 Quad-core (4 Core) 1.10 GHz,Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,64 GB Flash Memory,Windows 11,,317.09
+Dell,Intel Core i7 13th Gen i7-1360P Dodeca-core (12 Core) 2.20 GHz,NVIDIA RTX A500 with 4 GB In-plane Switching,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1682.54
+Dell,Intel Core i7 13th Gen i7-1370P Tetradeca-core (14 Core) 1.90 GHz,NVIDIA GeForce GTX 1080 Ti,16 GB,34 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1993.99
+Dell,Intel Core i7 13th Gen i7-1370P Tetradeca-core (14 Core) 1.90 GHz,NVIDIA GeForce GTX 1080 Ti,32 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,2490.99
+Dell,Intel Core i7 13th Gen i7-1370P Icosa-core (20 Core) 1.90 GHz,Intel Iris Xe Graphics,32 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1714.95
+Dell,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1492.99
+Dell,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1924.99
+Dell,Intel Core i5 13th Gen i5-1350P Dodeca-core (12 Core) 1.90 GHz,NVIDIA RTX A500 with 4 GB In-plane Switching,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1523.54
+Dell,Intel Core i7 13th Gen i7-13850HX Icosa-core (20 Core) 2.20 GHz,NVIDIA RTX A2000 with 8 GB English (US) Keyboard,32 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,2712.99
+Dell,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1308.99
+Dell,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1395.89
+Dell,Intel Core i5 13th Gen i5-1350P Dodeca-core (12 Core) 1.90 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1364.54
+Dell,Intel Core i7 13th Gen i7-13850HX Icosa-core (20 Core),NVIDIA RTX 3500,32 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,3493.99
+HP,Intel Celeron N4020,Intel UHD Graphics,4GB,14 Inches,1920 x 1080,64GB eMMC,Windows 10 Home,,332.99
+HP,Intel Celeron N4020 (1.1GHz),Intel UHD Graphics,4GB,11 Inches,1920 x 1200,64GB eMMC SSD,Windows 11 Home,,219.99
+HP,Intel Celeron N4020,Intel Integrated UHD Graphics,4GB,14 Inches,1920 x 1080,64GB eMMC,Windows 10 Home,,318.33
+HP,Intel Celeron N4020,Intel UHD Graphics,4GB,14 Inches,1920 x 1080,64GB eMMC,Windows 10 Home,,249.99
+HP,Intel Celeron N4020,Intel UHD Graphics,4GB,14 Inches,1920 x 1080,64GB eMMC,Windows 10 Home,,249.99
+HP,Intel Celeron N4020 Dual-core,Intel UHD Graphics 600,4GB,11.6 Inches,1366 x 768,64GB eMMC,Windows 10 Home,,218.28
+HP,AMD Ryzen 3 3250U Dual-core (2 Core) 2.60 GHz,AMD Radeon Graphics,8 GB,14 Inches,1366 x 768,256 GB SSD,Windows 11 Home,,446.99
+HP,AMD Ryzen 7 5825U,AMD Radeon Graphics,8GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Home,,649.99
+HP,Intel Celeron N4120 Quad-core (4 Core),Intel UHD Graphics 600,4 GB,17.3 Inches,1600 x 900,256 GB SSD,Windows 11 Home,,421.99
+HP,Intel Celeron N5100 Quad-core (4 Core),Intel UHD Graphics,8 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,321.99
+HP,Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz,Intel UHD Graphics,8 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,411.21
+HP,Intel Celeron N4500 Dual-core (2 Core),Intel UHD Graphics,8 GB,14 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,332.99
+HP,Intel Core i9 12th Gen i9-12900H Tetradeca-core (14 Core),NVIDIA RTX A1000 with 4 GB,32 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,2079.99
+HP,Intel Core i7-1265U (3.6GHz),Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1200,256GB SSD,Windows 11 Home,2.8000 lb,871.25
+HP,Intel Core i7 12th Gen i7-1265U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,2339.0
+HP,Intel Core i5 12th Gen i5-1245U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,2047.99
+HP,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,999.99
+HP,Intel Core i7 12th Gen i7-1255U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,1583.99
+HP,Intel Core i5 12th Gen i5-1245U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,1054.68
+HP,Intel Core i7 12th Gen i7-1265U Deca-core (10 Core),Intel Iris Xe Graphics,32 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1299.0
+HP,Intel Core i7 i7-1265U,Intel Iris Xe Graphics,16 GB,13.5 Inches,1920 x 1280,1TB SSD,Windows 10 Pro,,2274.99
+HP,Intel Core i7 12th Gen i7-1265U Deca-core (10 Core),Intel Iris Xe Graphics,32 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,1999.99
+HP,AMD Ryzen 7 PRO 6850U,Radeon,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Home,,1049.41
+HP,"Intel Core i5-1245U (4.4GHz, 12MB, 10 cores)",Intel HD Graphics 620,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 10 Home,,1728.99
+HP,Celeron N5100 (1.10GHz),Intel HD Graphics,8GB,11.6 Inches,1366 x 768,64GB SSD,Windows 11 Home,3.3300 lb,452.49
+HP,AMD Ryzen 3 5425U Quad-core (4 Core) 2.70 GHz,AMD Radeon Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 10 IoT Enterprise,,927.99
+HP,AMD Ryzen 3 5425U Quad-core (4 Core) 2.70 GHz,AMD Radeon Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 10 IoT Enterprise,,933.99
+HP,AMD Ryzen 5 5625U,AMD Radeon Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,662.99
+HP,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB HDD,Windows 11 Pro,,683.99
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1638.99
+HP,AMD Ryzen 7 7730U Octa-core (8 Core),AMD Radeon Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,906.74
+HP,AMD Ryzen 5 7530U,AMD Radeon Graphics,16 GB,13.3 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,988.72
+HP,AMD Ryzen 7 7730U Octa-core (8 Core),AMD Radeon Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,930.12
+HP,AMD Ryzen 5 7530U,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,639.99
+HP,AMD Ryzen 3 7330U Quad-core (4 Core),AMD Radeon Graphics,8 GB,13.3 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,837.94
+HP,AMD Ryzen 5 7530U,AMD Radeon Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1142.54
+HP,AMD Ryzen 7 7730U,AMD Radeon Graphics,16 GB,13.3 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1139.52
+HP,AMD Ryzen 5 7530U,AMD Radeon Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1049.0
+HP,AMD Ryzen 7 7730U Octa-core (8 Core),AMD Radeon Graphics,32 GB,14 Inches,1920 x 1080,1 TB SSD,Windows 11 Pro,,899.99
+HP,AMD Ryzen 5 7530U,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1044.99
+HP,AMD Ryzen 7 7730U Octa-core (8 Core),AMD Radeon Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1091.29
+HP,AMD Ryzen 7 7530U,AMD Radeon Graphics,8GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Home,,1149.0
+HP,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,599.0
+HP,AMD Ryzen 5 5625U,AMD Radeon Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,601.99
+HP,AMD Ryzen 5 7530U,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1129.0
+HP,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz,NVIDIA RTX A500 with 4 GB,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1649.99
+HP,Intel Core i7 13th Gen i7-1365U Deca-core (10 Core) 1.80 GHz,NVIDIA RTX A500 with 4 GB,32 GB,14 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,2063.73
+HP,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,2059.0
+HP,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz,Intel Iris Xe Graphics,8 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,1919.0
+HP,Intel Core i5 13th Gen i5-1345U Deca-core (10 Core),Intel UHD Graphics,8 GB,13.3 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1073.25
+HP,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core),Intel UHD Graphics,16 GB,13.3 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1389.0
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel UHD Graphics,16 GB,13.3 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1189.0
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel UHD Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,812.73
+HP,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz,Intel UHD Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1000.9
+HP,Intel Core i5 13th Gen i5-1345U Deca-core (10 Core),Intel Iris Xe Graphics with 8 GB In-plane Switching (IPS) Technology^,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1682.92
+HP,Intel Core i7 13th Gen i7-1365U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1943.73
+HP,Intel Core i5 13th Gen i5-1345U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1646.49
+HP,Intel Core i5 13th Gen i5-1345U Deca-core (10 Core),Intel UHD Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1628.03
+Lenovo,Celeron N5100 (4 Core),Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Windows 10 Home,,328.99
+Lenovo,AMD Ryzen 5 5625U Hexa-core (6 Core) 2.30 GHz,AMD Radeon Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,3.75 Pounds,660.99
+Lenovo,Intel Core i5-1235U (1.3GHz),Intel HD Graphics,8GB,13.3 Inches,2560 x 1600,256GB SSD,Windows 11 Home,lbs,525.76
+Lenovo,Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz,Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,235.8
+Lenovo,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz,Intel UHD Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,3.09 Pounds,789.6
+Lenovo,Intel Core i7 12th Gen i7-1260P Dodeca-core (12 Core) 3.40 GHz,NVIDIA QN20-M1-R with 6 GB In-plane Switching (IPS) Technology,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,2132.99
+Lenovo,AMD Ryzen 5 PRO 6650U Hexa-core (6 Core) 2.90 GHz,AMD Radeon Graphics,16 GB,16 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,879.99
+Lenovo,AMD Ryzen 7 5825U Octa-core (8 Core) 2 GHz,AMD Radeon Graphics,16 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 AMD Radeon Graphics In-plane Switching (IP,,773.92
+Lenovo,AMD Ryzen 5 PRO 6650U,AMD Radeon Graphics,16 GB,13.3 Inches,1920 x 1200,256 GB SSD,Windows 11 AMD Radeon 660M Graphics In-plane,,929.46
+Lenovo,Intel Celeron N4020 Dual-core (2 Core) 1.10 GHz,Intel UHD Graphics 600,8 GB,11.6 Inches,1366 x 768,128 GB SSD,Windows 11 Pro,,524.41
+TOPSELLER,AMD Ryzen 3 5425U,AMD Radeon Graphics,8GB,15 Inches,1920 x 1080,256GB SSD,Windows 10 Pro,,654.99
+Lenovo,AMD Ryzen 7 PRO 6850U Octa-core (8 Core) 2.70 GHz,AMD Radeon Graphics,32 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,2008.99
+Lenovo,Intel Core i7 12th Gen i7-12700H Tetradeca-core (14 Core),NVIDIA RTX A2000 with 8 GB,32 GB Total RAM,16 Inches,1366 x 768,1 TB SSD,Windows 11,,3249.99
+Lenovo,Intel Core i7 12th Gen i7-12850HX,NVIDIA RTX A2000,16 GB,16 Inches,2560 x 1600,1TB SSD,Windows 10 Home,,2984.36
+Lenovo,Intel Core i9 12th Gen i9-12900H,Intel Iris Plus Graphics,32 GB,16 Inches,2560 x 1600,1 TB SSD,Windows 10 Home,,4751.68
+Lenovo,Intel Core i5 i5-1240P (2.4GHz),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Home,,1658.99
+Lenovo,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core),Intel UHD Graphics,16 GB,13.3 Inches,1920 x 1200,256 GB SSD,Windows 11 Home,,1601.99
+Lenovo,Intel Core i7 12th Gen i7-1255U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Home,,1968.99
+Lenovo,Intel Core i7 i7-1260P (2.6GHz),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Home,,1499.99
+Lenovo,AMD Ryzen 7 PRO 6850U,Radeon,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Home,,949.0
+Lenovo,Intel Core i7 12th Gen i7-12700H Tetradeca-core (14 Core) 2.30 GHz,Intel Arc A370M Graphics,16 GB,16 Inches,2560 x 1600,1 TB SSD,Windows 11 Intel,,1426.99
+Lenovo,Intel Core i5 12th Gen i5-1240P,Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,782.71
+Lenovo,Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz,Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,ChromeOS,,324.91
+Lenovo,Intel N-Series N100 Quad-core (4 Core),Intel UHD Graphics,4 GB,14 Inches,1920 x 1200,64 GB Flash Memory,ChromeOS,,328.99
+Lenovo,AMD Ryzen 7 7840HS (3.80GHz),NVIDIA GeForce RTX 4050 (6GB),16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,1215.47
+Lenovo,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1013.95
+Lenovo,AMD Ryzen 7 7745HX Octa-core (8 Core) 3.60 GHz,NVIDIA GeForce RTX 4060 with 8 GB In-plane Switching (IPS) Technology,16 GB,16 Inches,2560 x 1600,512 GB SSD,Windows 11 Home,,1520.34
+Acer,Intel Celeron N5100 (1.10GHz),Intel HD Graphics,4 GB,12 Inches,1366 x 768,32 GB Flash Memory,Windows 10 Home,,269.59
+Acer,Intel Celeron N5100 (1.10GHz),Intel UHD Graphics,4 GB,17.3 Inches,1920 x 1080,32 GB Flash Memory,Chrome OS,,240.99
+Acer,Intel Core i7 11th Gen i7-1165G7 Quad-core (4 Core) 2.80 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1355.49
+ASUS,Intel Celeron N4020,Intel HD Graphics,4GB,14 Inches,Full HD,64GB eMMC,Chrome OS,,218.0
+TUF,Intel Core i5 12th Gen i5-12450H Octa-core (8 Core) 2 GHz,NVIDIA GeForce RTX 3050 Ti with 4 GB,8 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Home,,1017.84
+ASUS,AMD Ryzen 7 6800HS Octa-core (8 Core),  NVIDIA GeForce RTX 3050 with 4 GB In-plane Switching (IP),16 GB,13.4 Inches,1920 x 1200,1 TB SSD,Windows 11 Home,,1478.99
+ASUS,Intel Core i5,Intel UHD Graphics,8GB,14 Inches,1920 x 1080,512 GB SSD,Windows 10 Home,,769.99
+Asus,AMD Ryzen 7 6800H Octa-core (8 Core),AMD Radeon Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Home,,1194.99
+ASUS,Intel Core i5-12450H,NVIDIA GeForce GTX 1650 Max-Q,8GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,3.97 lbs.,942.99
+Asus,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics Tru2Life IEEE 802.11ax,12 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,772.49
+Microsoft,AMD Ryzen 5,AMD Radeon Graphics,16GB,13.5 Inches,1920 x 1080,256GB SSD,Windows 10 Pro,,1343.99
+Microsoft,Intel Core i7-11th Gen,Intel Iris Xe Graphics,16GB,13.5 Inches,2256 x 1504,256GB SSD,Windows 10 Pro,,789.99
+Srfc,Intel Core i5-8250U (1.6GHz),Intel HD Graphics 620,16GB,13.3 Inches,1920 x 1080,256GB SSD,Windows 10 Home,,1314.99
+Microsoft,Intel Core i7 10-Core (12th Gen),Intel Iris Xe Graphics,16 GB,15.6 Inches,2496 x 1664,512 GB SSD,Windows 11 Pro,3.44 lb,1635.21
+Microsoft,Intel Core i5 12th Gen i5-1245U,Intel Iris Xe Graphics,8 GB,13.5 Inches,2256 x 1504,512 GB SSD,Windows 10 Pro,,1470.99
+Surface,Intel Core i7-7500U,Intel HD Graphics 620,16GB,13.5 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,1771.99
+Microsoft,Intel Core i7 12th Gen 1265U (1.80GHz),Intel Iris Xe Graphics,16GB,13.5 Inches,2256 x 1504,512 GB SSD,Windows 10 Pro,,1827.99
+Microsoft,Intel Core i7 12th Gen 1265U (1.80GHz),Intel Iris Xe Graphics,16GB,13.5 Inches,2256 x 1504,512 GB SSD,Windows 10 Pro,,1827.99
+CTL,Celeron N4500 Dual-core (2 Core),Intel Graphics,4 GB,11.6 Inches,1366 x 768,64 GB Flash Memory,Windows 11 Home,,362.99
+CTL,Celeron N5100 (1.10GHz),Intel UHD Graphics,8GB,11.6 Inches,1366 x 768,64GB SSD,Windows 11 Home,,405.12
+LG,i5-1240P (2.6GHz),Intel HD Graphics,16GB,16 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,819.99
+Lenovo,AMD Ryzen 5 PRO 6650U,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Home,,1461.62
+Lenovo,Intel Core i7 12th Gen 1255U (1.70GHz),Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB PCIe SSD,Windows 11 Pro 64-bit,,865.0
+Lenovo,AMD Ryzen 5 5625U,  AMD Radeon Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 10 Home,,711.99
+Dell,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz,Intel UHD Graphics 620,8 GB,13.3 Inches,1920 x 1080,256 GB SSD,Windows 10 Home,,855.54
+Acer,Intel Core i7 11th Gen i7-1185G7 Quad-core (4 Core) 3 GHz,Intel HD Graphics,16 GB,14 Inches,1920 x 1200,1 TB SSD,Windows 10 Home,,1478.99
+Acer,Intel Core i7 11th Gen i7-1165G7 Quad-core (4 Core) 2.80 GHz,Intel HD Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 10 Home,,861.37
+TravelMate,Intel Core i5-1135G7,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,,745.99
+HP,Intel Core i3-1125G4,Intel UHD Graphics,8GB,17.3 Inches,1920 x 1080,256GB SSD,Windows 10 Home,,609.99
+HP,Intel Core i5 i5-1235U,Intel Iris Xe Graphics,8 GB,14 Inches,1920 x 1080,1 TB SSD,Windows 11 Home,,746.79
+Acer,AMD Ryzen 5 PRO 5650U,AMD Radeon Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 10 Pro,3.53 lbs.,598.95
+Samsung,Intel Core i7 13th Gen i7-1360P 2.20 GHz,Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1080,512 SSD,Windows 11 Pro,,1468.04
+ASUS,Intel Core i7-1165G7,Intel Iris Xe Graphics,16GB,13.9 Inches,3200 x 1800,1TB SSD,Windows 10 Pro,2.98 lbs.,1381.99
+ASUS,Intel Core i7-1165G7,  Intel HD Graphics,8 GB,14 Inches,1920 x 1080,512 GB PCIe NVMe SSD,Windows 10 Home,2.58 lbs. w/ battery,1011.85
+ASUS,Intel Core i7-1165G7,Intel Iris Xe Graphics,8GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,3.97 lbs.,814.99
+ASUS,Intel Core i5 11th Gen 1135G7 (2.40GHz),Intel Iris Xe Graphics,8GB,13.3 Inches,1920 x 1080,256 GB PCIe SSD,Windows 11 Home,2.51 lbs.,839.99
+ASUS,AMD Ryzen 5 5600H CPU,  AMD Radeon Graphics,8GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,3.75 lbs.,787.99
+ASUS,Intel core i7-12700H,NVIDIA GeForce RTX 3070 Ti,16GB DDR5 SO-DIMM,16 Inches,3840 x 2400,1TB + 1TB M.2 NVMe PCIe 4.0 Performance SSD,Windows 11 Home,5.29 lbs.,2749.0
+ASUS,Intel Core i5-12500H,Intel Iris Xe Graphics,8GB,16 Inches,1920 x 1200,512GB NVMe PCIe 4.0 SSD,Windows 11 Home,3.97 lbs.,890.99
+HP,Intel Core i7 12th Gen 12700H (2.30GHz),Intel Arc A370M,16GB,16 Inches,2560 x 1600,512 GB PCIe SSD,Windows 11 Home,5.17 lbs.,1609.99
+HP,Intel Core i5 12th Gen 1235U (1.30GHz),Intel Iris Xe Graphics,16GB,14.0 Inches,1920 x 1080,512GB PCIe SSD,Windows 10 Pro (available through downgrade rights from Windows 11 Pro),3.03 lbs.,1246.99
+LG,AMD Ryzen 5 5625U,AMD Radeon Graphics,8GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,3 - 3.9 lbs.,740.34
+DELL,Intel Core i7 11th Gen 11850H (2.50 GHz),Intel UHD Graphics,16GB,14.0 Inches,1920 x 1080,256 GB PCIe SSD,Windows 10 Pro (Windows 11 Pro License Included),,1896.99
+Acer,Intel Core i5 11th Gen 1155G7 (2.50GHz),Intel Iris Xe Graphics,16GB,15.6 Inches,1920x1080,512GB SSD,Windows 11 Pro,,627.32
+Acer,Intel Core i7 11th Gen 1165G7 (2.80GHz),Intel Iris Xe Graphics,16 GB,14.0 Inches,1920 x 1200,1 TB PCIe SSD,Windows 10 Pro 64-bit,2.20 lbs.,1342.99
+Acer,Intel Core i5 11th Gen 1135G7 (2.40GHz),Intel Iris Xe Graphics,16GB,14.0 Inches,1920 x 1080,512GB SSD,Windows 11 Pro 64-bit,3.58 lbs.,712.99
+Acer,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,8 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Home,,587.99
+Acer,AMD Ryzen 7 PRO 6850U,AMD Radeon Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro 64-bit,,1052.99
+Acer,AMD Ryzen 7 PRO 6850U,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro 64-bit,,995.99
+Acer,Intel Core i7 1260P (2.10GHz),Intel Iris Xe Graphics,16GB,14.0 Inches,1920 x 1200,512 GB SSD,Windows 10 Pro,3 - 3.9 lbs.,1083.68
+Acer,AMD Ryzen 5 Pro 6650U,AMD Radeon Graphics,16GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,3 - 3.9 lbs.,928.35
+Acer,Intel Core i7-1165G7,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1199.0
+Acer,AMD Ryzen 5 Pro 6650U,AMD Radeon Graphics,16GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,3.7 LB,947.72
+Acer,Intel Core i5 12th Gen i5-1240P Dodeca-core (12 Core) 1.70 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 10 Pro,,965.99
+Acer,Intel Celeron N5100 Quad-core (4 Core) 1.10 GHz,Intel HD Graphics,8 GB,15.6 Inches,1920 x 1080,64 GB Flash Memory,Chrome OS,3.53 lb,379.05
+Acer,Intel Core i7 11th Gen 2.80GHz,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1080,512 GB PCIe SSD,Windows 11 Pro,,917.75
+Acer,Intel Core i7 12th Gen i7-1260P (2.10GHz),Intel Iris Xe Graphics,8GB,14 Inches,1920 x 1200,256GB SSD,Chrome OS,3.02 lb,994.99
+Acer,Intel Core i7-1255U (1.70GHz),Intel Iris Xe Graphics,512MB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 10 Pro,3.53,850.13
+Acer,Intel Core i7 12th Gen i7-1255U Deca-core (10 Core) 1.70 GHz,Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 10 Pro,4.19 lb,945.99
+Lenovo,AMD Ryzen 5 5000 Series 5625U (2.30GHz),Intel Iris Xe Graphics,8GB,14 Inches,1920 x 1080,256GB PCIe SSD,Windows 11 Pro 64-bit,3.09 lbs.,663.92
+Lenovo,Intel Core i7 12th Gen 1270P (2.20GHz),Intel Iris Xe Graphics,16GB,14.0 Inches,1920 x 1200,512GB PCIe SSD,Windows 11 DG Windows 10 Pro 64,2.48 lbs.,1381.8
+Lenovo,Intel Core i7 1265U (1.8GHz),Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,256 GB SSD,Windows 10 Pro 64-bit,,1556.99
+Microsoft,AMD Ryzen 5 4000 Series 4680U (2.20GHz),AMD Radeon Graphics,8 GB,13.5 Inches,2256 x 1504,256 GB SSD,Windows 10 Pro 64-bit,2.79 lbs.,729.99
+Microsoft,Intel Core i5 11th Gen 1135G7 (2.40GHz),Intel Iris Xe Graphics,16GB,13.5 Inches,2256 x 1504,512 GB SSD,Windows 10 Pro,,979.0
+Microsoft,Intel Core i5 11th Gen 1145G7 (2.60GHz),Intel Iris Xe Graphics,8 GB,13.5 Inches,2256 x 1504,512 GB SSD,Windows 10 Pro 64-bit,2.79 lbs.,1381.99
+Microsoft,Intel Core i5 11th Gen 1145G7 (2.60GHz),Intel Iris Xe Graphics,16 GB,13.5 Inches,2256 x 1504,512 GB SSD,Windows 10 Pro 64-bit,2.84 lbs.,979.0
+Microsoft,Intel Core i5 12th Gen 1235U (1.30GHz) ,Intel Iris Xe Graphics ,8GB,13.5 Inches,2256 x 1504,256GB SSD,Windows 11 Home,2.80 lbs.,799.99
+Microsoft,Intel Core i7 12th Gen 1255U (1.70GHz) ,Intel Iris Xe Graphics ,16GB,15.6 Inches ,1920x1080,512GB SSD,Windows 11 Home ,3.44 lbs.,1299.99
+Microsoft,Intel Core i7 12th Gen 1255U (1.70GHz) ,Intel Iris Xe Graphics ,16GB,15.6 Inches ,1920x1080,512GB SSD,Windows 11 Home ,3.44 lbs.,1299.99
+Microsoft,Intel Core i5,Intel Iris Xe Graphics,16GB,13.5 Inches,2256 x 1504,512 GB SSD,Windows 11,2.86 lb,1299.99
+Intel,Intel Core i7-7700HQ,Intel HD Graphics 620,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,179.99
+DELL,Intel Core i7 13th Gen 2.10GHz,NVIDIA Quadro RTX 4000,32GB,17.0 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,6.73 lb,3514.99
+DELL,Intel Core i7 20-Core (13th Gen),NVIDIA RTX 3500,32GB,17.0 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,6.73 lb,3592.26
+Dell,Intel Core i5 13th Gen,Intel Iris Xe Graphics,8GB,13.3 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,2.75 lbs.,789.81
+Dell,Intel Core i5 13th Gen,Intel HD Graphics 620,8GB,14 Inches,1360 x 768,256 GB SSD,Windows 11 Pro,3.42 lbs.,730.54
+Dell,Intel Core i5 13th Gen,Intel HD Graphics 620,8GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.42 lbs.,1024.21
+Dell,Intel Core i5 13th Gen,Intel HD Graphics 620,16GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,3.99 lbs.,759.99
+DELL,Intel Core i3 13th Generation,Intel UHD Graphics,8GB,14 Inches,1366 x 768,256 GB SSD,Windows 11 Pro,3.42 lbs,718.56
+DELL,Intel Core i7 13th Gen,Intel UHD Graphics,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.42 lbs,1060.54
+DELL,Intel Core i5 13th Gen,Intel UHD Graphics,16GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.42 lbs,936.44
+DELL,Intel Core i5 13th Gen,Intel UHD Graphics,16GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.42 lbs,900.75
+DELL,Intel Core i5 13th Gen,Intel Integrated Graphics,8GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.56 lbs,1134.21
+DELL,Intel Core i5 13th Gen,Intel Integrated Graphics,16GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.56 lbs,1209.14
+DELL,Intel Core i5 13th Gen,Intel Integrated Graphics,16GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.56 lbs,1048.01
+DELL,Intel Core i5 13th Gen,Intel Integrated Graphics,8GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.56 lbs,1240.47
+DELL,Intel Core i5 13th Gen,Intel Integrated Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.56 lbs,1103.54
+DELL,Intel Core i7 13th Gen,Intel Integrated Graphics,16GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.56 lbs,1384.73
+DELL,Intel Core i7 13th Gen,Intel Integrated Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.56 lbs,1561.54
+DELL,Intel Core i5 13th Gen,Intel Integrated Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.56 lbs,1231.13
+DELL,Intel Core i7 13th Gen,Intel Integrated Graphics,16GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.56 lbs,1505.95
+DELL,Intel Core i7 13th Gen,Intel Integrated Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.56 lbs,1359.15
+DELL,Intel Core i5 13th Gen,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,256GB SSD,Windows 11 Pro,2.91 lbs,1844.54
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,256GB SSD,Windows 11 Pro,2.91 lbs,1117.48
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,256GB SSD,Windows 11 Pro,2.91 lbs,1902.21
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,2.91 lbs,1896.41
+DELL,Intel Core i5 13th Gen,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,2.91 lbs,1636.54
+DELL,Intel Core i3 13th Gen,Intel HD Graphics,8GB,15.6 Inches,1366 x 768,256 GB SSD,Windows 11 Pro,3.99 lbs.,724.87
+DELL,Intel Core i3 13th Gen,Intel HD Graphics,8GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.99 lbs.,918.35
+DELL,Intel Core i5 13th Gen,Intel HD Graphics,8GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.06,963.6
+DELL,Intel Core i5 13th Gen,Intel HD Graphics,8GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.06,1164.99
+DELL,Intel Core i5 13th Gen,Intel HD Graphics,16GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.06,1069.22
+DELL,Intel Core i5 13th Gen,Intel HD Graphics,16GB,14 Inches,1920x1080,256GB SSD,Windows 11 Pro,3.06,1300.92
+DELL,Intel Core i5 13th Gen,Intel HD Graphics,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.06,1180.8
+DELL,Intel Core i5 13th Gen,Intel HD Graphics,16GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.06,1202.54
+DELL,Intel Core i5 13th Gen,Intel HD Graphics,16GB,14 Inches,1920x1080,256GB SSD,Windows 11 Pro,3.06,1378.21
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,14 Inches,1920x1080,256GB SSD,Windows 11 Pro,3.06,1237.5
+DELL,Intel Core i5 13th Gen,Intel HD Graphics,16GB,14 Inches,1920x1080,256GB SSD,Windows 11 Pro,3.06,1339.54
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,14 Inches,1920x1080,512GB SSD,Windows 11 Pro,3.06,1244.54
+DELL,Intel Core i7 13th Gen,Intel Iris Plus Graphics,16GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.06,1605.54
+DELL,Intel Core i7 13th Gen,Intel Iris Plus Graphics,16GB,14 Inches,1920x1080,512GB SSD,Windows 11 Pro,3.06,1638.2
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,16 Inches,1920 x 1200,256GB SSD,Windows 11 Pro,4.05,1618.16
+DELL,Intel Core i5 13th Gen,Intel Iris Xe Graphics,16GB,16 Inches,1920 x 1200,256GB SSD,Windows 11 Pro,4.05,1659.54
+DELL,Intel Core i5 13th Gen,Intel Iris Xe Graphics,16GB,16 Inches,1920 x 1200,256GB SSD,Windows 11 Pro,4.05,1432.83
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,4.05,1721.99
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,14.0 Inches,2560 x 1600,512GB SSD,Windows 11 Pro,2.33 lbs,2002.21
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,2.33 lbs,2116.21
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,32GB,14.0 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,2.33 lbs,2120.67
+DELL,Intel Core i5 13th Gen,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,256GB SSD,Windows 11 Pro,2.33 lbs,1673.21
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,,1945.82
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,,1908.54
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,,1890.28
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,,1782.53
+DELL,Intel Core i5 13th Gen,Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1200,256GB SSD,Windows 11 Pro,,1592.54
+DELL,Intel Core i3 8GB,Intel Iris Xe Graphics,8GB,13.3 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,2.75 lbs,774.07
+DELL,Intel Core i5 13th Gen,Intel Iris Xe Graphics,8GB,13.3 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,2.97 lbs,1017.04
+DELL,Intel Core i5 13th Gen,Intel Integrated Graphics,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.06 lbs,1176.54
+Dell,Intel Core i9 13th Gen 2.20GHz,NVIDIA RTX 4000,64GB,16 Inches,1920 x 1200,1TB SSD,Windows 11 Pro,5.73 lbs,4804.99
+Lenovo,Intel Core i7 1255U (1.7 GHz),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 10 Pro 64-bit,,1220.99
+Lenovo,AMD Ryzen 7 Pro 6850U,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 10 Pro 64-bit (downgrade from Windows 11 Pro) + Windows 11 Pro License,,1263.03
+Lenovo,AMD Ryzen 7 Pro 6850H,AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 10 Pro 64-bit,,1451.88
+Lenovo,AMD Ryzen 5 7520U (4.80 GHz),AMD Radeon 610M,8GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Home,3 - 3.9 lbs.,488.99
+Lenovo,Intel Core i3 i3-N305 (1.80 GHz) ,Intel UHD Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Home,3.42 lb,378.27
+HP,Intel Core i5 10-Core (12th Gen),Intel Iris Xe Graphics,16GB,13.5 Inches,1920 x 1280,256GB PCIe NVMe SSD,Windows 11 Pro,,927.59
+HP,Intel Core i5 10-Core (12th Gen),Intel Iris Xe Graphics,16GB,13.5 Inches,1920 x 1280,256GB PCIe NVMe SSD,Windows 11 Pro,,941.03
+HP,AMD Ryzen 7 7730U Octa-core (8 Core),AMD Radeon Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,3.04 lb,877.48
+HP,AMD Ryzen 5 7530U,AMD Radeon Graphics,8GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.04 lb,599.99
+HP,AMD Ryzen 5 7530U,AMD Radeon Graphics,8GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.84 lb,682.06
+HP,AMD Ryzen 7 7730U,AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Professional 64-bit,3.9 lbs.,1161.99
+HP,Intel i7-1360P (3.1GHz),Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,,1360.65
+HP,Intel Core i7 10-Core (13th Gen),NVIDIA T550,16GB,16 Inches,1920 x 1200,512GB PCIe SSD,Windows 11 Pro,,1410.04
+HP,Intel Core i7 10-Core (13th Gen),NVIDIA T550,32GB,16 Inches,1920 x 1200,1TB SSD,Windows 11 Pro,,2179.99
+HP,Intel Core i7 10-Core (13th Gen),NVIDIA T550,16GB,16 Inches,1920 x 1200,512GB PCIe SSD,Windows 11 Pro,,2129.0
+HP,Intel Core i5-1335U (13th Gen),Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,,1675.99
+HP,Intel Core i7 12-Core (13th Gen),Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,512GB PCIe SSD,Windows 11 Pro (64-Bit),3.2lb,1815.55
+HP,Intel Core i5 13th Gen,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,256GB SSD,Windows 11 Pro,3.2lb,1714.99
+HP,Intel Core i7 10-Core (13th Gen),NVIDIA RTX A500,16GB,14 Inches,1920 x 1200,512GB PCIe SSD,Windows 11 Pro,3.2lb,2059.99
+HP,Intel Core i7 14-Core (13th Gen),Intel Iris Xe Graphics,16GB,16 Inches,1920 x 1200,512GB M.2 PCIe SSD,Windows 11 Pro,3.88lb,1575.02
+HP,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,3.2 lb,1966.32
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Xe Graphics 7Z4N4UT#ABA,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,3.92 lb,1118.49
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel UHD Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,3.92 lb,949.99
+HP,Intel Core i7 13th Gen 1365U (1.8 GHz) ,NVIDIA T550,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,3.88 lb / 1.76 kg,2155.01
+HP,Intel Core i7 13th Gen 1365U (1.8 GHz) ,NVIDIA T550,32 GB,16 Inches,1920 x 1200,1TB SSD,Windows 11 Pro,3.79 lb,1673.85
+HP,Intel Core i7 10-Core (13th Gen),NVIDIA RTX A500,32 GB,16 Inches,2880 x 1800,1 TB SSD,Windows 11 Pro,,2455.99
+HP,Intel Core i7 13th Gen (14 Core),Intel Iris Xe Graphics,32 GB,16 Inches,2880 x 1800,1 TB SSD,Windows 11 Pro,,2529.0
+HP,Intel Core i7 10-Core (13th Gen),NVIDIA RTX A500,32 GB,16 Inches,2880 x 1800,1 TB SSD,Windows 11 Pro,3.88 lb,2299.99
+HP,Intel Core i7 13th Gen (10 Core),NVIDIA RTX A500,32 GB,14 Inches,2560 x 1600,1 TB SSD,Windows 11 Pro,3.2 lb,2435.6
+HP,Intel Core i7-1355U 10-Core (13th Gen),Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1080,512GB PCIe M.2 SSD,Windows 11 Pro (64-Bit),3.03 lb,1043.62
+HP,Intel Core i5-1335U 10-Core (13th Gen),Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,512GB PCIe M.2 SSD,Windows 11 Pro (64-Bit),2.59 lb,1839.0
+HP,Intel Core i7 13th Gen 1355U (1.7 GHz/5.0 Ghz Boost),Intel Iris Xe Graphics,16 GB,13.5 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,2 - 2.9 lbs.,1400.11
+HP,Intel Core i7 13th Gen 1355U (1.7 GHz/5.0 Ghz Boost),Intel Iris Xe Graphics,16 GB,13.5 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,2 - 2.9 lbs.,1494.59
+HP,Intel Core i7 13th Gen 1365U (1.8 GHz/5.2 Ghz Boost),Intel Iris Xe Graphics,16 GB,13.5 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,2 - 2.9 lbs.,2279.0
+HP,Intel Core i7 13th Gen 1365U (1.8 GHz/5.2 Ghz Boost),Intel Iris Xe Graphics,16 GB,13.5 Inches,1920 x 1280,512 GB SSD,Windows 11 Pro,2 - 2.9 lbs.,2134.99
+MSI,AMD Ryzen 7 7735HS,NVIDIA GeForce RTX 4060,32GB,17.3 Inches,1920 x 1080,1TB PCIe SSD,Windows 11 Pro,5.95 lbs.,1499.0
+MSI,Intel Core i9-13980HX,NVIDIA GeForce RTX 4080,32GB,17.0 Inches,2560 x 1600,1TB PCIe SSD,Windows 11 Home,6.83 lbs.,2549.99
+Acer,Intel Core i5-12500H,NVIDIA GeForce RTX 4050,16GB,15.6 Inches,1920 x 1080,512 GB PCIe SSD,Windows 11 Home,5.51 lbs.,799.99
+ASUS,AMD Ryzen 9 7945HX,NVIDIA GeForce RTX 4070,16GB DDR5,17.3 Inches,1920 x 1080,1TB PCIe SSD,Windows 11,6.17 lbs.,2199.99
+ASUS,Intel Core i5-12500H,GeForce RTX 3050,16GB,17.3 Inches,1920 x 1080,512GB PCIe SSD,Windows 11,5.73 lbs.,914.99
+ASUS,AMD Ryzen 9 7945HX,NVIDIA GeForce RTX 4080,32GB DDR5,16 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,5.89 lbs.,3499.99
+ASUS,Intel Core i9-13980HX,NVIDIA GeForce RTX 4070,32GB DDR5,16 Inches,1920 x 1080,1TB PCIe SSD,Windows 11 Pro,5.51 lbs.,2118.99
+ASUS,Intel Core i9-13900H Processor,NVIDIA GeForce RTX 4050,16GB LPDDR5,13.4 Inches,1920 x 1080,1TB PCIe SSD,Windows 11,2.60 lbs.,1736.99
+ASUS,Intel Core i9-13980HX,NVIDIA GeForce RTX 4060,16GB DDR5,16 Inches,1920 x 1200,1TB PCIe SSD,Windows 11,5.51 lbs.,1649.99
+ASUS,Intel Core i5-11400H,GeForce RTX 3050,8GB DDR4 RAM,15.6 Inches,1920 x 1080,512GB PCIe NVMe M.2 SSD,Windows 11 Home,5.07 lbs.,757.99
+Acer,Intel Core i7 12700H (2.30GHz),NVIDIA GeForce RTX 3070,16GB,15.6 Inches,2560 x 1440,1TB PCIe SSD,Windows 11 Home,5.73 lbs.,1029.99
+ASUS,AMD Ryzen 7 6800HS,NVIDIA GeForce RTX 3050,16GB DDR5,15.6 Inches,1920 x 1080,512GB PCIe SSD,Windows 11,4.63 lbs.,949.99
+ASUS,AMD Ryzen 7 7735HS,NVIDIA GeForce RTX 4060,16 GB,17.3 Inches,1920 x 1080,1 TB PCIe SSD,Windows 11 Home,5.73 lbs.,1499.99
+ASUS,Intel Core i9-13980HX,NVIDIA GeForce RTX 4090,32GB,13.3 Inches,1920 x 1080,2TB PCIe 4x4 RAID 0,Windows 11 Pro,5.51 lbs.,3598.99
+ASUS,AMD Ryzen 7 6800H Processor, AMD Radeon Graphics,16GB,17.3 Inches,1920 x 1080,512GB SSD,Windows 11 Home,5.51 lbs.,1144.99
+ASUS,AMD Ryzen 9 7945HX,NVIDIA GeForce RTX 4090,32GB DDR5,16 Inches,1920 x 1080,2TB SSD,Windows 11 Pro,5.89 lbs.,3999.99
+MSI,Intel Core i5-12450H,NVIDIA GeForce RTX 4050,8 GB,15.6 Inches,1920 x 1080 IPS-Level 144 Hz,512 GB NVMe SSD,Windows 11 Home,4.10 lbs.,731.0
+ASUS,AMD Ryzen 9 7945HX3D,NVIDIA GeForce RTX 4090,32GB DDR5,17.3 Inches,1920 x 1080,2TB PCIe SSD,Windows 11 Pro,6.61 lbs.,3699.99
+MSI,Intel Core i7-12700H (Up to 4.70 GHz),NVIDIA GeForce RTX 3080 Ti,32GB,17.3 Inches,2560 x 1440,1TB NVMe SSD,Windows 11 Home,6.39 lbs.,3641.99
+ASUS,AMD Ryzen 7 7735HS,GeForce RTX 4050,16GB DDR5,15.6 Inches,1920 x 1080,1TB PCIe SSD,Windows 11,4.85 lbs.,1144.99
+MSI,Intel Core i9-13950HX,NVIDIA GeForce RTX 4080,16GB,16 Inches,1920 x 1200,1TB PCIe SSD,Windows 11 Home,5.89 lbs.,2099.0
+MSI,Intel Core i5-12450H (2.00GHz),NVIDIA GeForce RTX 2050,16GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Home,4.37 lbs.,787.99
+ASUS,Intel Core i5-12500H,GeForce RTX 3050,16GB,15.6 Inches,1920 x 1080,512GB PCIe SSD,Windows 11,4.85 lbs.,892.99
+MSI,Intel Core i9 13th Gen 13900H (2.60GHz),NVIDIA GeForce RTX 4070,64GB,16.0 Inches,3840 x 2400,2TB NVMe SSD,Windows 11 Pro 64-bit,4.14 lbs.,2899.0
+MSI,Intel Core i9-13980HX,NVIDIA GeForce RTX 4070,32 GB,16.0 Inches,2560 x 1600,2 TB PCIe SSD,Windows 11 Pro 64-bit,5.95 lbs.,2499.0
+MSI,Intel Core i9 13th Gen 13900H (2.60GHz),NVIDIA GeForce RTX 4090,64GB,17.3 Inches,2560 x 1440,2TB NVMe SSD,Windows 11 Pro 64-bit,6.17 lbs.,4129.99
+MSI,Intel Core i9 13th Gen 13900H (2.60GHz),NVIDIA GeForce RTX 4070,32GB,17.3 Inches,2560 x 1440,1TB PCIe SSD,Windows 11 Home,5.95 lbs.,1907.69
+MSI,Intel Core i7 13th Gen 13620H (2.40GHz),NVIDIA GeForce RTX 4070,16GB,17.3 Inches,1920 x 1080,1TB PCIe SSD,Windows 11 Home,5.95 lbs.,1407.69
+MSI,Intel Core i7 12th Gen 12650H (2.30GHz),NVIDIA GeForce RTX 3050,16GB,15.6 Inches,1920 x 1080 IPS-Level 144 Hz,512 GB PCIe SSD,Windows 11 Home,4.10 lbs.,899.0
+MSI,Intel Core i9 13th Gen 13900H (2.60GHz),NVIDIA GeForce RTX 4070,32 GB DDR5,15.6 Inches,1920 x 1080 IPS-Level Panel,1 TB PCIe SSD,Windows 11 Home,4.96 lbs.,1899.0
+Acer,Intel Core i7 12700H (2.30GHz),NVIDIA GeForce RTX 3060,16GB,16 Inches,2560 x 1600,512 GB NVMe SSD,Windows 11 Home,5.29 lbs.,1677.99
+ASUS,AMD Ryzen 9 6900HX,NVIDIA GeForce RTX 3080 Ti,32GB DDR5,16 Inches,2560 x 1600,2TB SSD,Windows 11 Pro,5.73 lbs.,3999.99
+MSI,Intel Core i7-12700H (2.30GHz),NVIDIA GeForce RTX 3060,16GB,15.6 Inches,1920 x 1080 IPS-Level 144 Hz,512 GB PCIe SSD,Windows 11 Home,4.96 lbs.,899.0
+MSI,Intel Core i7 12th Gen 12650H (2.30GHz),NVIDIA GeForce RTX 3050,32GB,15.6 Inches,1920 x 1080 IPS-Level 144 Hz,1TB PCIe SSD,Windows 11 Home,4.10 lbs.,999.0
+Corsair,AMD Ryzen 9 6900HS,AMD Radeon RX 6800M,32 GB DDR5,16.0 Inches,2560 x 1600,2 TB PCIe SSD,Windows 11 Home,5.29 lbs.,2207.99
+Acer,Intel Core i9-13900HX,NVIDIA GeForce RTX 4070,16GB,16 Inches,2560 x 1600,1TB PCIe SSD,Windows 11 Home,5.73 lbs.,1899.99
+ASUS,AMD Ryzen 7 6800H,NVIDIA GeForce RTX 3060,16GB,16 Inches,1920 x 1200,1TB SSD,Windows 11 Home,5.51 lbs.,1991.0
+Aorus,Intel Core i7 13th Gen 13700H (2.40GHz),NVIDIA GeForce RTX 4070,8 GB,15.6 Inches,2560 x 1440,1 TB SSD,Windows 11 Home,4.96 lbs.,1599.99
+MSI,Intel Core i7 11th Gen 11800H (2.30GHz),NVIDIA GeForce RTX 3050 Ti,16GB,15.6 Inches,1920 x 1080 IPS-Level 144 Hz,512 GB PCIe SSD,Windows 10 Home,4.63 lbs,899.0
+GIGABYTE,Intel Core i7 13th Gen 13700H (2.40GHz),NVIDIA GeForce RTX 4070,16GB,16 Inches,3840 x 2400,1TB Gen4 SSD,Windows 11 Home,4.63 lbs.,1979.99
+MSI,Intel Core i9 13th Gen 13900H (2.60GHz),NVIDIA GeForce RTX 4070,16GB,17.3 Inches,2560 x 1440,1TB NVMe SSD,Windows 11 Pro,6.17 lbs.,2199.0
+MSI,Intel Core i9-13980HX,NVIDIA GeForce RTX,32GB,16.0 Inches,2560 x 1600,1TB PCIe SSD,Windows 11 Home,5.95 lbs.,3499.0
+Acer,AMD Ryzen 7 7840HS,NVIDIA GeForce RTX 4060,16 GB,16 Inches,1920 x 1200,512 GB PCIe SSD,Windows 11 Home,5.95 lbs.,1049.99
+Acer,Intel Core i7 13th Gen 13700H (2.40GHz),NVIDIA GeForce RTX 4050,16GB,14.0 Inches,1920 x 1200,512 GB PCIe SSD,Windows 11 Home,3.75 lbs.,1470.99
+MSI,Intel Core i9-12900H,NVIDIA GeForce RTX 3060,16GB,17.3 Inches,1920 x 1080,1TB PCIe SSD,Windows 11 Home,6.39 lbs.,1449.0
+MSI,Intel Core i7 11th Gen 11800H (2.30GHz),NVIDIA GeForce RTX 3050 Ti,8GB,15.6 Inches,1920 x 1080 IPS-Level 144 Hz,512 GB NVMe SSD,Windows 11 Home,4.63 lbs.,969.0
+Razer,Intel Core i9-13950HX,NVIDIA GeForce RTX,32 GB,18.0 Inches,2560 x 1600,2 TB SSD,Windows 11 Home,6.75 lbs.,4499.99
+MSI,AMD Ryzen 7 7840HS,AMD Radeon RX 6550M,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,4.96 lbs.,1049.99
+ASUS,Intel Core i9-12900H,NVIDIA GeForce RTX 3050 Ti,16GB,13.4 Inches,3840 x 2400,1TB SSD,Windows 11 Pro,2.60 lbs.,3451.99
+Razer,Intel Core i9-13950HX,NVIDIA GeForce RTX 4080,32 GB DDR5,18.0 Inches,2560 x 1600,1 TB SSD,Windows 11 Home,6.75 lbs.,3799.99
+Aorus,Intel Core i7 13th Gen 13700H (2.40GHz),NVIDIA GeForce RTX 4060,8 GB,15.6 Inches,2560 x 1440,1 TB SSD,Windows 11 Home,4.96 lbs.,1399.99
+MSI,AMD Ryzen 9 7945HX,NVIDIA GeForce RTX 4070,32GB,17.3 Inches,2560 x 1440,2TB PCIe SSD,Windows 11 Pro,6.17 lbs.,2299.0
+MSI,AMD Ryzen 9 7945HX,NVIDIA GeForce RTX 4060,32GB,17.3 Inches,2560 x 1440,1TB PCIe SSD,Windows 11 Home,6.17 lbs.,1849.0
+GIGABYTE,Intel Core i5-12500H,NVIDIA GeForce RTX 40 Series,8GB,"15.6"" FHD 1920x1080",360Hz,512GB SSD,Windows 11 Home,4.96 lbs.,1029.99
+MSI,Intel Core i7 12th Gen 1260P (2.10GHz),NVIDIA GeForce RTX 3050,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,4.64 lbs.,899.0
+ASUS,Intel Core i7-12700H Processor,Intel Iris Xe Graphics,32GB,14.5 Inches,2.8K,1TB SSD,Windows 11 Home,3.86 lbs.,2054.99
+MSI,Intel Core i7 11th Gen 11800H (2.30GHz),NVIDIA GeForce RTX 3050,32GB,15.6 Inches,1920 x 1080 IPS-Level 144 Hz,1TB NVMe SSD,Windows 11 Home,4.10 lbs.,1000.99
+Acer,Intel Core i5 11th Gen 1135G7 (2.40GHz) ,Intel Iris Xe Graphics ,8GB,15.6 Inches,1920 x 1080,128GB SSD,Chrome OS,,527.99
+Acer,AMD Ryzen 5 7640HS,NVIDIA GeForce RTX 4050,16 GB,16 Inches,1920 x 1200,512 GB PCIe SSD,Windows 11 Home,5.95 lbs.,1039.99
+Acer,ARM Cortex A73 Quad-core (4 Core) 2 GHz + Cortex A53 Quad-core (4 Core) 2 GHz,Mali-G72 MP3,4 GB,14 Inches,1366 x 768,32 GB SSD,Chrome OS,,219.99
+Acer,Intel Core i7 13th Gen 13700H (2.40GHz),NVIDIA GeForce RTX 4070,16GB,14.0 Inches,2560 x 1600,1TB PCIe SSD,Windows 11 Home,3.75 lbs.,1967.99
+Dell,Intel Core i5 13th Gen,Intel HD Graphics 620,8GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,3.99 lbs.,609.0
+MSI,AMD Ryzen 9 7945HX,NVIDIA GeForce RTX 4070,16GB,17.3 Inches,2560 x 1440,1TB PCIe SSD,Windows 11 Home,6.17 lbs.,1999.0
+ASUS,AMD Ryzen 9 6900HS (3.30GHz),NVIDIA GeForce RTX 3080,16GB,15.6 Inches,2560 x 1440,1TB PCIe NVMe SSD,Windows 11,4.19 lbs.,2627.99
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.99 lbs.,969.99
+MSI,Intel Core i7 13th Gen 13620H (2.40GHz),NVIDIA GeForce RTX 4060,16GB,15.6 Inches,1920 x 1080 IPS-Level Panel,1TB PCIe SSD,Windows 11 Pro 64-bit,4.96 lbs.,1409.98
+ASUS,Intel Core i7-1165G7,Intel Iris Xe Graphics,8GB,14 Inches,1920 x 1080,512GB PCIe SSD,Windows 11 Home,2.87 lbs.,1002.99
+MSI,Intel Core i7-1280P (1.80GHz),NVIDIA GeForce RTX 3060,32GB,15.6 Inches,1920 x 1080 IPS-Level 144 Hz,1TB PCIe SSD,Windows 11 Pro 64-bit,3.73 lbs.,1460.61
+ASUS,AMD Ryzen 9 5980HS (3.00 GHz),GeForce GTX 1650,32 GB,13.4 Inches,3840 x 2400,1 TB PCIe SSD,Windows 10 Pro 64-bit,2.90 lbs.,3466.6
+HP,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz,NVIDIA GeForce MX550,16 GB,17.3 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,4.59 lb,1199.99
+MSI,Intel Core i7 12th Gen 12700H (2.30GHz),NVIDIA GeForce RTX 3070 Ti,32GB,17.3 Inches,1920 x 1080,1TB PCIe SSD,Windows 11 Home,6.39 lbs.,1999.0
+Microsoft,Intel Core i7 13th Gen 13800H (2.50GHz) ,NVIDIA GeForce RTX 4060,64GB,14.4 Inches,2400 x 1600,1TB SSD,Windows 11 Pro,4.37 lbs (1.98 kg),3199.99
+Lenovo,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz,Intel Iris Xe Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,881.34
+Razer,Intel Core i9-13950HX,NVIDIA GeForce RTX 4070,16GB,16 Inches,2560 x 1600 QHD+,1TB PCIe SSD,Windows 11 Home,5.40 lbs.,2991.99
+Microsoft,Intel Processor N200,Intel UHD Graphics,8GB,10.5 Inches,1920 x 1280,64GB SSD,Windows 11 Pro,1.15 lbs (521g),589.99
+Acer,Intel Celeron N3350 (1.60GHz) ,Intel UHD Graphics,4GB,11.6 Inches,1366 x 768,32 GB SSD,Chrome OS,,269.99
+Microsoft,Intel Core i7-13700H,GeForce RTX 4050,16GB,14.4 Inches,1920 x 1080,512GB SSD,Windows 10 Home,4.37 lbs.,2199.99
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.99 lbs.,839.99
+MSI,Intel Core i7-12700H (Up to 4.70 GHz),NVIDIA GeForce RTX 3080 Ti,32GB,15.6 Inches,2560 x 1440,1TB NVMe SSD,Windows 11 Home,5.24 lbs.,2599.0
+MSI,Intel Core i7-12700H (Up to 4.70 GHz),NVIDIA GeForce RTX 3070 Ti,32GB,17.3 Inches,2560 x 1440,1TB PCIe SSD,Windows 11 Pro 64-bit,6.17 lbs.,2599.0
+Microsoft,Intel Core i7-11370H,NVIDIA GeForce RTX 3050 Ti,16GB,14.4 Inches,2400 x 1600 PixelSense Display @ up to 120Hz,512GB SSD,Windows 11 Home,4.00 lbs.,2024.99
+MSI,Intel Core i9-12900H,NVIDIA GeForce RTX 3070 Ti,32GB,15.6 Inches,2560 x 1440,1TB NVMe SSD,Windows 11 Home,4.63 lbs.,1793.91
+MSI,Intel Core i7 13th Gen 13620H (2.40GHz),NVIDIA GeForce RTX 4060,32GB,15.6 Inches,1920 x 1080 IPS-Level Panel,1TB PCIe SSD,Windows 11 Pro 64-bit,5.07 lbs.,1498.99
+MSI,Intel Core i9-12900HX,NVIDIA GeForce RTX 3080 Ti,32GB,15.6 Inches,2560 x 1440,1TB PCIe SSD,Windows 11 Pro,5.24 lbs.,3640.64
+Lenovo,Intel® Processor N-series N100,Intel® UHD Graphics,4 GB,12.2 Inches,1920 x 1200,32 GB Flash Memory SSD,Chrome OS,,395.26
+Acer,Intel Celeron N4500 (1.10GHz),Intel UHD Graphics,4GB,14 Inches,1366 x 768,32 GB SSD,Chrome OS,,245.99
+Lenovo,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Xe Graphics,8GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Home,3.41,709.99
+ASUS,Intel Core i7 12th Gen 12700H (2.30GHz),Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB PCIe SSD,Windows 11 Home,3.97 lbs.,1113.99
+Microsoft,Intel Core i5,Intel HD Graphics,8GB,12.4 Inches,1920 x 1080,256GB SSD,Windows 11 Home,2.49 lbs.,699.99
+Lenovo,Intel Core i5 13th Gen 13420H (2.10GHz),Nvidia RTX 3050,8GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Home,5.29 lb,978.99
+Dell,Intel Core i7 13th Gen i7-13700H Tetradeca-core (14 Core),Intel HD Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,1.79 kg,1367.07
+MSI,Intel Core i7 13th Gen 13620H (2.40GHz),NVIDIA GeForce RTX 4070,32GB,15.6 Inches,1920 x 1080 IPS-Level Panel,1TB PCIe SSD,Windows 11 Pro 64-bit,5.07 lbs.,1789.32
+Lenovo,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,726.96
+Microsoft,Intel Core i7,NVIDIA RTX 2000,32GB,14.4 Inches,1920 x 1080,1TB SSD,Windows 10 Home,4.37 lbs.,3199.99
+Acer,Intel i7-1260P (1.60GHz),Intel Iris Xe Graphics,16GB,14.0 Inches,1920 x 1200,256GB SSD,Chrome OS,,1099.99
+Acer,Intel Pentium Silver N6000 Quad-core,Intel UHD Graphics,8GB,15.6 Inches,1920 x 1080 @60Hz,128GB SSD,Chrome OS,,418.18
+Lenovo,AMD Ryzen 7 7730U,AMD Radeon Graphics,16GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,879.99
+Lenovo,Intel N-series N100,Intel UHD Graphics,4 GB,12.2 Inches,1920 x 1200,32 GB eMMC,Chrome OS,,406.99
+Microsoft,Intel Core i5,Intel HD Graphics,8GB,12.4 Inches,1920 x 1080,256GB SSD,Windows 11 Home,2.49 lbs.,699.99
+Acer,Intel N100 Quad Core (4 Core),Intel UHD Graphics,8GB,11.6 Inches,1366 x 768,64GB Flash Memory,Chrome OS,,452.99
+Lenovo,Intel Celeron N4500 (1.10GHz) ,Intel UHD Graphics ,4GB,14.0 Inches,1366 x 768,32 GB SSD,Chrome OS,,364.99
+HP,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz,Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,"Height: 0.78""
+Width: 14.1""
+Depth: 9.2""",1309.43
+HP,Intel Core i7-1365U 10-Core (13th Gen),Intel Iris Xe Graphics,32GB,14 Inches,2560 x 1600,1TB PCIe M.2 SSD,Windows 11 Pro (64-Bit),2.94 lb,2453.1
+Lenovo,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,891.41
+Microsoft,Intel N200,Intel UHD Graphics,8GB,10.5 Inches,1920 x 1028,256GB SSD,Windows 11 Pro,Weight:3 1.15 lbs (521g),774.99
+MSI,Intel Core i7-12700H,NVIDIA GeForce RTX 3070,16GB,17.3 Inches,1920 x 1080,1TB PCIe SSD,Windows 11 Home,6.17 lbs.,1761.84
+Acer,Intel Core i9 13th Gen 13900HX (2.20GHz),NVIDIA GeForce RTX 4080,32GB,15.6 Inches,3840 x 2160,2TB PCIe SSD,Windows 11 Home,6.58 lbs.,3946.99
+MSI,Intel Core i5 13th Gen 13420H (2.10GHz),Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro 64-bit,3.31 lbs.,899.0
+Acer,ARM Cortex A73 2.0 GHz,Mali-G72 MP3,8GB,11.6 Inches,1366 x 768,32 GB Flash SSD,Chrome OS,,319.95
+Lenovo,AMD Ryzen 7 PRO 6850U (2.70GHz),AMD Radeon 680M,16GB,14.0 Inches,1920 x 1200,512 GB PCIe SSD,Windows 11 Pro 64-bit,2.91 lbs.,999.0
+Microsoft,Intel Core i5 11th Gen 11300H (3.10 GHz),Intel Iris Xe Graphics,16GB,14.4 Inches,2400 x 1600,512GB SSD,Windows 11 Home,3.83 lbs.,1599.99
+Microsoft,Intel Core i5 10th Gen i5-1245U Deca-core (10 Core) 1.60 GHz ,Intel Iris Xe Graphics ,8 GB,13 Inches,2880 x 1920,128 GB SSD,Windows 10 Pro,31 oz,1199.99
+Lenovo,Intel Core i5-13500H,NVIDIA GeForce RTX 4050 6GB GDDR6,8GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,,1208.68
+ASUS,Intel Celeron N5100 (1.10GHz) ,Intel UHD Graphics,4GB,11.6 Inches,1366 x 768,32 GB SSD,Chrome OS,,279.0
+Acer,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,3.55 lb,819.99
+HP,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,3.92 lb,1348.99
+Lenovo,Intel Core i5 12th Gen 1.30GHz,Intel Iris Xe Graphics,16GB,16 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,749.99
+Microsoft,Intel Core i3-10100Y (1.30 GHz),Intel UHD Graphics 615,8GB,10.5 Inches,1920 x 1280,128 GB SSD,Windows 10 Pro,1.20 lbs.,710.99
+Lenovo,AMD Ryzen 5 7530U,AMD Radeon Graphics,8GB,14 Inches,1920 x 1200,256GB SSD,Windows 11 Pro,,642.82
+ASUS,Intel Celeron N5100 (1.1 GHz),Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768 (HD),32 GB eMMC,Chrome OS,,167.62
+MSI,Intel Core i7 11th Gen 11800H (2.30GHz),NVIDIA GeForce RTX 3070,32GB,15.6 Inches,1920 x 1080,1TB NVMe SSD,Windows 11 Pro,5.25 lbs.,1944.76
+Microsoft,Intel Core i5 10-Core (12th Gen),Intel Iris Xe Graphics,8GB,13.3 Inches,2880 x 1920,128GB SSD,Windows 11 Pro,,1116.99
+Acer,Intel Celeron N5100 (1.10GHz) ,Intel UHD Graphics,4GB,15.6 Inches,1920 x 1080,32 GB SSD,Chrome OS,,319.99
+Microsoft,Intel Core i7 11th Gen 11370H (3.30GHz),NVIDIA RTX A2000,32GB,14.4 Inches,2400 x 1600,2TB SSD,Windows 11 Pro,4.00 lbs.,3617.99
+Acer,ARM Cortex A73/Cortex A53 2.00GHz (Combined Quad Core),ARM Mali-G72 MP3,4GB,14 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,246.43
+Acer,Intel N200 1.00GHz,Intel UHD Graphics,8GB,12 Inches,1366 x 912,64GB Flash Memory SSD,Chrome OS,,499.05
+Microsoft,Intel Core i3-10100Y (1.30 GHz),Intel UHD Graphics 615,8GB,10.5 Inches,1920 x 1280,128 GB SSD,Windows 11 in S mode,1.22 lbs.,629.99
+Microsoft,Intel Core i3-10100Y (1.30 GHz),Intel UHD Graphics 615,8GB,10.5 Inches,1920 x 1280,128 GB SSD,Windows 11 in S mode,1.20 lbs.,629.99
+Microsoft,Intel Core i5 11th Gen 2.40GHz ,Intel HD Graphics,8GB,13 Inches,2880 x 1920,512GB SSD,Windows 10 Home,1.96 lbs.,1129.0
+Acer,Intel Core i3 11th Gen 1115G4 (3.00GHz) ,Intel UHD Graphics,8GB,14.0 Inches,1920 x 1080,128GB SSD,Chrome OS,,739.99
+Lenovo,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Home,4.17 Lb,870.99
+HP,Intel Core i7 12th Gen i7-12800HX,AMD Radeon Pro W6600M,32GB,16 Inches,1920 x 1200,1TB M.2 PCIe NVMe SSD,Windows 11 Pro,,2949.99
+Acer,Intel Core i3 11th Gen 1110G4 (2.50GHz) ,Intel UHD Graphics,8GB,14.0 Inches,1920 x 1080,128GB SSD,Chrome OS,,823.99
+Microsoft,Intel Core i5 11th Gen 11300H (3.10 GHz),Intel Iris Xe Graphics,16GB,14.4 Inches,2400 x 1600,256GB SSD,Windows 11 Pro,3.83 lbs.,1641.99
+Dell,Intel Core i5 13th Gen,Intel HD Graphics 620,8GB,15.6 Inches,1366 x 768,256 GB SSD,Windows 11 Pro,3.99 lbs.,717.99
+HP,Intel Core i7 13th Gen (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro (64-Bit),2.94 lb,1833.43
+Acer,Intel N100 Quad-core (4 Core) 800 kHz,Intel UHD Graphics,4GB,11.6 Inches,1366 x 768,128 GB SSD,Windows 11 Pro Education,3.09,384.99
+Acer,Intel Celeron N4500 (1.10GHz) ,Intel UHD Graphics,4GB,11.6 Inches,1366 x 768,32 GB Flash Memory SSD,Chrome OS,,257.99
+HP,Intel Core i5-1335U 10-Core (13th Gen),Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,256GB PCIe M.2 SSD,Windows 11 Pro (64-Bit),2.94 lb,1550.62
+Acer,Intel Pentium Silver N6000 Quad-core (4 Core) 1.10 GHz,Intel UHD Graphics,8 GB,14 Inches,1920 x 1080,128 GB Flash Memory,Chrome OS,,496.99
+Acer,Intel Core i7-1260P (2.10GHz),Intel Iris Plus Graphics 640,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 10 Pro,,1166.99
+Lenovo,AMD Ryzen 5 7530U,AMD Radeon Graphics,16GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,788.2
+MSI,Intel Core i7-11375H,NVIDIA GeForce RTX 3060,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3.73 lbs,1406.56
+Acer,ARM Cortex A73 Quad-core (4 Core) 2 GHz + Cortex A53 Quad-core (4 Core) 2 GHz,  ARM Mali-G72 MP3,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,284.99
+Acer,Intel N100 Quad Core,Intel UHD Graphics,4GB,11.6 Inches,1366 x 768,128 GB PCIe SSD,Windows 11 Pro Education,3.09 LB,329.99
+Microsoft,Intel Core i5-1145G7,Intel Iris Xe Graphics,8GB,13 Inches,2880 x 1920,128GB SSD,Windows 11 Pro,1.96 lbs.,1329.99
+HP,AMD Ryzen 7 Pro 7840HS,AMD Radeon 780M,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,,1795.06
+Microsoft,Intel Core i5 12th Gen  ,Intel HD Graphics,8GB,13 Inches,2880 x 1920,256GB SSD,Windows 10 Pro,,1270.99
+Acer,Intel N100 Dual-core (2 Core),Intel UHD Graphics,4GB,12 Inches,1366 x 912,64 GB Flash SSD,Chrome OS,,373.43
+Lenovo,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,867.28
+DELL,Intel Core i7-1260U,Intel Iris Xe Graphics,16GB,13.3 Inches,2560 x 1600,512GB SSD,Windows 11 Pro,2.6 lbs,1753.21
+MSI,Intel Core i7-12700H (Up to 4.70 GHz),NVIDIA GeForce RTX 3070,16GB,17.3 Inches,1920 x 1080,512 GB PCIe SSD,Windows 11 Home,6.17 lbs.,1899.0
+HP,Intel Core i7 12th Gen 1265U (1.80GHz),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro 64-bit,,2380.35
+DELL,Intel Core i7-1260U,Intel Iris Xe Graphics,32GB,13.3 Inches,2560 x 1600,512GB SSD,Windows 11 Pro,2.6 lbs,2171.52
+Lenovo,Intel Core i7 12th Gen 1260P (2.10GHz),Intel Iris Xe Graphics,16GB,14.0 Inches,1920 x 1200,512GB PCIe SSD,Windows 11 DG Windows 10 Pro 64,3.03 lbs.,1169.99
+Lenovo,AMD Ryzen 5 7530U,AMD Radeon Graphics,8GB,14 Inches,1920 x 1200,256GB SSD,Windows 11 Home,3.42 lb,635.65
+Acer,Intel Core i5 1235U (1.30GHz),Intel Iris Xe Graphics,8 GB,14 Inches,1920 x 1080 (Full HD),256 GB SSD,Chrome OS,,787.99
+HP,Intel Core i7-1365U 10-Core (13th Gen),Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,512GB PCIe M.2 SSD,Windows 11 Pro,2.94 lb,1846.69
+Microsoft,Intel Core i7-1185G7,Intel Iris Xe Graphics,16GB,13 Inches,2880 x 1920,256GB SSD,Windows 11 Pro,1.96 lbs.,1821.99
+HP,AMD Ryzen 7 PRO 7840U,AMD Radeon 780M,16GB,16 Inches,1920 x 1200,512GB PCIe M.2 SSD,Windows 11 Pro (64-Bit),3.99 lb,1504.67
+Microsoft,Intel Core i3 10th Gen 10100Y (1.30 GHz) ,Intel UHD Graphics 615,4GB,10.5 Inches,1920 x 1280,64 GB eMMC SSD,Windows 11 Pro,1.22 lbs.,614.99
+HP,AMD Ryzen 9 PRO 7940HS,NVIDIA RTX 2000,32GB,15.6 Inches,2560 x 1440,1TB SSD,Windows 11 Pro for Workstations (64-Bit),,2742.28
+HP,AMD Ryzen 7 PRO 7840U,AMD Radeon 780M,16GB,16 Inches,1920 x 1200,512GB PCIe M.2 SSD,Windows 11 Pro (64-Bit),3.99 lb,1656.68
+Dell,Intel Core i7 13th Gen i7-1370P Tetradeca-core (14 Core) 1.90 GHz,NVIDIA RTX A500 Graphics with 4GB GDDR6 Memory,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1882.85
+Dell,Intel Core i7 13th Gen i7-13800H Tetradeca-core (14 Core),NVIDIA RTX A1000,32 GB Total RAM,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,1.79 kg,2061.05
+Asus,Intel Core i7 12th Gen i7-1260P Dodeca-core (12 Core) 2.10 GHz,Intel Iris Xe Graphics Tru2Life,16 GB,14 Inches,1920 x 1080,1 TB SSD,Windows 11 Pro,,1538.57
+Lenovo,AMD Ryzen 7 7730U,AMD Radeon Graphics,16GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,885.13
+DELL,Intel Core i5-1240U,Intel Iris Xe Graphics,16GB,13.3 Inches,2560 x 1600,256GB SSD,Windows 11 Pro Touch,2.6 lbs,1454.21
+Acer,Intel Core i5 11th Gen 1140G7 (1.80GHz) ,Intel Iris Xe Graphics ,8GB,14.0 Inches,1920 x 1200,256GB PCIe SSD,Chrome OS,,1078.99
+Lenovo,AMD Ryzen 5 7530U,AMD Radeon Graphics,16GB,16 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,734.99
+Acer,Intel Celeron 7305 Penta-core (5 Core) 1.10GHz,Intel UHD Graphics,4GB,12 Inches,1366 x 912,32 GB Flash Memory,Chrome OS,,303.57
+Acer,Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz,Intel HD Graphics,4 GB,14 Inches,1366 x 768,32 GB Flash Memory,Windows 11 Home,,250.66
+Lenovo,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,914.78
+HP,Intel Core i7 13th Gen 1355U (1.7 GHz/5.0 Ghz Boost),Intel Iris Xe Graphics,32 GB,13.5 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,2 - 2.9 lbs.,2095.99
+Microsoft,Intel Core i7-1185G7,Intel Iris Xe Graphics,16GB,13.3 Inches,2880 x 1920,1TB SSD,Windows 11 Pro,1.96 lbs.,1577.26
+Microsoft,Intel Core i5 11th Gen 11300H (3.10 GHz),Intel Iris Xe Graphics,16GB,14.4 Inches,2400 x 1600,512 GB SSD,Windows 10 Pro,3.83 lbs.,1852.99
+Microsoft,Intel Core i5 11th Gen 1145G7 (2.60GHz),Intel Iris Xe Graphics,16 GB,13.5 Inches,2256 x 1504,512 GB SSD,Windows 10 Pro 64-bit,2.79 lbs.,739.99
+HP,AMD Ryzen 9 PRO 7940HS,AMD Radeon 780M,32GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro for Workstations (64-Bit),3.1 lb,1861.02
+HP,AMD Ryzen 9 7940HS,AMD Radeon Graphics,16GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro for Workstations (64-Bit),3.1 lb,1899.0
+Acer,Intel Core i5-1240P (2.40GHz),Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,512GB SSD,Windows 10 Pro,3 - 3.9 lbs.,1025.89
+HP,AMD Ryzen 7 Pro 7840HS,Nvidia RTX A1000,16GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,2031.87
+Acer,Intel Celeron N5100 (1.10GHz) ,Intel UHD Graphics,4GB,12.0 Inches,1366 x 912,32 GB SSD,Chrome OS,,354.99
+Dell,Intel Core i7 13th Gen i7-1370P Tetradeca-core (14 Core) 1.90 GHz,NVIDIA RTX A500 Graphics with 4GB GDDR6 Memory,32 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,2028.91
+Microsoft,Intel Core i5-1035G7,Intel UHD Graphics,8GB,13.3 Inches,2880 x 1920,128GB SSD,Windows 11 Pro,,1406.99
+HP,Intel Core i7-13850HX,NVIDIA RTX A2000,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,2979.99
+Acer,AMD Ryzen 5 PRO 6650U,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Home,,1025.89
+Microsoft,Intel Core i7 11th Gen,NVIDIA GeForce RTX 3050 Ti,32GB,14.4 Inches,2400 x 1600,2TB SSD,Windows 10 Pro,,3143.99
+HP,Intel Core i7 13th Gen i7-13700H (14 Core),NVIDIA RTX A1000,32 GB,16 Inches,3840 x 2400,1 TB SSD,Windows 11 Pro,1.77 kg,2959.99
+HP,AMD Ryzen 7 PRO 7840HS,AMD Radeon 780M,32GB,14 Inches,2560 x 1600,1TB SSD,Windows 11 Pro,3.1 lb,1839.99
+Lenovo,AMD Ryzen 7 Pro 7840HS,AMD Radeon 780M,16GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1949.99
+Microsoft,Intel Core i5-1145G7,Intel Iris Xe Graphics,8GB,13 Inches,2880 x 1920,256GB SSD,Windows 11 Pro,1.96 lbs.,1439.99
+HP,Intel Core i5 13th Gen 1340P (1.90GHz),Intel Iris Xe Graphics,16GB,16 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,1.73 Kg,1047.41
+HP,Intel Core i7 13th Gen (14 Core),Intel Iris Xe Graphics,32 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro (64-Bit),3.88 lb,2041.93
+HP,AMD Ryzen 7 PRO 7840HS,AMD Radeon 780M,32GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,3.1 lb,1644.3
+HP,AMD Ryzen 5 Pro 7540U,AMD Radeon 740M,16 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,3.05 lb,1431.21
+Acer,Intel N100 Dual-core (2 Core) 800 kHz,Intel UHD Graphics,4GB,11.6 Inches,1366 x 768,32GB Flash Memory,Chrome OS,,412.99
+Microsoft,Intel Core i5 11th Gen 2.40GHz,Intel HD Graphics,8GB,13 Inches,2880 x 1920,256GB SSD,Windows 10 Home,1.96 lbs.,1474.99
+Acer,Intel Core i3 11th Gen 1115G4 (3.00GHz) ,Intel UHD Graphics,8GB,14.0 Inches,1920 x 1080,128GB SSD,Chrome OS,,623.99
+Microsoft,Intel Core i5 10-Core (12th Gen),Intel Iris Xe Graphics,8 GB,12.4 Inches,1536 x 1024 PixelSense Touchscreen,256 GB SSD,Windows 11 Pro,,894.0
+HP,Intel Core i9-13950HX,NVIDIA RTX A2000,32 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,2608.69
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro (64-Bit),,959.99
+Microsoft,Intel Core i3-10100Y (1.30 GHz),Intel UHD Graphics 615,8GB,10.5 Inches,1920 x 1280,128 GB SSD,Windows 10 Home,1.22 lbs.,839.99
+Microsoft,Intel Core i3-10100Y (1.30 GHz),Intel UHD Graphics 615,8GB,10.5 Inches,1920 x 1280,128 GB SSD,Windows 10 Pro,1.22 lbs.,816.99
+DELL,Intel Core i7 13th Gen,Intel UHD Graphics,16GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.42 lbs,928.99
+DELL,Intel Core i3 8GB,Intel Iris Xe Graphics,8GB,13.3 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,2.97 lbs,913.56
+Microsoft,Intel Core i5-11300H,Intel Iris Xe Graphics,16GB,14.4 Inches,2400 x 1600,512GB SSD,Windows 11 Pro,3.83 lbs.,1823.99
+HP,AMD Ryzen 5 7640HS,AMD Radeon 780M,16GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,3.1 lb,1380.11
+HP,Intel Core i7 13700HX (2.1 GHz),NVIDIA RTX A2000,32 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,2407.31
+Lenovo,Intel Core i7 13th Gen,Intel UHD Graphics,16GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1729.39
+HP,Intel Core i7-1365U 10-Core (13th Gen),Intel Iris Xe Graphics,16GB,14 Inches,2560 x 1600,512 GB SSD,Windows 11 Pro,2.94 lb,2269.99
+Microsoft,Intel Core i5 12th Gen,Intel Iris Xe Graphics,16GB,13.0 Inches,2256 x 1504,512 GB SSD,Windows 10 Pro,2.80 lb,1674.99
+Microsoft,Intel Core i7 12th Gen i7-1265U,Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 10 Pro,3.44 lbs,1923.99
+Acer,Intel Core i5 11th Gen 1135G7 (2.40GHz),Intel Iris Xe Graphics,8GB,15.6 Inches,1920 x 1080,256GB PCIe SSD,Windows 11 Pro 64-bit,3.97 lbs.,781.99
+Lenovo,Intel Core i7 12th Gen i7-12700H Tetradeca-core (14 Core) 2.30 GHz,Intel RTX A2000 with 8 GB In-plane Switching (IPS) Technology,32 GB Total RAM,16 Inches,3840 x 2400,1 TB SSD,Windows 11 Pro,,2616.99
+Microsoft,Intel Core i7 11th Gen 11370H (3.30GHz),NVIDIA RTX A2000,32GB,14.4 Inches,2400 x 1600,1TB SSD,Windows 11 Pro,4.00 lbs.,3190.99
+Lenovo,Intel Core i7 10-Core (13th Gen),Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1200,512GB PCIe 4.0 SSD,Windows 11 Pro,,1631.99
+HP,Intel Celeron N4500 (1.10GHz) ,Intel UHD Graphics,4GB,11.6 Inches,1366 x 768,32 GB Flash SSD,Chrome OS,,391.87
+Microsoft,Intel Core i5 11th Gen 1145G7 (2.60GHz),Intel Iris Xe Graphics,16 GB,13.5 Inches,2256 x 1504,256 GB SSD,Windows 11 Pro,2.84 lbs.,669.99
+HP,Intel Core i5-1230U,Intel Iris Xe Graphics,8GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Pro (64-Bit),,855.99
+HP,Intel i7-1365U,Intel HD Graphics,16GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1999.99
+Microsoft,"Intel Core i5 13""",Intel Iris Xe Graphics,8GB,13 Inches,2880 x 1920,256GB SSD,Windows 10 Home,,1299.99
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,2.75 lbs,1067.11
+Microsoft,Intel Core i5 11th Gen 1145G7 (2.60GHz) ,Intel Iris Xe Graphics ,8GB,13 Inches,2880 x 1920,512GB SSD,Windows 11 Pro,1.96 lbs.,1126.51
+HP,AMD Ryzen 5 Pro 7640HS,AMD Radeon 780M,16GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1439.99
+Dell,Intel Core i5 13th Gen,Intel HD Graphics 620,8GB,15.6 Inches,1366 x 768,256 GB SSD,Windows 11 Pro,3.99 lbs.,887.09
+Microsoft,Intel Core i5 11th Gen 2.40GHz ,Intel HD Graphics,8GB,13 Inches,2880 x 1920,128 GB SSD,Windows 10 Home,1.96 lbs.,1376.99
+HP,AMD Ryzen 9 PRO 7940HS,AMD Radeon 780M,32GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,3.1 lb,1889.29
+HP,Intel Core i7 13th Gen i7-13700H (14 Core) 2.40 GHz,NVIDIA RTX 2000,32 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,2865.99
+HP,Intel Core i7-1360P,Intel Iris Xe Graphics,32GB,14 Inches,2560 x 1600,512GB PCIe M.2 SSD,Windows 11 Pro,2.59 lb,1995.99
+HP,AMD Ryzen 7 Pro 7840HS,Nvidia RTX A1000,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,,2268.67
+HP,AMD Ryzen 9 PRO 7940HS,AMD Radeon Graphics,64GB,15.6 Inches,2560 x 1440,1TB SSD,Windows 11 Pro for Workstations (64-Bit),,2349.99
+Acer,Qualcomm Kryo 468,Adreno 618,4GB,13.3 Inches,1366 x 768,128GB SSD,Chrome OS,,530.99
+Lenovo,AMD Ryzen 7 PRO 6850U,AMD Radeon 680M,16GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,2.71 lb,1325.0
+HP,Intel Core i7-13700Hx,NVIDIA RTX A2000,32GB,16 Inches,3840 x 2400,1TB SSD,Windows 11 Pro,,3465.99
+Lenovo,AMD Ryzen 7 PRO 6850H Octa-core (8 Core) 3.20 GHz,NVIDIA T1200 with 4 GB,32 GB,15.6 Inches,1920 x 1080,1 TB SSD,Windows 11 Pro,,1720.99
+Dynabook,Intel Core i7 12th Gen 1260P (2.10GHz),Intel Iris Xe Graphics,16GB,15.6 Inches,1920x1080,512GB SSD,Windows 10 Pro 64-bit,3.59 lbs.,1270.99
+Microsoft,Intel Core i3-10100Y (1.30 GHz),Intel UHD Graphics 615,8GB,10.5 Inches,1920 x 1280,256 GB SSD,Windows 11 Home,1.22 lbs.,919.99
+HP,AMD Ryzen 7 7840HS,AMD Radeon 780M,32GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,3.1 lb,1672.54
+Dell,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1555.99
+HP,AMD Ryzen 9 PRO 7940HS,AMD Radeon Graphics,32 GB,15.6 Inches,1920 x 1080,1 TB SSD,Windows 11 Pro for Workstations (64-Bit),,2069.99
+Dell,Intel Core i7 13th Gen i7-13800H Tetradeca-core (14 Core) 2.50 GHz,NVIDIA RTX A500 Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,1.79 kg,1837.6
+HP,AMD Ryzen 7 Pro 7840HS,"AMD Radeon 780M, NVidia Quadro RTX 2000",32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,,2410.75
+Microsoft,Intel Core i5 10-Core (12th Gen),Intel Iris Xe Graphics,16GB,12.4 Inches,1536 x 1024 PixelSense Touchscreen,512GB SSD,Windows 11 Pro,,1239.99
+Microsoft,Intel Core i5-1135G7 2.40GHz,Intel Iris Xe Graphics,4GB,12.4 Inches,1536x1024,128GB SSD,Windows 11 Pro,,714.99
+Lenovo,AMD Ryzen 7 7730U,AMD Radeon Graphics,16GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,893.1
+Microsoft,Intel Core i5 1135G7,Intel Iris Xe Graphics,8GB,12.4 Inches,1536 x 1024,256GB SSD,Windows 11 Pro,,893.99
+HP,AMD Ryzen 7 PRO 7840HS,AMD Radeon 780M,16GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,3.1 lb,1559.46
+CTL,Celeron N5100 (1.10GHz) ,Intel HD Graphics,8GB,11.6 Inches,1366 x 768,64GB SSD,Chrome OS,,307.88
+Microsoft,Intel Core i3-10100Y (1.30 GHz),Intel UHD Graphics 615,8GB,10.5 Inches,1920 x 1280,128 GB SSD,Windows 10 Pro,1.22 lbs.,819.99
+EA,Intel Core i5-7200U,Intel HD Graphics 620,8GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 10 Home,,59.99
+HP,Intel Core i5 13th Gen (10 Core),NVIDIA RTX A500,16GB,16 Inches,1920 x 1200,256GB PCIe SSD,Windows 11 Pro,3.88 lb,1809.99
+HP,AMD Ryzen 5 Pro 7540U,AMD Radeon 740M3.2 GHz,16 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,3.05 lb,1202.41
+HP,AMD Ryzen 7 Pro 7840HS,AMD Radeon 780M,16GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1700.34
+HP,AMD Ryzen 9 PRO 7940HS,NVIDIA RTX A1000,16GB,15.6 Inches,1920 x 1080,512GB PCIe 4.0 x4 SSD,Windows 11 Pro for Workstations (64-Bit),,2309.99
+Dell,Intel Core i7 13th Gen i7-1370P Tetradeca-core (14 Core) 1.90 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1020,512 GB SSD,Windows 11 Pro,,2053.99
+Microsoft,Intel Core i5 10-Core (12th Gen),Intel Iris Xe Graphics,8 GB,12.4 Inches,1536 x 1024 PixelSense Touchscreen,128 GB SSD,Windows 10 Pro (64-Bit),,813.99
+Microsoft,Intel Core i5 10-Core (12th Gen),Intel Iris Xe Graphics,16 GB,12.4 Inches,1536 x 1024 PixelSense Touchscreen,256 GB SSD,Windows 11 Pro,,1085.99
+LENOVO,Intel Core i5 1340P (1.90GHz),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,2.95 lbs,1522.0
+Lenovo,Intel Core i5 12th Gen i5-12500H Dodeca-core (12 Core) 2.50 GHz,Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1863.34
+Lenovo,AMD Ryzen 5 PRO 6650U,AMD Radeon 660M,16GB,16 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,3.99 lb,1202.48
+MSI,Intel i7,Intel UHD Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,,1687.99
+Lenovo,AMD Ryzen 7 PRO 6850U,AMD Radeon 680M,16GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,3.06 lb,1478.42
+DELL,Intel Core i7 12th Gen i7-1270P Dodeca-core (12 Core),Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 10 Pro,,1292.39
+Microsoft,Intel Core i3 12th Gen 10100Y (1.30 GHz) ,Intel UHD Graphics 615,8GB,10.5 Inches,1920 x 1280,128GB SSD,Windows 11 Pro,1.22 lb (553 g),779.99
+AMD,AMD Ryzen 7 7700U,AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,59.99
+ASUS,AMD Ryzen 5 7530U CPU,  AMD Radeon Graphics,8GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,3.75 lbs.,745.33
+MSI,Intel Core i7 12th Gen 12650H (2.30GHz),NVIDIA GeForce RTX 4060,32GB,15.6 Inches,1920 x 1080 IPS-Level 144 Hz,1TB PCIe SSD,Windows 11 Home,4.10 lbs.,1099.99
+Lenovo,Intel Core i5-1130G7,Intel UHD Graphics,8GB,13.0 Inches,2160 x 1350,512GB SSD,Windows 10 Home,,594.99
+Samsung,Intel Celeron N4020 (1.1GHz),Intel UHD Graphics 600,4GB,11.6 Inches,1366 x 768,32GB SSD,Chrome OS,,209.99
+MSI,Intel Core i7 13th Gen 1360P (2.20GHz),NVIDIA GeForce RTX 4050,32GB,16 Inches,2560 x 1600,1TB PCIe SSD,Windows 11 Pro,4.63 lbs.,2006.28
+HP,AMD Ryzen 7 7730U Processor,AMD Radeon Graphics,32GB,15.6 Inches,1366 x 768,1TB PCIe SSD,Windows 11 Pro,3.52 lbs.,709.0
+ASUS,Intel Core i7-1360P (3.1GHz),Intel HD Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,1269.99
+MSI,Intel Core i7 13th Gen i7-13700H (3.70GHz),NVIDIA GeForce RTX 4070,64 GB,16 Inches,2560 x 1600,1 TB SSD,Windows 11 Pro,,2621.85
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel UHD Graphics,16 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,782.33
+Lenovo,AMD Ryzen 5 7530U,AMD Radeon Graphics,8GB,13.3 Inches,1920 x 1200,512GB SSD,Windows 11 Home 64-bit,3.06 lbs,499.99
+Lenovo,AMD Ryzen 7 7730U,  AMD Radeon Graphics,16GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,3.90 lbs.,1159.0
+Dell,Intel Core i5-1135G7,Intel HD Graphics 620,32GB,15.6 Inches,1920 x 1080,1TB NVMe SSD,Windows 11 Pro,,572.09
+Lenovo,Intel Core i5-1140G7,Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,629.99
+Lenovo,Intel Core i7 12th Gen 1255U (10-core) Processor,Intel HD Graphics 620,16GB,16 Inches,1920 x 1080,512GB SSD,Windows 11 Home,4.63 lbs.,759.99
+HP,AMD Ryzen 3 5300U,AMD Radeon Graphics,32GB,14 Inches,1920 x 1200,1TB SSD,Windows 11 Home,3.24 lbs.,464.99
+HP,Intel Core i7-1355U,Intel Iris Xe Graphics,32GB,17.3 Inches,1600 x 900,2TB SSD,Windows 11 Home,,1059.0
+Lenovo,AMD Ryzen 5 7530U Processor (2.00 GHz up to 4.50 GHz),AMD Radeon Graphics,40 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,919.0
+Dell,Intel Core i5-1135G7,Intel UHD Graphics,32GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,,531.79
+Dell,Intel Core i7-1185G7,Intel HD Graphics,16GB,14 Inches,1920 x 1080,1TB SSD,Windows 10 Pro,,999.0
+Lenovo,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1540.26
+Lenovo,Intel Core i9 13th Gen i9-13900H Tetradeca-core (14 Core) 2.60 GHz,NVIDIA RTX 2000,32 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,2905.47
+HP,Intel Core i9-13900H,NVIDIA GeForce RTX 4060,64GB DDR5 RAM,16 Inches,2560 x 1600,2TB SSD,Windows 11 Home,5 - 5.9 lbs.,1799.99
+Dell,"Intel Pentium N200 (4 Cores, 4 Threads, 3.7GHz Turbo Speed)",Intel UHD Graphics,8GB,11.6 Inches,1366 x 768,512GB PCIe NVMe M.2 Solid State Drive,Windows 11 Pro,3.12 lbs.,419.0
+Lenovo,Intel Core i9-13900HX,NVIDIA GeForce RTX 4080,16GB,16 Inches,2560 x 1600 WQXGA,1TB SSD,Windows 11 Onyx Grey,,2249.99
+MSI,Intel Core i7-12650H (10 core),NVIDIA GeForce RTX 4070,64GB DDR5 RAM,15.6 Inches,144Hz,4TB SSD,Windows 11 Home,,1889.99
+Lenovo,Intel Core i7-1160G7,Intel Iris Xe Graphics,16 GB,13.6 Inches,2160 x 1350,512 GB SSD,Windows 11 Home,,759.99
+Acer,Intel Core i9-13900HX,NVIDIA GeForce RTX,64 GB,17.0 Inches,2560 x 1600,2 TB PCIe SSD,Windows 11 Home,6.61 lbs.,3499.99
+Dell,Intel Core i7-1260P,Intel Iris Xe Graphics,16GB,16 Inches,1920 x 1200,1TB SSD,Windows 11 Pro,4.5,899.99
+Lenovo,Intel Core i7 i7-1180G7 Quad-core (4 Core) 2.20 GHz,Intel HD Graphics 620,16 GB,13.3 Inches,1920 x 1080,512 GB SSD,Windows 10 Pro,2.14 lbs,789.99
+HP,Intel Celeron N4120,Intel UHD Graphics 600,8GB,14 Inches,1366 x 768,64GB eMMC,Windows 11 Home,3 - 3.9 lbs.,339.0
+HP,Intel Core i7-1355U (10 cores),Intel Iris Xe Graphics,32GB,15.6 Inches,1920 x 1080,2TB SSD,Windows 11 Home,3.86,949.99
+HP,Intel Core i7-1355U,Intel HD Graphics,64GB,17.3 Inches,1600 x 900,2TB SSD,Windows 11 Home,4 - 4.9 lbs.,1199.99
+Lenovo,AMD Ryzen 9 6900HS,NVIDIA GeForce RTX 3050,4GB,14.5 Inches,3072 x 1920,1TB SSD,Windows 11 Home,,1399.99
+Lenovo,Intel Core i7-1160G7,Intel Iris Xe Graphics,16GB,13.0 Inches,2160 x 1350,512GB SSD,Windows 10 Pro,2.14 lbs,729.99
+Lenovo,Intel Core i7-13700H Processor,Intel® HD Graphics 620,8GB,16 Inches,1920 x 1200,1TB SSD,Windows 10 Home,,1709.0
+Acer,AMD Ryzen 7 6000 Series,NVIDIA GeForce RTX 3070 Ti,16GB,15.6 Inches,2560 x 1440,1TB SSD,Windows 11 Home,5.51 lbs.,1179.99
+HP,Intel Celeron N4020,Intel UHD Graphics,4GB,14 Inches,1920 x 1080,64GB eMMC,Windows 10 Home,,259.99
+HP,Intel Core i7-1255U,Intel Iris Xe,32GB,17.3 Inches,1600x900,1TB PCIe SSD,Windows 11 Pro,,949.0
+ASUS,Intel Core i5-1135G7,Intel Iris Xe Graphics,20GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3 - 3.9 lbs.,559.0
+Lenovo,Intel Core i7-1365U vPro® Processor,Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 10 Home,,1149.99
+HP,Intel Celeron N4120,Intel UHD Graphics 600,16GB,14 Inches,1366 x 768,64GB eMMC,Windows 11 Home,,359.0
+Lenovo,Intel Core i7-13700HX,Intel UHD Graphics,32GB,16 Inches,3840 x 2400,1TB SSD,Windows 10 Home,,2079.0
+ASUS,Intel Core i3-1215U,Intel UHD Graphics,12GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,3 - 3.9 lbs.,429.99
+Lenovo,Ryzen 5 5625U,AMD Radeon Graphics,256GB SSD,15.6 Inches,1920 x 1080,256GB SSD,Windows 10 Home,,488.83
+ASUS,AMD Ryzen 9 5900HX,GeForce RTX 3080,16GB,15.6 Inches,1920 x 1080,1TB NVMe SSD,Windows 10 Home,5.07 lbs.,1699.0
+Lenovo,AMD Ryzen 7 PRO 7840U,AMD Radeon Graphics,32 GB,14 Inches,1920 x 1200,1 TB SSD,Windows 10 Home,lbs,969.0
+MSI,Intel Core i7 11th Gen 11800H (2.30GHz),NVIDIA GeForce RTX 3060,64GB DDR4,17.3 Inches,1920 x 1080,2TB NVMe SSD,Windows 11 Home,6 - 6.9 lbs.,1699.99
+Acer,Intel Core i7-12650H,NVIDIA GeForce RTX 4060,16 GB,15.6 Inches,1920 x 1080,512 GB PCIe SSD,Windows 11 Home,5.51 lbs.,994.99
+HP,Intel Celeron N4500 Dual-core (2 Core),Intel UHD Graphics,4 GB,14 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,250.46
+Lenovo,Intel Core i5-1335U,Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,1.00 lbs,998.55
+MSI,Intel Core i5-11400H,NVIDIA GeForce RTX 3050,8GB,15.6 Inches,1920 x 1080,512GB NVMe SSD,Windows 11 Home,4.63 lbs.,920.99
+Lenovo,Intel Core i9 13th Gen 13905H (2.60GHz),NVIDIA GeForce RTX 4060,32 GB,16 Inches,3200 x 2000,1 TB NVMe SSD,Windows 11 Home,4.92 lbs.,2099.0
+Lenovo,AMD Ryzen 5 7530U,AMD Radeon Graphics,8GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Home,,399.99
+Lenovo,Intel Core i7-1360P (3.6GHz),NVIDIA GeForce GTX 1050,16GB,16 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,1089.0
+Lenovo,AMD Ryzen 7 5700U,AMD Radeon Graphics,24 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,699.0
+Lenovo,Intel Core i7-1360P (3.6GHz),NVIDIA GeForce RTX 2060,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,1089.0
+Dell,Intel Core i7-1355U,Intel Iris Plus Graphics 640,64GB,15.6 Inches,1920 x 1080,2TB PCIe NVMe M.2 SSD,Windows 11 Pro,3.64 lbs.,1129.99
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.99 lbs.,917.3
+ASUS,Intel Core i7-13700H,Intel Iris Xe Graphics,16GB,14.5 Inches,2880 x 1800,512GB SSD,Windows 11 Home,,949.99
+HP,AMD Ryzen 3 5425U,AMD Radeon Graphics,32GB,15.6 Inches,1920 x 1080,2TB SSD,Windows 11 Home,3.84 lbs.,779.0
+Lenovo,Intel Core i5-13420H,NVIDIA GeForce RTX 3050,16GB,15.6 Inches,1920 x 1080,2TB SSD,Windows 11 Home,,819.99
+BMAX,Intel N3350,Intel HD Graphics,8GB,13.3 Inches,1920 x 1080,256GB SSD,Windows 10 Home,1.3kg,219.0
+Acer,Intel Core i7-12700H,NVIDIA GeForce RTX 3060,64GB DDR5,16 Inches,2560 x 1600,2TB SSD,Windows 11 Home,5 - 5.9 lbs.,1599.99
+Dell,Intel Core i7-1355U Processor,Intel Iris Xe Graphics,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,,949.0
+HP,Intel Core i7-1355U,Intel Iris Plus Graphics,16GB,17.3 Inches,1600 x 900,1TB SSD,Windows 11 Home,,829.99
+MSI,Intel Core i7 12th Gen 12650H (2.30GHz),NVIDIA GeForce RTX 4070,8 GB,15.6 Inches,1920 x 1080 IPS-Level 144 Hz,1 TB NVMe SSD,Windows 11 Home,4.96 lbs.,1499.0
+Microsoft,Intel Core i7 12th Gen 1255U (1.70GHz) ,Intel Iris Xe Graphics ,32GB ,"13"" Touchscreen",2880 x 1920 ,1TB SSD,Windows 11 Home,1.94 lbs.,1799.99
+HP,AMD Ryzen 5 7535HS,NVIDIA GeForce RTX 2050,16GB,15.6 Inches,1920x1080,512GB SSD,Windows 11 Home,,618.0
+Lenovo,AMD Ryzen 5 7645HX,NVIDIA GeForce RTX 4050,16 GB,16 Inches,2560 x 1600,512 GB SSD,Windows 10 Home,lbs,997.49
+HP,Intel Core i5-1135G7,Intel HD Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 10 Pro,3 - 3.9 lbs.,558.97
+ASUS,Intel Core i3 1215U,Intel UHD Graphics,8 GB,14 Inches,1920 x 1200,128 GB SSD,Chrome OS,,692.65
+Lenovo,Intel Core i5-1335U Processor,Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 10 Home,,892.32
+MSI,Intel Core i7-12650H,NVIDIA GeForce RTX 4050,64GB,15.6 Inches,1920 x 1080,2TB PCIe SSD,Windows 11 Home,4 - 4.9 lbs.,1329.99
+Acer,Intel Celeron N4500 (1.10GHz),Intel UHD Graphics,4GB,17.3 Inches,1920 x 1200,128GB SSD,Chrome OS,,340.99
+Lenovo,Intel Core i5-1335U,Intel UHD Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 10 Home,,863.64
+Acer,Intel Core i5-1135G7,NVIDIA GeForce MX450,40GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,3.64 lbs.,819.0
+Dell,Intel Core i7-1185G7 vPro Processor,Intel Iris Xe Graphics,32GB DDR4,14 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.2,999.99
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel UHD Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,799.99
+Lenovo,Intel N5100 (1.1GHz),Intel UHD Graphics,32GB,11.6 Inches,1920 x 1200,32GB SSD,Windows 11 Home,,249.0
+HP,Intel Core i7-1165G7,Intel Iris Xe Graphics,32GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.75,769.99
+ASUS,AMD Ryzen 9 7945HX,NVIDIA GeForce RTX 4080,32GB DDR5,17.3 Inches,1920 x 1080,1TB PCIe SSD,Windows 11 Pro,6.61 lbs.,2887.99
+Lenovo,Intel Core i5-1335U (2.2GHz),Intel Iris Xe Graphics,8GB,14 Inches,1920 x 1080,512GB SSD,Windows 10 Home,1.00 lbs,919.12
+HP,Intel Core i5-1135G7,Intel HD Graphics,16GB,17.3 Inches,1920 x 1080,1TB SSD,Windows 11 Home,,729.79
+Dell,Intel Core i5-1245U Processor,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,,875.0
+HP,Intel Core i7-1255U Processor,Nvidia GeForce MX550,32GB DDR4 RAM,15.6 Inches,1920 x 1080,2TB SSD,Windows 11 Pro,,1053.99
+Acer,Intel Core i5-12450H,NVIDIA GeForce RTX 3050,8GB,17.3 Inches,1920 x 1080,512 GB PCIe SSD,Windows 11 Home,6.61 lbs.,883.99
+Lenovo,i7-13700H (2.9GHz),NVIDIA GeForce RTX 4050,6GB,16 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,949.99
+ASUS,Intel Celeron N5100 (1.1GHz),Intel UHD Graphics,8GB,11.6 Inches,1366 x 768,32GB eMMC SSD,Chrome OS,,199.99
+ASUS,Intel Core i7-1165G7,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1080,1TB SSD,Windows 10 Home,,589.99
+Acer,AMD Ryzen 3 7320U Quad-core (4 Core) 2.40 GHz,AMD Radeon Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Home,,433.68
+MSI,Intel Core i7-12650H,NVIDIA GeForce RTX 4050,16GB,15.6 Inches,1920x1080,2TB PCIe SSD,Windows 11 Home,4 - 4.9 lbs.,1229.99
+HP,AMD Ryzen 7 PRO 5875U Octa-core (8 Core) 2 GHz,AMD Radeon Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 10 Pro,,875.34
+MSI,Intel Core i5-11400H,NVIDIA GeForce RTX 3050,8GB,15.6 Inches,1920 x 1080 IPS-Level 144 Hz,512 GB PCIe SSD,Windows 11 Home,4.10 lbs.,650.0
+HP,AMD Ryzen 5 7535HS,NVIDIA GeForce RTX 2050,32GB DDR5,"15.6"" FHD IPS 144Hz",1920 x 1080,1TB SSD,Windows 11 Home,,709.99
+HP,Intel Core i7-1165G7,Intel Iris Xe Graphics,64GB,15.6 Inches,1920 x 1080,2TB SSD,Windows 11 Pro,3.75,942.0
+HP,AMD Ryzen 5 7530U,AMD Radeon Graphics,32GB,17.3 Inches,1600 x 900,2TB PCIe SSD,Windows 11 Home,,799.0
+MSI,Intel Core i7-12650H,NVIDIA GeForce RTX 4050,16GB,15.6 Inches,1920x1080,2TB PCIe SSD,Windows 11 Home,4 - 4.9 lbs.,1229.99
+ASUS,Intel Celeron N5100 (1.1GHz),Intel UHD Graphics,8GB,11.6 Inches,1366 x 768,32GB eMMC SSD,Chrome OS,,199.99
+ASUS,Intel Core i7-1165G7,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1080,1TB SSD,Windows 10 Home,,589.99
+Acer,AMD Ryzen 3 7320U Quad-core (4 Core) 2.40 GHz,AMD Radeon Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Home,,433.68
+Lenovo,Intel Core i3-10110U,Intel HD Graphics,8GB,15.6 Inches,1920 x 1080,256GB NVMe SSD,Windows 10 Pro,3 - 3.9 lbs.,388.79
+HP,AMD Ryzen 5 7535HS,NVIDIA GeForce RTX 2050,32GB DDR5,"15.6"" FHD IPS 144Hz",1920 x 1080,1TB SSD,Windows 11 Home,,709.99
+HP,AMD Ryzen 5 7530U,AMD Radeon Graphics,32GB,17.3 Inches,1600 x 900,2TB PCIe SSD,Windows 11 Home,,799.0
+Lenovo,Intel Core i5-1135G7,Intel Iris Xe,12GB,15.6 Inches,1920 x 1080,256GB PCIe SSD,Windows 10 Pro,,558.99
+Lenovo,Intel Core i5-1135G7,Intel Iris Xe Graphics,8GB,13.3 Inches,1920 x 1080,256GB SSD,Windows 10 Home,1.00 lbs,548.99
+Asus,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics NanoEdg,16 GB,14 Inches,1920 x 1200,512 GB SSD,ChromeOS,,931.9
+Lenovo,Intel Core i5-1240P (2.4GHz),Intel Iris Xe,16GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro 64-bit,2.48 lbs,758.11
+ASUS,AMD Ryzen 7 7730U,AMD Radeon Graphics,16GB,17.3 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,4.63,799.99
+MSI,Intel Core i5-11400H,NVIDIA GeForce GTX 1650 Max-Q,8GB,15.6 Inches,1920 x 1080 IPS-Level 60 Hz,256GB NVMe SSD,Windows 11 Home,4.10 lbs.,646.29
+ASUS,Intel Core i3 1215U,Intel UHD Graphics,8 GB,14 Inches,1920 x 1200,128 GB SSD,Chrome OS,,692.65
+MSI,Intel Core i9-13980HX,NVIDIA GeForce RTX,32GB,17.0 Inches,2560 x 1600,2TB NVMe SSD,Windows 11 Pro,6.83 lbs.,3899.0
+HP,Intel Core i5-1135G7,Intel HD Graphics,16GB,15.6 Inches,1920 x 1080,256GB NVMe SSD,Windows 11 Home,3 - 3.9 lbs.,474.79
+MSI,Intel Core i7 11th Gen 1195G7 (2.90 GHz),Intel Iris Xe Graphics,16 GB,16 Inches,2560 x 1600,512 GB SSD,Windows 10 Pro 64-bit,4.19 lbs.,1049.99
+MSI,Intel Core i7 12th Gen 12700H (2.30GHz),NVIDIA GeForce RTX 3080 Laptop,32GB,16.0 Inches,2560 x 1600,1TB SSD,Windows 11 Pro 64-bit,6.38 lbs.,2169.0
+Asus,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,876.82
+ASUS,Intel Core i7-12700H,NVIDIA GeForce RTX 4070,16GB DDR4,15.6 Inches,1920x1080,1TB PCIe SSD,Windows 11 Home,4.85 lb,1249.99
+Asus,Intel Core i7 12th Gen i7-1255U Deca-core (10 Core) 1.70 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,978.75
+Asus,Intel Core i7 12th Gen i7-1255U Deca-core (10 Core) 1.70 GHz,Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,999.99
+HP,AMD Ryzen 5 7530U,Integrated AMD Radeon Graphics,16GB,17.3 Inches,1600 x 900,1TB PCIe SSD,Windows 11 Pro,,739.99
+Lenovo,Intel Core i7-11800H,NVIDIA GeForce RTX 3050 Ti,32GB,16 Inches,2560x1600,1TB PCIe NVMe M.2 SSD,Windows 11 Pro,3.7 pounds,1699.99
+Lenovo,AMD Ryzen 7 7730U,AMD Radeon Graphics,24 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,817.52
+Dell,Intel Core i5-1135G7,Intel UHD Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,504.62
+HP,"Intel Core i7-1355U (up to 5.0 GHz, 12 MB L3 cache, 10 cores, 12 threads)",Intel Iris Xe Graphics,32GB,15.6 Inches,1920 x 1080,1TB PCIe NVMe M.2 SSD,Windows 11 Pro,,895.0
+ASUS,Intel Core i7-13620H,NVIDIA GeForce RTX 4060,48GB,16 Inches,1920 x 1080,2TB SSD,Windows 11 Home,,1739.99
+MSI,Intel Core i7 13th Gen 13700H (2.40GHz),NVIDIA GeForce RTX 4050,32GB,16 Inches,2560 x 1600,1TB SSD,Windows 11 Pro,4.19 lbs.,1855.35
+Lenovo,Intel Core i5-1135G7,Intel Iris Xe Graphics,12GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,,545.79
+MSI,Intel Core i7 12th Gen 12700H (2.30GHz),NVIDIA GeForce RTX 3080 Ti,32GB,16.0 Inches,2560 x 1600,1TB SSD,Windows 11 Pro,6.38 lbs.,1799.99
+HP,Intel Core i5-1335U (10-Core) Processor,Intel Iris Xe Graphics,16 GB,17.3 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,644.79
+HP,AMD Ryzen 7 7730U,AMD Radeon Graphics,32GB,17.3 Inches,1920 x 1080,2TB SSD,Windows 11 Home,4 - 4.9 lbs.,769.0
+Dell,Intel Core i7-1255U,Intel Iris Xe Graphics,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,4,775.0
+HP,Intel Celeron N3350 (1.60GHz) ,Intel UHD Graphics,8GB,11.6 Inches,1366 x 768,64GB SSD,Chrome OS,3.13 lbs.,311.48
+HP,Intel Core i5-1135G7,Intel HD Graphics,16GB,15.6 Inches,1920 x 1080,512GB NVMe SSD,Windows 11 Pro,3 - 3.9 lbs.,518.76
+Dell,AMD Ryzen 5 7530U,AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,3.59 lb,439.99
+Lenovo,Intel Core i5-1135G7,Intel Iris Xe Graphics,36GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,,671.79
+HP,AMD Ryzen 3 5425U,AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3.84 lbs.,429.0
+Lenovo,Intel Core i5 11th Gen 1130G7 (1.80GHz),Intel Iris Xe Graphics,16GB,13.0 Inches,2160 x 1350,256GB PCIe SSD,Windows 10 Pro 64-bit,1.99 lbs.,1219.9
+HP,Intel Core i3-1215U (3.30GHz),Intel UHD Graphics,8GB,14 Inches,1920 x 1080,128GB SSD,Chrome OS,,339.99
+HP,Intel Core i5-1245U,Intel Iris Xe Graphics,32GB,14 Inches,1920 x 1200,1TB SSD,Windows 10 Pro,3,965.0
+ASUS,Intel Evo i7-13700H,Intel Iris Xe Graphics,16GB,14.5 Inches,2880 x 1800,1TB PCIe 4.0 SSD,Windows 11 Home,,939.99
+HP,Intel Core i7-8550U,Intel UHD Graphics 620,16GB,17.3 Inches,1920 x 1080,1TB SSD,Windows 10 Pro,5 - 5.9 lbs.,675.0
+HP,Intel Celeron N4500 Dual-core (2 Core),Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,228.0
+Dell,Intel Core i5-1035G1,Intel UHD Graphics 620,8GB,15.6 Inches,1920 x 1080,256GB NVME SSD,Windows 10 Pro S,4.41 lbs,489.69
+HP,Intel Core i5 12th Gen i5-1245U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,875.0
+HP,Intel Core i7-1355U,Intel Iris Xe Graphics,32GB,17.3 Inches,1600 x 900,1TB PCIe SSD,Windows 11 Home,4 - 4.9 lbs.,879.99
+HP,Intel Core i7-1165G7,Intel Iris Xe Graphics,64GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.75,865.0
+ASUS,Intel Core i5-1235U,Intel HD Graphics,16GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Home,,1093.42
+Asus,Intel Celeron N3350 (1.1GHz),Intel UHD Graphics,4GB,13.3 Inches,1366 x 768,128GB SSD,Windows 11 Home,,786.99
+Dell,Intel Core i7-12700H,NVIDIA GeForce RTX 3060,32GB DDR5,16 Inches,3K (3072 x 1920),1TB SSD,Windows 11 Pro,4.5,1149.99
+Dell,Intel Core i7-1355U,Intel Iris Xe Graphics,32 GB,15.6 Inches,1920 x 1080,1 TB SSD,Windows 11 Pro,,1128.0
+HP,Intel Core i5-1335U (10-Core) Processor,Intel Iris Xe Graphics,32GB,17.3 Inches,1920 x 1080,1TB SSD,Windows 11 Home,,743.79
+Lenovo,Intel Core i5-1135G7,Intel Iris Xe Graphics,36 GB,15.6 Inches,1920 x 1080,2 TB SSD,Windows 11 Pro,,650.0
+Lenovo,Intel Core i5-1135G7,Intel Iris Xe Graphics,20GB,15.6 Inches,1920 x 1080,512GB PCIe NVMe M.2 SSD,Windows 11 Home,,529.0
+Dell,Intel Core i7-1165G7,Intel Iris Xe graphics,32 GB,15.6 Inches,1920 x 1080,1 TB PCIe NVMe M.2 SSD,Windows 10 Pro,,1109.0
+HP,Intel Core i5 13th Gen i5-1345U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1843.01
+ASUS,AMD Ryzen 7 7730U,AMD Radeon Graphics,16GB,17.3 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,4.63,799.99
+ASUS,Ryzen 9 5900HS,NVIDIA GeForce RTX 3050 Ti,16GB,14 Inches,1920 x 1080,1TB SSD,Windows 10 Home,,1411.99
+MSI,AMD Ryzen R7-5800H,AMD Radeon RX 6700M,32GB,15.6 Inches,1920x1080,1TB SSD,Windows 10 Home,,1069.99
+MSI,Intel Core i7 13th Gen 1360P (2.20GHz),Intel Iris Xe Graphics,32GB,13.3 Inches,1920 x 1200,1TB SSD,Windows 11 Pro,2.18 lbs.,1364.0
+HP,Intel Core i5 12th Gen 1235U (1.30GHz),Intel Iris Xe Graphics,16GB,14.0 Inches,1920 x 1200,256 GB PCIe SSD,Windows 11 Pro 64-bit,2.56 lbs.,1247.99
+HP,Intel Core i7-1165G7,Intel HD Graphics,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 10 Pro,,1499.0
+ASUS,AMD Ryzen 9 5900HX,GeForce RTX 3050 Ti,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,,1469.99
+HP,Intel Core i7-1165G7,Intel Iris Xe Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,3.75,750.0
+ASUS,Intel Core i7-12700H,NVIDIA GeForce RTX 4070,64GB DDR4 RAM,15.6 Inches,1920x1080,4TB PCIe SSD,Windows 11 Home,4 - 4.9 lbs.,1579.99
+Dell,Intel Core i7-1255U,Intel Iris Xe Graphics,64GB,15.6 Inches,1920 x 1080,2TB SSD,Windows 11 Pro,4,869.0
+Dell,AMD Ryzen 5 7530U,AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3.59 lbs.,515.0
+HP,Intel Core i5-1335U (10-Core) Processor,Intel Iris Xe Graphics,32 GB,17.3 Inches,1920 x 1080,512 GB SSD,Windows 11 Home,,714.79
+HP,Intel Core i5-1335U (10-Core) Processor,Intel Iris Xe Graphics,16 GB,17.3 Inches,1920 x 1080,1 TB SSD,Windows 11 Pro,,704.29
+BMAX,Intel Core M7 8GB,Intel HD Graphics 515,8GB,14.1 Inches,1920 x 1080,256GB SSD,Windows 10,<1.5Kg,359.0
+HP,Intel N200 (Pentium) Processor,Intel UHD Graphics,4GB,15.6 Inches,1920 x 1080,128GB SSD,Windows 11 S,,269.99
+ASUS,AMD Ryzen 7 5000 Series 5800H (3.20GHz),AMD Radeon Graphics,8GB,17.3 Inches,1920 x 1080,512 GB PCIe SSD,Windows 11 Home,3.97 lbs.,779.0
+Dell,Intel Core i7-1365U,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,256GB SSD,Windows 11 Pro,2.7,899.0
+Lenovo,Intel Core i5-1345U vPro® Processor,Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 10 Home,,913.05
+Lenovo,MTK MT8173C (2.1 GHz) ,PowerVR GX6250 ,4 GB ,14.0 Inches,1366 x 768,32 GB eMMC ,Chrome OS,,194.99
+HP,Intel Core i7 12th Gen i7-1265U Deca-core (10 Core),Intel Iris Xe Graphics,32 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,2074.05
+ASUS,Intel Core i7-12650H,NVIDIA GeForce RTX 3070 8GB GDDR6 Graphics,32GB DDR5 Memory,15.6 Inches,1920 x 1080,1TB PCIE Solid State Drive (Boot SSD),Windows 11 Home,4.41lbs,1428.98
+HP,Intel Core i5-1335U (10-Core) Processor,Intel Iris Xe Graphics,40GB DDR4 Memory,17.3 Inches,1920 x 1080,2TB Solid State Drive,Windows 11 Home,,842.0
+HP,AMD Ryzen 7 7730U,AMD Radeon Graphics,16GB,17.3 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,4 - 4.9 lbs.,969.0
+Lenovo,Intel Core i7-1255U,Intel Iris Xe,16GB,14.0 Inches,2240x1400,2TB PCIe NVMe SSD,Windows 11 Home,,1159.99
+HP,Intel Core i5-1135G7,Intel Iris Xe Graphics,32GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,4,546.89
+Dell,AMD Ryzen 7 5700U,AMD Radeon Graphics,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,4,699.99
+HP,Intel Core i7-13700HX,NVIDIA GeForce RTX 4080 12GB,16GB,17.3 Inches,2560 x 1440 QHD,1TB SSD,Windows 10 Home,,1779.99
+Dell,Intel Core i5-1245U,Intel HD Graphics,16GB,14 Inches,1920 x 1080,256GB SSD,Windows 10 Pro,3.2,799.99
+DELL,Intel Core i7 13th Gen,Intel Integrated Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.56 lbs,957.95
+Dell,Intel Core i7-1255U Processor (10 core),Intel Iris Xe Graphics,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3 - 3.9 lbs.,772.0
+Lenovo,Intel Core i9-13900HX,NVIDIA GeForce RTX 4070,16GB DDR5,16 Inches,2560 x 1600,4TB SSD,Windows 11 Home,5.73 lbs.,2999.0
+HP,"Intel Core i7-12700H (2.3GHz, 4.7GHz Turbo)",Intel Iris Plus Graphics,16GB,16 Inches,3K (3840 x 2160),1TB SSD,Windows 11 Pro,,1449.99
+HP,Intel 12th Generation Core i7-1255U,Intel Iris Xe Graphics,32GB,15.6 Inches,1920 x 1080,2TB SSD,Windows 11 Pro,,932.0
+Dell,Intel Core i7-1260P Processor,Intel HD Graphics 620,64GB DDR4 SDRAM,16-inch FHD+ Touchscreen Display,1920 x 1200,2TB PCIe NVMe M.2 SSD,Windows 11 Home,,1399.0
+Lenovo,AMD Ryzen 7 5700U,AMD Radeon Graphics,16GB,14.0 Inches,2240 x 1400,1TB SSD,Windows 11 Pro,3.42,699.99
+Asus,Intel Core i5 12th Gen i5-12500H Dodeca-core (12 Core) 2.50 GHz,"Intel Iris Xe Graphics Tru2Life, NanoEdge IEEE 802.11ax Wireless LAN Stand",8 GB,14.5 Inches,2880 x 1800,512 GB SSD,Windows 11 Home,,954.08
+HP,Intel Celeron N4500 Dual-core (2 Core),Intel UHD Graphics,4 GB,14 Inches,1366 x 768,32 GB Flash Memory,Windows 11 Home,,310.28
+Dell,AMD Ryzen 7 5825U,AMD Radeon Graphics,32GB,14 Inches,1920 x 1200,1TB SSD,Windows 11 Pro 64-bit,3 - 3.9 lbs.,649.99
+Dell,Intel Core i7-1255U,Intel Iris Xe Graphics,64GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,4,775.0
+HP,Intel Core i5-1135G7,Intel HD Graphics,16GB,15.6 Inches,1920 x 1080,512GB NVMe SSD,Windows 10 Pro,3 - 3.9 lbs.,498.79
+Dell,Intel Core i7-1255U,Intel Iris Xe Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,4,673.0
+ASUS,Intel Evo i7-13700H,Intel Iris Xe Graphics,16GB,14.5 Inches,2880 x 1800,2TB PCIe 4.0 SSD,Windows 11 Home,3 - 3.9 lbs.,984.99
+MSI,Intel Core i7-12650H,NVIDIA GeForce RTX 4060,32GB DDR5,15.6 Inches,1920 x 1080,1TB SSD,Windows 10 Home,4 - 4.9 lbs.,1147.0
+Acer,Intel Core i7-11800H,NVIDIA GeForce RTX 3050 Ti,32GB,15.6 Inches,1920 x 1080,1TB NVMe SSD,Windows 11 Pro,5 - 5.9 lbs.,947.19
+Lenovo,AMD Ryzen 7 PRO 6850U,AMD Radeon PRO,32GB,16.0 Inches,1920 x 1200,1TB PCIe SSD,Windows 11 Pro,,1079.99
+Dell,Intel Core i7 13th Gen i7-1360P Dodeca-core (12 Core),Intel Iris Xe Graphics,32 GB,13.4 Inches,3456 x 2160,1 TB SSD,Windows 11 Pro,,2060.99
+Lenovo,Intel Core i3-1315U Processor,Intel UHD Graphics,8GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 10 Home,,399.99
+Lenovo,Intel Core i5-1135G7 Processor,Intel HD Graphics 620,20GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,,581.0
+Lenovo,AMD Ryzen 7 5700U,AMD Radeon Graphics,40GB,15.6 Inches,1920 x 1080,1TB PCIe SSD,Windows 10 Pro,3 - 3.9 lbs.,899.99
+HP,Intel Core i5-1135G7,Intel Iris Xe Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,4,547.76
+Lenovo,Intel Core i3-1115G4,Intel UHD Graphics,8GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 10 Home,3 - 3.9 lbs.,377.79
+HP,Intel Celeron N4120 Quad-core (4 Core),Intel UHD Graphics 600,4 GB,14 Inches,1366 x 768,64 GB Flash Memory,Chrome OS,,346.99
+Lenovo,Intel Core i7-1260P Processor,Intel HD Graphics 620,16GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,,1299.99
+Dell,Intel Core i5-1135G7,Intel UHD Graphics,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,,564.79
+HP,AMD Ryzen 5 7520U Quad-core (4 Core),AMD Radeon Graphics,8 GB,15.6 Inches,1366 x 768,256 GB SSD,Windows 11 Home,,510.39
+Dell,Intel Celeron N4020 Dual-core (2 Core),Intel UHD Graphics 600,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,329.99
+Lenovo,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,16 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,831.34
+ASUS,Intel Core i7-10870H,NVIDIA GeForce GTX 1660 Ti,32GB,15.6 Inches,1920 x 1080,1TB SSD+ 2TB HDD,Windows 10 Home,,1099.99
+HP,Intel Core i7 13th Gen 13700H (2.40GHz),Intel Iris Xe Graphics,16 GB,17.3 Inches,1920 x 1080,512 GB PCIe SSD,Windows 11 Home,5.49 lbs.,849.99
+HP,Intel Celeron N5100 (4 Core),Intel HD Graphics,8 GB,11.6 Inches,1366 x 768,64 GB SSD,Windows 11 Home,,449.99
+Lenovo,AMD Ryzen 5 PRO 5650U,AMD Radeon Graphics,256GB SSD,14 Inches,1920 x 1080,256GB SSD,Windows 10 Home,1.00 lbs,456.29
+LG,Intel Core i7-1280P (1.80GHz),Intel Iris Xe Graphics,16GB,17 Inches,2560 x 1600,1TB SSD,Windows 11 Home,,1157.07
+Lenovo,Intel Core i5-1135G7,Intel UHD Graphics,36GB DDR4,15.6 Inches,1920 x 1080,1TB PCIe SSD,Windows 11,3 - 3.9 lbs.,799.79
+Samsung,Intel Celeron N4500 (1.10GHz),Intel UHD Graphics,4GB,14 Inches,1366 x 768,32GB Flash Memory,Chrome OS,,310.07
+Asus,Intel Pentium Silver N200 Quad-core (4 Core) 1 GHz,Intel UHD Graphics,8 GB,11.6 Inches,1366 x 768,128 GB SSD,Windows 11 Pro,,555.98
+Acer,ARM Kryo 468 Octa-core (8 Core) 2.10 GHz,Qualcomm Adreno 618,4 GB,13.3 Inches,1920 x 1080,64 GB Flash Memory,Chrome OS,,285.99
+Asus,Intel Celeron N100 Quad-core (4 Core) 800 MHz,Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,128 GB SSD,Windows 11 Pro,,419.08
+Lenovo,Intel Core i7 13th Gen i9-13900H Tetradeca-core (14 Core) 2.60 GHz,NVIDIA GeForce RTX 4090,32 GB,16 Inches,2560 x 1600,1 TB SSD,Windows 11 Pro,,3954.32
+Acer,Intel Core i5-1135G7,NVIDIA GeForce MX450,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3.64 lbs.,549.0
+Dell,Intel Core i5-1135G7,Intel UHD Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,,505.79
+MSI,Intel Core i7-12650H,NVIDIA GeForce RTX 4060,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,4 - 4.9 lbs.,1149.99
+Lenovo,AMD Ryzen 7 5825U,AMD Radeon Graphics,16GB,15.6 Inches,1920x1080,512GB SSD,Windows 10 Pro,,889.0
+HP,Intel Core i9-13900H,GeForce RTX 4060,32GB DDR5 4800MHz,13.3 Inches,2560 x 1600,1TB SSD,Windows 11 Home,,1484.49
+ASUS,AMD Ryzen 7 7730U,  AMD Radeon Graphics,8 GB,15.6 Inches,1920 x 1080,1 TB SSD,Windows 11 Home,,745.33
+MSI,Intel Core i7-12650H,NVIDIA GeForce RTX 4060,32GB DDR4,15.6 Inches,1920 x 1080,2TB PCIe SSD,Windows 10 Home,4 - 4.9 lbs.,1154.49
+Dell,Intel Core i7-1260P,Intel Iris Xe Graphics,16GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Home,4.5,749.99
+MSI,Intel Core i7 13th Gen 13620H (2.40GHz),NVIDIA GeForce RTX 4060,64GB,16.0 Inches,2560 x 1600,1TB PCIe SSD,Windows 11 Pro 64-bit,4.98 lbs.,2013.81
+ASUS,AMD Ryzen 9 6900HX,AMD Radeon Graphics,24GB,15.6 Inches,1920 x 1080,4TB NVMe SSD,Windows 11 Pro,3 - 3.9 lbs.,1059.99
+Lenovo,Intel Pentium N6000,Intel UHD Graphics,8GB,15.6 Inches,1920 x 1080,192GB (64GB eMMC+128GB SD Card),Chrome OS,4 - 4.9 lbs.,399.99
+Lenovo,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Home,,779.31
+ASUS,Intel Celeron N4020 (2.8GHz),Intel UHD Graphics,4GB,11.6 Inches,1920 x 1200,128GB SSD,Windows 11 Home,,248.99
+Lenovo,Intel Core i7-10610U,Intel HD Graphics,16 GB,14 Inches,1920 x 1080,1 TB SSD,Windows 10 Pro,2.40 lbs,1499.98
+MSI,Intel Core i7 11th Gen 11800H (2.30GHz),NVIDIA GeForce RTX 3050,16GB,15.6 Inches,1920 x 1080 IPS-Level 144Hz,1TB NVMe SSD,Windows 11 Home,4 - 4.9 lbs.,1145.99
+Lenovo,AMD Ryzen 5 PRO 5650U (2.10GHz),AMD Radeon Graphics,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 10 Pro,,769.99
+MSI,Intel Core i9-13980HX,NVIDIA GeForce RTX 4080,64GB,17.0 Inches,2560 x 1600,2TB NVMe SSD,Windows 11 Pro,6.83 lbs.,3533.21
+Lenovo,Intel Core i7-1065G7,Intel HD Graphics,12GB,15.6 Inches,1080p,512GB SSD,Windows 10 Home,,489.99
+Dell,AMD Ryzen 7 5700U,AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,4,599.99
+Lenovo,AMD 3015Ce,AMD Radeon,4GB,11.6 Inches,1366 x 768,32GB SSD,Chrome OS,,359.99
+ASUS,Intel Core i7-10870H,NVIDIA GeForce GTX 1660 Ti,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 10 Home,,1039.99
+ASUS,AMD Ryzen 9-7940HS,NVIDIA GeForce RTX 4070,32GB DDR5,17.3 Inches,1920 x 1080,1TB SSD,Windows 11 Home,,1989.99
+LG,Intel Core i5 12th Gen i5-1235P Dodeca-core (12 Core) 1.70 GHz,Intel Iris Xe Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,758.4
+Dell,Intel Core i7-1265U (1.8GHz),Intel HD Graphics,32GB,13.3 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,844.17
+Asus,Intel Core i7-1360P (3.6GHz),Intel Iris Xe Graphics,16GB,14 Inches,2880 x 1800,1TB SSD,Windows 11 Home,,1291.99
+ASUS,Intel Core i7-12700H,NVIDIA GeForce RTX 4060,16GB,"15.6"" FHD 144Hz",1920x1080,512GB SSD,Windows 11 Home,,1089.99
+Lenovo,AMD Ryzen 7 PRO 7840U Octa-core (8 Core) 3.30 GHz,AMD Radeon 780M Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1350.46
+HP,Intel Processor N200 Quad-Core,Intel UHD Graphics,4GB,14 Inches,1366 x 768,128GB SSD,Windows 11 Home,,373.99
+Dell,Intel Core i5-1035G1,Intel UHD Graphics 630,16GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 10 Pro,4,514.79
+Lenovo,AMD Ryzen 5 7530U,AMD Radeon Graphics,8 GB,16 Inches,1920 x 1200,256 GB SSD,Windows 11 Home,,628.22
+Lenovo,Intel Core i3-1215U,Intel HD Graphics,8GB,14 Inches,1920 x 1200,1TB SSD,Windows 11 Home,,415.0
+ASUS,Intel Evo i5-13500H,Intel Iris Xe Graphics,8GB,14.5 Inches,2880 x 1800,1TB PCIe 4.0 SSD,Windows 10 Home,,768.98
+Lenovo,AMD Ryzen 5 5500U,AMD Radeon Graphics,8GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Home,,783.75
+Lenovo,AMD Ryzen 5 PRO 7540U Hexa-core (6 Core) 3.20 GHz,AMD Radeon 740M Graphics,16 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,1163.22
+Lenovo,Intel Core i7 13th Gen i7-1365U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1833.36
+LG,Intel Core i7 1260P (2.6GHz),Intel Iris Xe Graphics,16GB,16 Inches,1920 x 1200,256GB NVMe SSD,Windows 11,,999.99
+Microsoft,Intel Core i5-1145G7 (2.60GHz),Intel Iris Xe Graphics,8GB,13 Inches,2880 x 1920,128GB SSD,Windows 11 Pro,1.96 lbs.,1628.99
+Lenovo,Intel Core i7-1165G7,Intel HD Graphics,24GB,15.6 Inches,1920 x 1080,1TB NVMe SSD,Windows 11 Pro,3 - 3.9 lbs.,939.99
+Lenovo,AMD Ryzen 7 7730U Octa-core (8 Core) 2 GHz,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,901.87
+Lenovo,Intel Core i7 13th Gen i7-1365U Deca-core (10 Core),Intel Iris Xe Graphics,32 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1464.5
+Lenovo,AMD Ryzen 5 PRO 5650U Hexa-core (6 Core) 2.30 GHz,AMD Radeon Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 10 Pro,,521.89
+Dell,AMD Ryzen 5 5500U,AMD Radeon Graphics,16GB,14 Inches,1920 x 1080 (Full HD),256GB SSD,Windows 11 Home,,575.0
+Lenovo,Intel Core i5-1335U,Intel HD Graphics,16GB,16 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,914.43
+HP,"Intel Core i7-1260P (12 Cores, 16 Threads)",Intel Iris Xe Graphics,64GB,15.6 Inches,1920 x 1080,2TB SSD,Windows 11 Home,,1049.99
+Lenovo,AMD Ryzen 7 PRO 6850U Octa-core (8 Core) 2.70 GHz,AMD Radeon 680M Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1199.99
+Lenovo,AMD Ryzen 5 7530U,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,799.99
+HP,Intel Pentium Silver N6000 Quad-core (4 Core),Intel UHD Graphics,8 GB,11.6 Inches,1366 x 768,256 GB SSD,Windows 11 Pro,,659.26
+Lenovo,AMD Ryzen 5 PRO 7540U,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Home,,1118.64
+HP,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz,Intel UHD Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,839.0
+Lenovo,AMD Ryzen 5 5500U,AMD Radeon Graphics,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,689.99
+Lenovo,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,809.99
+Lenovo,Intel Core i7-1365U vPro® Processor,Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 10 Home,,1149.99
+Dell,Intel Core i5 11th Gen i5-1155G7 Quad-core (4 Core) 2.50 GHz,Intel Iris Xe Graphics,8 GB,13.3 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,598.96
+MSI,Intel Core i7 12th Gen 12650H (2.30GHz),NVIDIA GeForce RTX 4050,16GB,15.6 Inches,1920 x 1080 IPS-Level 144 Hz,512 GB PCIe SSD,Windows 11 Home,4.10 lbs,1099.99
+MSI,Intel Core i7 12th Gen 12650H (2.30GHz),NVIDIA GeForce RTX 4050,16GB,15.6 Inches,1920 x 1080 IPS-Level 144 Hz,512 GB PCIe SSD,Windows 11 Home,4.10 lbs,1099.99
+HP,AMD Ryzen 7-5700U,AMD Radeon Graphics,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,,896.0
+HP,Intel Core i7-1165G7,Intel HD Graphics,8GB,17.3 Inches,1600 x 900,1TB HDD + 256GB SSD,Windows 11 Home,,779.0
+Lenovo,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,1187.1
+Lenovo,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,749.56
+Lenovo,Intel Core i7 11th Gen 1160G7 (2.10GHz),Intel Iris Xe Graphics,16GB,13.0 Inches,2160 x 1350,256GB PCIe SSD,Windows 10 Pro 64-bit,1.99 lbs.,1542.99
+Lenovo,Intel Core i5 12th Gen i5-1245U Deca-core (10 Core),Intel UHD Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Home,,919.68
+HP,Intel Core i7-13700H,NVIDIA GeForce RTX 4060,16GB DDR5,16.1 Inches,1920 x 1080,1024GB SSD,Windows 11 Home,,1139.99
+HP,Intel Core i7 13th Gen i7-1370P Tetradeca-core (14 Core) 1.90 GHz,Intel Iris Xe Graphics,32 GB,14 Inches,2560 x 1600,512 GB SSD,Windows 11 Pro,,2149.99
+Lenovo,AMD Ryzen 7 5700U,AMD Radeon Graphics,8GB,14.0 Inches,1920 x 1080,256GB PCIe SSD,Windows 10 Pro,3.62 lb,624.49
+Asus,Intel Core i7-8550U (2.70GHz),Intel UHD Graphics 620,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,876.76
+Dell,AMD Ryzen 5 7530U,AMD Radeon Graphics,32GB,15.6 Inches,1920 x 1080,2TB SSD,Windows 11 Home,,579.0
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel UHD Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,916.78
+Dell,Intel Core i7 12th Gen i7-1265U Deca-core (10 Core) 1.80 GHz,Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,750.13
+ASUS,AMD Ryzen 7 5800HS,AMD Radeon Graphics,16GB,16 Inches,1920 x 1080,1TB SSD,Windows 11 Home,,662.0
+Lenovo,Intel Core i7 12th Gen i7-1255U Deca-core (10 Core) 1.70 GHz,Intel HD Graphics 620,8 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 10 Home,,846.08
+Lenovo,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core),Intel UHD Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Intel UHD Graphics,,1039.99
+HP,Intel Celeron N4120 (1.10GHz),Intel UHD Graphics,4 GB,14 Inches,1366 x 768,64 GB SSD,Windows 11 Home,,377.99
+Asus,Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz,Intel UHD Graphics NanoEdge,8 GB,14 Inches,1920 x 1080,64 GB Flash Memory,Chrome OS,,446.92
+MSI,Intel Core i7 11th Gen 11800H (2.30GHz),NVIDIA GeForce RTX 3050,16 GB,15.6 Inches,1920 x 1080,1 TB NVMe SSD,Windows 11 Home,4.63 lbs.,1164.99
+MSI,Intel Core i5-11400H,NVIDIA GeForce RTX 3050,8GB,15.6 Inches,1920 x 1080 IPS-Level 144 Hz,512 GB PCIe SSD,Windows 11 Home,4.10 lbs.,650.0
+MSI,Intel Core i7-1360P (2.6GHz),Intel Iris Plus Graphics 640,32GB,13.4 Inches,1920 x 1200,1TB SSD,Windows 11 Home,,1256.99
+Lenovo,AMD 3000 Series 3015Ce (1.20 GHz),AMD Radeon Graphics,4 GB,13.6 Inches,1366 x 768,32 GB eMMC,Chrome OS,,301.99
+Dell,Intel Core i7-1260P,NVIDIA GeForce MX550,16GB,16 Inches,3840 x 2400,1TB SSD,Windows 11 Pro,4.5,1049.0
+LG,Intel Core i7 1260P (5.0GHz),Intel HD Graphics 620,32GB,17 Inches,2560 x 1600,2TB PCIe4 M.2 NVMe SSD,Windows 11,,1845.52
+HP,Intel Core i7 13th Gen i7-1360P Dodeca-core (12 Core),Intel IrisWUXGA 1920 x 1200,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1472.64
+HP,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz,Intel UHD Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1043.62
+Lenovo,Intel Core i7-1255U (10-core) Processor,Intel HD Graphics 620,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,1006.99
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1521.74
+Dell,Intel Core i7 13th Gen i7-1360P Dodeca-core (12 Core),Intel Evo Platform,16 GB,13.4 Inches,3.5K 3456 x 2160,512 GB SSD,Windows 11 Pro,,1768.99
+Samsung,Intel Core i3 (10th Gen) i3-10110U 2.10 GHz,Intel UHD Graphics,8 GB,13.3 Inches,1920 x 1080,128 GB SSD,Chrome OS,,757.99
+MSI,Intel Core i7 11th Gen i7-1185G7 1.20 GHz,Intel HD Graphics,32 GB,15.6 Inches,1920 x 1080,1 TB SSD,Windows 10 Home,,1043.82
+Lenovo,Intel Core i7 11th Gen 11850H (2.50 GHz),NVIDIA Geforce RTX 3080,32 GB,15.6 Inches,1920 x 1080,1 TB SSD,Windows 10 Pro 64,9 - 9.9 lbs.,1560.41
+Lenovo,Intel Core i7-1255U (10-Core) Processor,NVIDIA GeForce MX550,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,837.89
+Dell,Intel Core i5-1245U (3.3GHz),Intel HD Graphics,16GB,13.3 Inches,1920 x 1080,256GB SSD,Windows 11 Home,,667.15
+Asus,Intel Celeron N5100 (1.10GHz),Intel UHD Graphics,4GB,11.6 Inches,1366 x 768,32GB Flash Memory,Chrome OS,,199.99
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,1399.99
+Dell,AMD Ryzen 7 5825U,AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,4,659.0
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Xe Graphics with 8 GB In-plane Switching (IPS) Technology^,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1347.01
+HP,Intel Celeron N4500 Dual-core (2 Core),Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,327.84
+Lenovo,Intel Core i5-1335U,Intel Iris Xe Graphics,16 GB,14 Inches,2.2K (2240 x 1400),512 GB SSD,Windows 10 Home,3.26 lbs,1089.0
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Xe Graphics,8 GB,16 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,1639.0
+HP,Intel Celeron N4500 Dual-core (2 Core),Intel UHD Graphics,8 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,405.61
+HP,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz,Intel UHD Graphics,8 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,839.0
+Lenovo,AMD Ryzen 5 - 7520U (2.8GHz),AMD Radeon Graphics,8GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,432.99
+MSI,Intel Core i7 12th Gen 12650H (2.30GHz),NVIDIA GeForce RTX 4060,16 GB,15.6 Inches,1920 x 1080,512 GB PCIe SSD,Windows 11 Home,4 - 4.9 lbs.,1179.99
+HP,Intel Core i7 13th Gen i7-1360P Dodeca-core (12 Core),Intel UHD Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1455.37
+HP,Intel Celeron N4500 Dual-core (2 Core),Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,271.99
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1385.6
+Lenovo,Intel Core i7 11th Gen 1165G7 (2.80GHz),Intel Iris Xe Graphics,16GB,14.0 Inches,3840 x 2160,512 GB PCIe SSD,Windows 10 Pro 64-bit,2.64 lbs.,1192.99
+Lenovo,Intel Core i7-1355U Processor,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 10 Home,,1349.98
+Lenovo,Intel Core i5-10210U,Intel HD Graphics 620,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 10 Pro 64-bit,,484.99
+HP,Intel Core i7 13th Gen i7-1365U Deca-core (10 Core),Intel Iris Xe Graphics,32 GB,14 Inches,2560 x 1600,512 GB SSD,Windows 11 Pro,,2362.99
+HP,Intel Core i5-1235U,Intel Iris Xe Graphics,12 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Home,,895.34
+Lenovo,AMD Ryzen 5 5625U,AMD Radeon Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,709.99
+Dell,AMD Ryzen 5 5625U,AMD Radeon Graphics,16GB,14 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,3.5,599.99
+Lenovo,AMD 3015Ce 1.20 GHz,AMD Radeon Graphics,4 GB,14 Inches,1920 x 1080,32 GB Flash Memory,Chrome OS,,394.99
+HP,Intel Celeron N4500 (2 Core),Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Windows 11 Home,,366.81
+Lenovo,Intel Core i5-10210U,Intel HD Graphics,8GB,15.6 Inches,1920 x 1080,256GB NVMe SSD,Windows 10 Pro,5 - 5.9 lbs.,503.79
+MSI,Intel Core i7 12th Gen 1255U (1.70GHz),Intel Arc A370M,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,3.85 lbs.,879.99
+Lenovo,Intel Core i5 12th Gen i5-1240P,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,844.92
+HP,Intel Core i5 13th Gen i5-1345U Deca-core (10 Core),Intel Iris Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1573.08
+Lenovo,AMD Ryzen 7 5825U Octa-core (8 Core) 2 GHz,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,840.72
+HP,Intel Core i7 13th Gen i7-1360P Dodeca-core (12 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1719.15
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,1500.18
+Asus,Intel Core i7-8550U (2.70GHz),Intel UHD Graphics 620,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,894.99
+MSI,Intel Core i7HX,NVIDIA GeForce RTX 3070 Ti,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 10 Home,,2379.99
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel UHD Graphics,16 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,941.99
+Lenovo,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz,Intel Iris Xe Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1052.34
+Lenovo,Intel Xeon E5-2630 v3 (2.30GHz),Intel HD Graphics,16GB,14 Inches,1920 x 1080,256GB SSD,Windows 10 Pro,,801.99
+HP,Intel Core i5 13th Gen i5-1345U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,13.5 Inches,1920 x 1280,512 GB SSD,Windows 11 Pro,,1997.17
+Asus,Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz,Intel UHD Graphics,4 GB,15.6 Inches,1920 x 1080,64 GB Flash Memory,Chrome OS,,353.99
+ASUS,Intel Core i3-1215U,Intel UHD Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,3 - 3.9 lbs.,439.99
+Lenovo,Ryzen 9 6900HS Creator Edition,AMD Radeon RX Vega M Graphics,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 10 Home,1.00 lbs,849.86
+HP,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1534.05
+Lenovo,AMD Ryzen 5 5625U,AMD Radeon Graphics,16GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Home,,747.5
+MSI,Intel Core i7 13th Gen 13620H (2.40GHz),NVIDIA GeForce RTX 4060,16GB,15.6 Inches,1920 x 1080 IPS-Level 144 Hz,1TB NVMe SSD,Windows 11 Home,4.63 lbs.,1524.99
+HP,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,1664.2
+Lenovo,Intel Core i7 13th Gen i7-1370P Tetradeca-core (14 Core),NVIDIA RTX A500,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1929.52
+HP,Intel Core i7 13th Gen i7-1370P Tetradeca-core (14 Core),Intel Iris Xe Graphics,8 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1892.03
+Asus,Intel Core i7-8550U (2.70GHz),Intel UHD Graphics 620,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,1225.11
+Lenovo,Intel Core i7 12th Gen i7-1265U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Home,,2136.99
+Lenovo,Intel Core i7-1255U (E-cores up to 3.50GHz),Intel HD Graphics 620,16GB,14 Inches,1920 x 1080,1TB SSD,Windows 10 Pro 64 preinstalled through downgrade rights in Windows 11 Pro 64,,1152.99
+Lenovo,Intel Core i5-1135G7,Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1200,512GB PCIe NVMe SSD,Windows 10 Pro,,645.0
+Lenovo,Intel Core i7 13th Gen i7-1365U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,2414.8
+Lenovo,AMD Ryzen 7 PRO 6850U Octa-core (8 Core) 2.70 GHz,AMD Radeon 680M Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1198.88
+Lenovo,Intel Core i7 13th Gen i7-1360P Dodeca-core (12 Core),NVIDIA RTX A500,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1597.73
+HP,AMD Ryzen 5 7530U,AMD Radeon Graphics,16GB,17.3 Inches,1600 x 900,1TB SSD,Windows 11 Home,4 - 4.9 lbs.,649.99
+Lenovo,Intel Core i5-1335U,Intel HD Graphics 620,16GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Home,,1478.47
+Asus,Intel Core i5-8250U,Intel UHD Graphics 620,8GB,14 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,1779.99
+HP,Intel Core i5 13th Gen i5-1345U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1789.0
+Lenovo,AMD Ryzen 7 5700U,AMD Radeon Graphics,16GB,14.0 Inches,2240 x 1400,1TB SSD,Windows 11 Pro,3.42,775.0
+Lenovo,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1040.82
+HP,Intel Core i7 13th Gen i7-1365U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1764.4
+HP,Intel Core i7 13th Gen i7-1370P Tetradeca-core (14 Core),Intel UHD Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1992.2
+Lenovo,Intel Core i5-13400F,NVIDIA GeForce RTX 3050,8GB,13.3 Inches,1920 x 1080,512GB SSD,Windows 11 Home 64-bit,18.48 lbs,649.99
+Asus,Intel Core i7-8550U (2.70GHz),Intel UHD Graphics 620,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,1130.97
+HP,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1779.0
+Lenovo,AMD Ryzen 7 PRO 6850U Octa-core (8 Core) 2.70 GHz,AMD Radeon 680M Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1379.81
+HP,AMD Ryzen 3 5300U (Beats i7-1065G7),  AMD Radeon Graphics,32GB,15.6 Inches,1366 x 768,1TB SSD,Windows 11 Home,3.75,529.99
+Lenovo,AMD Ryzen 7 PRO 2.70GHz,AMD Radeon Graphics,16GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Pro 64-bit,,1648.99
+Lenovo,Intel Core i5-1135G7,Intel HD Graphics,8GB,14 Inches,1920 x 1080,256GB SSD,Windows 11,1.00 lbs,353.11
+Lenovo,Intel Core i7-1265U,Intel Iris Xe Graphics,16GB,14 Inches,3840x2400,512GB SSD,Windows 10 Pro,3 - 3.9 lbs.,1799.99
+Dell,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel HD Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1081.8
+Lenovo,AMD Ryzen 5 7530U,AMD Radeon Graphics,8 GB,16 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,640.99
+Asus,Intel Core i7-8550U (2.70GHz),Intel UHD Graphics 620,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,1570.38
+Asus,Intel Core i7-8550U (2.70GHz),Intel UHD Graphics 620,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,1319.99
+HP,Intel Core i7 13th Gen i7-1360P Dodeca-core (12 Core),Intel UHD Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,2009.99
+ASUS,Intel Core i3-1215U Processor,  Intel HD Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3.75 lbs.,429.0
+HP,Intel Celeron N4020,Intel UHD Graphics,4GB,14 Inches,1920 x 1080,64GB eMMC,Windows 10 Home,,314.97
+Acer,Intel Core i7-1260P (3.1GHz),Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,898.99
+Lenovo,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,831.34
+HP,Intel Core i7 13th Gen i7-1370P Tetradeca-core (14 Core),Intel Iris Xe Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1939.15
+Lenovo,AMD Ryzen 5 7535HS,NVIDIA GeForce RTX 2050,8GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,569.99
+Lenovo,Intel Core i5-1135G7,Intel Iris Xe Graphics,12GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,3.74,599.98
+MSI,Intel Core i9-13950HX,NVIDIA GeForce RTX 4060,16GB,16 Inches,2560 x 1600,1TB NVMe SSD,Windows 11 Pro,5.95 lbs.,2279.97
+Microsoft,Intel Core i5 1135G7,Intel HD Graphics 620,8 GB,12.3 Inches,1920 x 1080,128 GB SSD,Windows 10 Home,,799.99
+HP,Intel Core i5 13th Gen i5-13500 Tetradeca-core (14 Core),Intel UHD Graphics 770,8 GB,"27"" QHD 2560 x 1440",2560 x 1440,256 GB PCIe 3.0 x4 NVMe SSD,Windows 11 Pro (64-Bit),,1519.99
+HP,Intel Core i7 13th Gen i7-1365U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,2036.96
+Lenovo,Intel Core i7 12th Gen i7-1265U Deca-core (10 Core) 1.80 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1064.99
+ASUS,Intel Core i5-1135G7,Intel Iris Xe Graphics,36GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3 - 3.9 lbs.,629.0
+MSI,Intel Core i7-12700H (2.9GHz),Intel UHD Graphics 620,32GB,15.6 Inches,1920 x 1080,512GB NVMe SSD,Windows 11 Pro,,2801.91
+Dell,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1278.99
+Acer,ARM Cortex A73 Quad-core (4 Core) 2 GHz,ARM Mali-G72 MP3,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,272.05
+Dell,Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz,Intel UHD Graphics,8 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,439.99
+MSI,Intel Core i7-11800H,NVIDIA GeForce RTX 3050,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 10 Pro,4 - 4.9 lbs.,1309.99
+HP,AMD Ryzen 7 PRO 7840U Octa-core (8 Core),AMD Radeon Graphics,32 GB,14 Inches,2560 x 1600,512 GB SSD,Windows 11 Pro,,1849.99
+MSI,Intel Core i9 13th Gen i9-13980HX Tetracosa-core (24 Core) 2.20 GHz,NVIDIA GeForce RTX 4070 with 8 GB True,32 GB,17 Inches,2560 x 1600,2 TB SSD,Windows 11 Pro,,3349.0
+ASUS,Intel Core i7-12650H,NVIDIA GeForce RTX 3070 Ti,32GB,16 Inches,1920 x 1080,2TB NVMe SSD,Windows 11 Pro,5 - 5.9 lbs.,1599.99
+HP,Intel N100 (4 Core),Intel HD Graphics,8 GB,11.6 Inches,1366 x 768,128 GB SSD,Windows 10 Home,,843.06
+HP,Intel Core i7 13th Gen i7-13800H Tetradeca-core (14 Core),Intel Iris X? Graphics,32 GB,16 Inches,3840 x 2400,1 TB SSD,Windows 11 Pro,,2657.59
+Lenovo,Intel Core i7 12th Gen i7-12800H,Intel Iris Plus Graphics,16 GB,16 Inches,2560 x 1600,512 GB SSD,Windows 10 Home,,1692.02
+Lenovo,Intel Core i7-13700H,NVIDIA GeForce RTX 4060 8GB,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 10 Home,,1099.99
+HP,Intel Core i7 13th Gen i7-13700 Hexadeca-core (16 Core),Intel UHD Graphics 770,16 GB,"27"" QHD 2560 x 1440",2560 x 1440,512 GB PCIe 4.0 x4 NVMe SSD,Windows 11 Pro (64-Bit),,1849.99
+Dell,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Xe Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,729.77
+Hewlett-Packard,Intel Core i5-1335U,Intel HD Graphics 620,16GB,17.3 Inches,1920 x 1080,256GB SSD,Windows 11 Home,,992.31
+Acer,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,256 GB SSD,Chrome OS,,839.99
+Dell,Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz,Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,316.99
+Lenovo,AMD Ryzen 7 5700U,Vega 8,16GB,15.6 Inches,1920 x 1080,1TB NVMe SSD,Windows 10 Pro,3 - 3.9 lbs.,939.99
+Dell,Intel Core i5 13th Gen i5-1345U Deca-core (10 Core),Intel Iris Xe Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 10 IoT Enterprise,,1004.34
+EliteBook,AMD Ryzen 5 7530U,AMD Radeon Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1044.47
+MSI,Intel Core i7 12th Gen i7-12650H Deca-core (10 Core) 1.70 GHz,NVIDIA GeForce RTX 4060 with 8 GB In-plane Switching,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 NVIDIA GeForce RTX 4060 with 8 GB In-plane Switching,,1169.99
+HP,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,2199.0
+Dell,Intel Core i7 12th Gen i7-1265U Deca-core (10 Core),Intel Evo Platform,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 P,,1199.99
+MSI,Intel Core i7 13th Gen 1355U (1.70GHz),Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,1TB SSD,Windows 11 Home,3.09 lbs.,871.8
+HP,AMD Ryzen 5 PRO 7540U Hexa-core (6 Core),AMD Radeon Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1411.99
+Lenovo,Intel Core i7-1165G7,Intel Iris Xe,12GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,739.99
+Dell,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Xe Graphics,8 GB,13.3 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1036.4
+Dell,Intel Core i5 13th Gen i5-1345U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1464.21
+Lenovo,Intel Core i5-1135G7,Intel Iris Xe Graphics,36GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,,629.99
+Dell,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1188.21
+LG,Intel Core i7,Intel HD Graphics,16 GB,14 Inches,1920 x 1080,1 TB SSD,Windows 11 Pro,,1453.53
+Lenovo,Intel Core i7-8550U (2.8GHz),Intel HD Graphics 620,32GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,1431.77
+Lenovo,AMD Ryzen 7 PRO 7840U Octa-core (8 Core) 3.30 GHz,AMD Radeon 780M Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1277.42
+HP,AMD Ryzen 7 7730U Octa-core (8 Core),AMD Radeon Graphics,32 GB,14 Inches,1920 x 1080,1 TB SSD,Windows 11 Pro,,1262.99
+Dell,Intel Core i5 13th Gen i5-1345U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1347.21
+HP,AMD Ryzen 7 7730U,AMD Radeon Graphics,32 GB,15.6 Inches,1920 x 1080,1 TB SSD,Windows 11 Home,,1249.0
+Dell,Intel Celeron 4305U Dual-core (2 Core),Intel UHD Graphics 610HD,4 GB,1366 x 768,1366 x 768,64 GB Flash Memory,Chrome OS,,589.99
+HP,AMD Ryzen 5 PRO 7540U Hexa-core (6 Core),AMD Radeon Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1383.18
+Dell,Intel Core i7 13th Gen i7-1365U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1399.52
+Lenovo,Intel Core i7-1355U,Intel HD Graphics,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,1877.44
+ASUS,Intel Core i7-13700H,Intel Iris Xe,16GB,14.5 Inches,2880 x 1800,1TB PCIe SSD,Windows 11 Home,,1039.99
+Lenovo,Intel Core i5-1335U Processor,Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 10 Home,,892.32
+Dell,Intel Core i7 12th Gen i7-1255U Deca-core (10 Core) 1.70 GHz,NVIDIA T550 with 4 GB English (US),16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1638.99
+BMAX,Intel N4120,Intel 9th Gen UHD Graphics 600,8GB,11.6 Inches,1920*1080,256GB SSD,Windows 10,,289.0
+Lenovo,Intel Core i7-8550U (2.8GHz),Intel HD Graphics 620,32GB,14 Inches,1920 x 1080,1TB SSD,Windows 11 Home,,1616.54
+Dell,Intel N100 Quad-core,Intel HD Graphics,4GB,11.6 Inches,1366 x 768,128GB SSD,Windows 8.1,,490.99
+HP,Intel Core i7 64GB RAM,Intel Iris Plus Graphics,DDR4-3200MHz,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Home,,1085.0
+Dell,Intel Core i3-1115G4,Intel UHD Graphics,16GB,15.6 Inches,1920 x 1080 pixels,512GB SSD,Windows 10 Home,,425.0
+MSI,Intel Core i7-12650H,NVIDIA GeForce RTX 4060,64GB DDR5,15.6 Inches,1920 x 1080,2TB SSD,Windows 11 Home,4 - 4.9 lbs.,1399.99
+Dell,Intel Core i7 13th Gen i7-13700H Tetradeca-core (14 Core),Intel Evo Platform,16 GB,15.6 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1599.99
+CTL,Celeron N5100 (1.10GHz),Intel UHD Graphics,8GB,11.6 Inches,1920 x 1080,64GB Flash Memory,Chrome OS,,393.99
+Lenovo,Intel Core i7-8550U (2.8GHz),Intel UHD Graphics 620,16GB,16 Inches,2560 x 1440,512GB PCIe SSD,Windows 10 Home,,2072.46
+HP,Intel Core i7 13th Gen i7-13700H (14 Core) 2.40 GHz,NVIDIA RTX A1000,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,1.77 kg,2122.74
+MSI,Intel Core i7,NVIDIA GeForce RTX 3060,16GB,17.3 Inches,1920 x 1080,1TB SSD,Windows 10 Home,,1649.97
+Lenovo,2.1 GHz AMD Ryzen 5 5500U,AMD Radeon Graphics,8GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,,565.28
+HP,AMD Ryzen 7 PRO 7840U,AMD Radeon Graphics,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,1712.77
+HP,AMD Ryzen 5 PRO 7540U,AMD Radeon 740M,16GB,16 Inches,1920 x 1200,256GB PCIe M.2 SSD,Windows 11 Pro (64-Bit),3.99 lb,1515.99
+Acer,Celeron N5100,Intel UHD Graphics,4GB,15.6 Inches,1920 x 1200,32GB Flash Memory,Chrome OS,,344.99
+Lenovo,AMD Ryzen 5 5500U,AMD Radeon Graphics,8GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,,565.58
+Dell,Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz,Intel UHD Graphics,8 GB,11.6 Inches,1366 x 768,64 GB Flash Memory,ChromeOS,,365.99
+HP,AMD Ryzen 3 3250U Dual-Core 2.60GHz Processor (up to 3.50GHz),AMD Radeon Graphics,16GB,"14"" FHD (1920 x 1080) Micro-edge Display",1920 x 1080,512GB SSD,Windows 11 Home,,359.99
+Dell,Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz,Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,494.99
+LENOVO,Intel N100,Intel HD Graphics,4GB,14 Inches,1920 x 1200,128GB SSD,Chrome OS,,440.62
+MSI,Intel Core i9,NVIDIA GeForce RTX 3070ti,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 10 Home,,2131.91
+Microsoft,Intel Core i5 11th Gen i5-1145G7 Quad-core (4 Core),Intel Iris Xe Graphics,16 GB,13.5 Inches,2256 x 1504,512 GB SSD,Windows 10 Home,,734.99
+HP,Intel Core i7 13th Gen i7-13800H (14 Core) 2.50 GHz,NVIDIA RTX A1000 (6GB GDDR6),16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro (64-Bit),1.77 kg,2592.7
+Dell,Intel Core i7 13th Gen i7-1365U Deca-core (10 Core) 1.30 GHz,Intel IrisX,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1999.99
+Dell,AMD Ryzen 3 7320C Quad-core (4 Core) 2.40 GHz,AMD Radeon 610M Graphics,4 GB,14 Inches,1920 x 1200,64 GB Flash Memory,ChromeOS,,551.28
+Lenovo,Intel Core i5-1240P (2.2GHz),Intel Iris Xe Graphics,8GB,13.3 Inches,2560 x 1600,256GB SSD,Windows 10 Home,,549.0
+Dell,Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz,Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,435.11
+HP,Intel Core i5-1135G7,Intel HD Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,3 - 3.9 lbs.,636.79
+Dell,Intel Core i3-1115G4,Intel UHD Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,4,415.0
+ASUS,AMD Ryzen 9,NVIDIA GeForce RTX 3050,16GB,13.4 Inches,1920 x 1080,1TB SSD,Windows 10 Home,,2059.67
+Dell,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1628.25
+Microsoft,Intel Core i7-1165G7,Intel Iris Xe Graphics,16GB,13.5 Inches,2256 x 1504 PixelSense Touchscreen,256GB PCIe SSD,Windows 10 Pro,,789.99
+Microsoft,Intel Core i7 12th Gen i7-1265U (10 Core),Intel Iris Xe Graphics,16 GB,13 Inches,2880 x 1920,512 GB SSD,Windows 10 Pro,31 oz,1999.99
+Lenovo,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1225.3
+SMART BUY PROBOOK,Intel Core i5-1335U,Intel HD Graphics 620,16GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Home,,843.83
+Acer,Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz,Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,279.99
+ASUS,Intel Core i5-11400H Processor,GeForce RTX 3050,8GB DDR4 RAM,17.3 Inches,1920 x 1080,512GB PCIe NVMe M.2 SSD,Windows 11 Home,5.73 lbs.,825.98
+LG,Intel Core i7 13th Gen i7-1360P Dodeca-core (12 Core) 2.20 GHz,Intel Iris Xe Graphics,32 GB,16 Inches,2560 x 1600,512 GB SSD,Windows 11 Pro,,1613.2
+Samsung,Intel Core i7 12th Gen i7-1260P (1.70GHz),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1169.99
+Samsung,Intel® Core™ i3,Intel® HD Graphics,8GB,13.3 Inches,1366 x 768,128GB eMMC,Chrome OS,,749.99
+Lenovo,Intel Core i5-1130G7,Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,669.99
+Dell,AMD Ryzen 5 7520C Quad-core (4 Core) 2.80 GHz,AMD Radeon 610M Graphic,8 GB,14 Inches,1920 x 1200,256 GB SSD,ChromeOS,,797.07
+Dell,Intel Core i3-1115G4,Intel UHD Graphics,16GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 11 Pro,4,375.0
+HP,Intel Core i7 12th Gen i7-1270P Dodeca-core (12 Core),Intel Iris Plus Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Home,,1049.63
+MSI,Intel Core i5 1240P (1.70GHz),Intel Iris Xe Graphics,16GB,14 Inches,2880 x 1800,512GB SSD,Windows 11 Pro,3.61 lbs.,889.28
+HP,Intel Core i3-1125G4,Intel HD Graphics,32GB,17.3 Inches,1600x900,1TB SSD,Windows 11 S,4 - 4.9 lbs.,550.79
+Dell,Intel Core i3-7100U (1.6GHz),Intel HD Graphics 620,8GB,11.6 Inches,1366 x 768,256GB SSD,Windows 10 Home,,707.99
+Dell,Intel Core i7 13th Gen i7-1365U Deca-core (10 Core) 1.80 GHz,Intel Evo Platform,32 GB,14 Inches,2560 x 1600,512 GB SSD,Windows 11 Pro,,2381.99
+Asus,Intel Core i7 11th Gen i7- (4 Core) 2.80 GHz,Intel HD Graphics,16 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 10 Home,,908.92
+HP,AMD Ryzen 3-3250 (up to 3.50GHz),AMD Radeon Graphics,16 GB,"14"" FHD (1920 x 1080)",1920 x 1080,512 GB SSD,Windows 11 Pro,,399.0
+HP,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,3.88lb,1599.99
+Dell,AMD Ryzen 7 5825U,AMD Radeon Graphics,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Pro,4,769.0
+Lenovo,Intel Core i3 11th Gen 1115G4 (3.00GHz),Intel UHD Graphics,8GB,15.6 Inches,1366 x 768,256 GB PCIe SSD,Windows 11 in S mode,3.75 lbs.,374.79
+Lenovo,8th Gen i5-8265U,Intel HD Graphics 620,8GB,14 Inches,1080p,512GB SSD,Windows 10 Home,,866.99
+Acer,Intel Core i7 11th Gen 11800H (2.30GHz),NVIDIA GeForce RTX 3070,16GB,15.6 Inches,1920 x 1080,1TB HDD,Windows 11 Home,5.07 lbs.,1398.0
+Dell,Intel Core i5 13th Gen i5-1345U Deca-core (10 Core) 1.60 GHz,Intel Evo Platform,16 GB,14 Inches,2560 x 1600,512 GB SSD,Windows 11 Pro,,2271.99
+MSI,Intel Core i7 13th Gen i7-13700H (3.70GHz),NVIDIA GeForce RTX 4080,16 GB,16 Inches,1900 x 1200,1 TB SSD,Windows 11 Home,,2124.99
+HP,Intel Core i7 13th Gen 13700HX (2.10GHz),NVIDIA GeForce RTX 4070,16 GB,17.3 Inches,2560 x 1440,1 TB PCIe SSD,Windows 11 Home,6.15 lbs.,1949.99
+Dell,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,2560 x 1600,256 GB SSD,Windows 11 Pro,,2027.96
+Lenovo,Intel Core i7-13800H vPro® Processor,GeForce RTX 4080,32 GB,16 Inches,2560 x 1600,1 TB,Windows 10 Home,,2199.0
+MSI,Intel Core i7 13th Gen 1360P (2.20GHz),Intel Iris Xe Graphics,32GB,14 Inches,2880 x 1800,1TB NVMe SSD,Windows 11 Pro,3.51 lbs.,1715.6
+MSI,Intel Core i7-12700H,NVIDIA GeForce RTX 3070 Ti,32GB,17.3 Inches,1920 x 1080,2TB PCIe SSD,Windows 11 Home,6.39 lbs.,2223.16
+Microsoft,Intel Core i5,Intel HD Graphics,8 GB,12.3 Inches,1920 x 1080,256 GB SSD,Windows 10 Home,1.70 lbs.,669.0
+HP,Intel Core i5-1135G7,Intel Iris Xe Graphics,12GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 10 Pro,4,599.79
+Dell,Intel Core i7 13th Gen i7-13850HX Icosa-core (20 Core) 2.20 GHz,NVIDIA RTX A1000 with 6 GB English (US) Keyboard,32 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,2829.99
+HP,Intel Core i7-1260P,Intel Iris Xe Graphics,32GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,,972.0
+Acer,Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz,Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,290.99
+Dell,Intel Core i3-7100U (1.6GHz),Intel HD Graphics 620,8GB,11.6 Inches,1366 x 768,256GB SSD,Windows 10 Home,,677.99
+MSI,Intel Core i5-1240P (1.70GHz),Intel Iris Xe Graphics,16GB,13.4 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,3.74 lbs.,958.91
+HP,Intel Core i3-1125G4 3.7GHz,Intel UHD Graphics,16GB,17.3 Inches,1600 x 900,1TB SSD,Windows 11 Pro,,564.79
+HP,Intel Core i3-1125G4,Intel HD Graphics,16GB,17.3 Inches,1600x900,1TB SSD,Windows 11 S,4 - 4.9 lbs.,539.99
+Dell,Intel Core i7-12700H,NVIDIA GeForce RTX 3060,16GB,16 Inches,3K (3072 x 1920),2TB SSD,Windows 11 Pro,4.5,1199.99
+Lenovo,Intel Core i5-1335U,Intel Iris Xe Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 10 Home,4.38 lbs,579.99
+Dell,Intel Core i3 8th Gen i3-8145U Dual-core (2 Core) 2.10 GHz,Intel UHD Graphics 620,4 GB,14 Inches,1366 x 768,64 GB Flash Memory,Chrome OS,,666.99
+ASUS,Intel Core i7-1260P,Intel HD Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,,1111.95
+HP,Intel Core i7 i7-12700H Tetradeca-core (14 Core),GeForce RTX 3050 Ti,8 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Home,,1319.99
+Lenovo,AMD Ryzen 7 PRO 6850U,Radeon Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Home,,895.0
+Asus,Intel Celeron N100 Quad-core (4 Core),Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,4 GB SSD,Windows 11 Pro,,340.99
+Lenovo,Intel Core i7-1185G7,NVIDIA T500,24GB,14.0 Inches,1920 x 1080,512GB PCIe NVMe SSD,Windows 11 Pro,,1039.99
+Dell,Intel Core i7 13th Gen i7-13800H Tetradeca-core (14 Core) 2.50 GHz,Intel Iris Plus Graphics 640,32 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro NVID,,2297.37
+Dell,Intel Core i7 13th Gen i7-13800H Tetradeca-core (14 Core) 2.50 GHz,Intel Iris Plus Graphics 640,32 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,2407.99
+Precision,Intel Core i7 13th Gen i7-13700H Tetradeca-core (14 Core) 2.40 GHz,Intel Iris Plus Graphics 640,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro NVIDA,,2332.05
+Precision,Intel Core i7 13th Gen i7-13700H Tetradeca-core (14 Core) 2.40 GHz,Intel Iris Plus Graphics 640,32 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro NVIDA,,2314.89
+Microsoft,Intel Core i5 11th Gen 2.40GHz,Intel HD Graphics,16GB,13 Inches,2880 x 1920,256GB SSD,Windows 10 Home,1.96 lbs.,1719.99
+Dell,Intel Core i7 13th Gen i7-13800H Tetradeca-core (14 Core) 2.50 GHz,Intel Iris Plus Graphics 640,32 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro NVID,,2671.71
+HP,Intel Core i3-1125G4,Intel HD Graphics,32GB,17.3 Inches,1600x900,2TB SSD,Windows 11 S,4 - 4.9 lbs.,629.99
+HP,AMD Ryzen 5 7535HS,NVIDIA GeForce RTX 2050,64GB DDR5,15.6 Inches,1920 x 1080,2TB SSD,Windows 11 Home,5 - 5.9 lbs.,909.0
+MSI,Intel Core i5-1155G7,Intel Iris Xe Graphics,8GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.75 lbs.,588.78
+Lenovo,Intel Core i5-10210U,Intel HD Graphics 620,12GB,14 Inches,1920 x 1080,512GB PCIe NVMe M.2 Solid State Drive,Windows 11 Home,,530.79
+ASUS,Intel N100 Quad-core (4 Core) 800 MHz,Intel UHD Graphics,4 GB,11.6 Inches,1366 x 768,32 GB Flash Memory,ChromeOS,,449.99
+HP,Intel Core i7 10-Core (13th Gen),Intel Iris Xe Graphics,32GB,14 Inches,1920 x 1200,1TB SSD,Windows 11 Pro,3.2 lb,1698.23
+Lenovo,Intel Core i5 13th Gen i5-13500HX Tetradeca-core (14 Core),NVIDIA GeForce RTX 4060 with 8 GB In-plane Switching,16 GB,16 Inches,2560 x 1600,1 TB SSD,Windows 11 Pro,,1650.34
+Precision,Intel Core i7 13th Gen i7-13800H Tetradeca-core (14 Core) 2.50 GHz,Intel Iris Plus Graphics 640,32 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro NVIDA,,2627.99
+Precision,Intel Core i7 13th Gen i7-13800H Tetradeca-core (14 Core) 2.50 GHz,Intel Iris Plus Graphics 640,32 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro NVIDA,,2902.46
+Dell,Intel Core i5-1245U (3.3GHz),Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1080,256GB SSD,Windows 11 Home,,650.34
+HP,Intel Core i5-1135G7,Intel HD Graphics,8GB,15.6 Inches,1920 x 1080,256GB NVMe SSD,Windows 10 Pro,3.75lbs,448.76
+HP,Intel Core i5-1135G7,Intel Iris Xe Graphics,32GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 10 Pro,4,548.79
+DELL,Intel Core i7 13th Gen,Intel Integrated Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Pro,3.56 lbs,1525.0
+ASUS,Intel Core i3-1220P Processor,Intel UHD Graphics,16GB,17.3 Inches,1920 x 1080,1024GB SSD,Windows 11 Home,,499.99
+Lenovo,Intel Core i7 13th Gen i7-13700H Tetradeca-core (14 Core) 2.40 GHz,NVIDIA RTX 2000 with 8 GB English Keyboard,32 GB Total RAM,16 Inches,3840 x 2400,1 TB SSD,Windows 11 Pro,,2822.49
+LG,Intel Core i5,Intel HD Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,793.64
+HP,Intel Core i5-1135G7,Intel HD Graphics,16GB,15.6 Inches,1920 x 1080,256GB NVMe SSD,Windows 11 Pro,3 - 3.9 lbs.,548.79
+HP,Intel Core i9 13th Gen i9-13950HX,NVIDIA RTX 5000,64 GB,16 Inches,1920 x 1200,2 TB SSD,Windows 11 Pro,5.29 lb,5839.53
+Lenovo,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz,Intel Iris Xe Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,950.99
+ASUS,Intel Core i7-12700H,NVIDIA GeForce RTX 4070,64GB,15.6 Inches,1920x1080,2TB SSD,Windows 11 Home,4 - 4.9 lbs.,1599.99
+LG,Intel Core i5,Intel HD Graphics,8 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1046.52
+Acer,Intel Celeron N5100 (1.10GHz) ,Intel UHD Graphics,8 GB,15.6 Inches,1920 x 1080,64 GB SSD,Chrome OS,,345.99
+Acer,Intel Celeron N5100 (1.10GHz) ,Intel UHD Graphics,8 GB,15.6 Inches,1920 x 1080,64 GB SSD,Chrome OS,,345.99
+Samsung,Intel Core i7 13th Gen i7-1360P (2.20GHz),Intel Iris Xe Graphics,16 GB,16 Inches,2880 x 1800,1 TB SSD,Windows 11 Pro,,1999.99
+Microsoft,Intel Core i5 11th Gen i5-1135G7 Quad-core (4 Core),Intel Iris Xe Graphics,16 GB,12.4 Inches,1536 x 1024,256 GB SSD,Windows 11,,920.99
+Lenovo,Intel Core i7-13700H,Intel UHD Graphics,8GB,16 Inches,3840 x 2400,1TB SSD,Windows 10 Home,,2489.0
+Lenovo,Intel N100 Quad-core (4 Core),Intel UHD Graphics,4 GB,14 Inches,1366 x 768,32 GB Flash Memory,ChromeOS,,340.82
+HP,Intel Core i5-1135G7,Intel HD Graphics,16GB,15.6 Inches,1920 x 1080,512GB NVMe SSD,Windows 11 Home,3 - 3.9 lbs.,538.79
+LG,Intel Core i7,Intel HD Graphics,16 GB,14 Inches,1920 x 1080,1 TB SSD,Windows 11 Pro,,1212.84
+HP,Intel Core i5-1135G7,Intel Iris Xe Graphics,8GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 10 Pro,,499.79
+LG,Intel Core i5 13th Gen i5-1350P Dodeca-core (12 Core) 1.90 GHz,Intel Iris Xe Graphics,16 GB,17 Inches,2560 x 1600,512 GB SSD,Windows 11 Pro,,1294.01
+Lenovo,Intel Core i7 12th Gen i7-1260P Dodeca-core (12 Core) 2.10 GHz,Intel Evo Platform,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1586.82
+LG,Intel Core i7,Intel HD Graphics,16 GB,15.6 Inches,1920 x 1080,1 TB SSD,Windows 11 Pro,,1383.71
+LG,Intel Core i7,Intel HD Graphics,16 GB,15.6 Inches,1920 x 1080,1 TB SSD,Windows 11 Pro,,1159.66
+HP,Intel Core i7 13th Gen i7-13800H Tetradeca-core (14 Core),"Intel Iris X? Graphics with 8 GB, NVIDIA GeForce RTX 4070 In-plan",32 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,3148.68
+Lenovo,Intel Core i3 13th Gen i3-1315U Hexa-core (6 Core) 1.20 GHz,Intel UHD Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,622.96
+Dell,Intel Core i9 13th Gen i9-13900H Tetradeca-core (14 Core),Intel Evo Platform,32 GB,15.6 Inches,3456 x 2160,1 TB SSD,Windows 11 Pro,,3199.99
+Lenovo,AMD Ryzen 5 5625U Hexa-core (6 Core) 2.30 GHz,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 AMD Radeon Graphics In-plane Switching,,699.99
+HP,Intel Core i5-1240P,Intel Iris Xe Graphics,16GB,15.6 Inches,1920 x 1080,1024GB SSD,Windows 11 Home,,689.99
+HP,Intel Core i7 13th Gen i7-13850HX Icosa-core (20 Core) 2.20 GHz,NVIDIA RTX 2000,16 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,3105.96
+LG,Intel Core i5 13th Gen i5-1340P Dodeca-core (12 Core) 1.90 GHz,Intel Iris Xe Graphics,16 GB,16 Inches,2560 x 1600,512 GB SSD,Windows 11 Pro,,1056.19
+HP,Intel Core i3-1315U,Intel UHD Graphics,8GB,15.6 Inches,1366 x 768,256GB SSD,Windows 10 Home,,549.99
+Lenovo,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1374.97
+Lenovo,Intel® UHD Graphics 620,Intel® UHD Graphics 620,32GB,14 Inches,1920 x 1200,32GB SSD,Windows 10 Home,,188.95
+Microsoft,Intel Core i7 12th Gen i7-1265U,Intel Iris Xe Graphics,8 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1542.99
+HP,Intel Core i5 13th Gen (10 Core),NVIDIA RTX A500 Graphics (4GB GDDR6),16GB,14 Inches,1920 x 1200,256GB PCIe SSD,Windows 11 Pro,3.2 lb,1945.0
+Microsoft,Intel Core i5 10-Core (12th Gen),Intel Iris Xe Graphics,8 GB,12.4 Inches,1536 x 1024 PixelSense Touchscreen,256 GB SSD,Windows 10 Pro (64-Bit),,949.0
+Microsoft,Intel Core i7 12th Gen i7-1265U,Intel Iris Xe Graphics,8 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1545.99
+Lenovo,Intel Core i3 13th Gen i3-1315U Hexa-core (6 Core) 1.20 GHz,Intel UHD Graphics,8 GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,622.96
+Microsoft,Intel Core i7 12th Gen i7-1265U,Intel Iris Xe Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,,1465.99
+HP,Intel Core i5-1135G7,Intel Iris X Graphics,32GB,14 Inches,1920 x 1080,1TB SSD,Windows 10 Home,,749.79
+Lenovo,Intel Core i9 12th Gen i9-12900HX Hexadeca-core (16 Core) 2.30 GHz,NVIDIA RTX A2000 with 8 GB In-plane Switching (IPS) Technology,32 GB,16 Inches,3840 x 2400,1 TB SSD,Windows 11 Pro,,2099.99
+DELL,Intel Core i5 13th Gen,Intel Iris Xe Graphics,16GB,14 Inches,1920 x 1200,256GB SSD,Windows 11 Pro,2.91 lbs,1467.21
+Dell,Intel Core i5 13th Gen,Intel HD Graphics 620,8GB,14 Inches,1920 x 1080,256 GB SSD,Windows 11 Pro,3.42 lbs.,893.86
+Lenovo,Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1241.93
+Lenovo,Intel Core i7-11370H,Intel Iris X? Graphics,16GB,14 Inches,2.8K (2880 x 1800),1TB SSD,Microsoft Windows 11 Home,,1376.6
+Lenovo,Intel Core i5 10-Core (13th Gen),Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1200,256GB SSD,Windows 11 Pro,,1458.86
+Lenovo,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz,Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1286.63
+HP,AMD Ryzen 7 7730U,AMD Radeon Graphics,32 GB,15.6 Inches,1920 x 1080,1 TB SSD,Windows 11 Pro,,1097.62
+Microsoft,Intel Core i7-8550U,Intel HD Graphics 620,16GB,13.5 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,979.0
+Lenovo,AMD Ryzen 7 6800H,NVIDIA GeForce RTX 3060,16GB,15.6 Inches,2560 x 1440 IPS,512 GB SSD,Windows 10 Home,5.18 lbs.,1299.99
+Lenovo,Intel Core i7 12th Gen i7-1260P Dodeca-core (12 Core) 2.10 GHz,Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1424.24
+Lenovo,AMD Ryzen 7 7735U,AMD Radeon,16GB,16 Inches,1920 x 1200,1TB SSD,Windows 11 Pro 64,4.62 lbs,999.0
+HP,Intel Core i9 13th Gen i9-13900H Tetradeca-core (14 Core),"Intel Iris X? Graphics with 12 GB, NVIDIA GeForce RTX 4080 In-pla",32 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,4075.31
+Lenovo,Intel N200 Quad-core (4 Core),Intel UHD Graphics,8 GB,14 Inches,1920 x 1080,128 GB Flash Memory,ChromeOS,,504.63
+Lenovo,Intel Core i5 13th Gen i5-1335U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,16 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,1478.57
+HP,Intel Core i7-13700H,Intel Arc A370M Graphics,16GB,16 Inches,2560 x 1600,512 GB SSD,Windows 10 Home,,1512.99
+ASUS,Qualcomm Snapdragon 7c Gen 2,Adreno GPU 618,4 GB,10.5 Inches,1920 x 1200,128 GB SSD,Windows 11 Home,,443.17
+HP,Intel Core i7-13700HX,NVIDIA GeForce RTX 4070,16 GB,17 Inches,2560 x 1440,512 GB SSD,Windows 10 Home,,1500.34
+MSI,Intel Core i5-12450H,GeForce RTX 4050,32GB,15.6 Inches,1920 x 1080,2TB PCIe 4.0 SSD,Windows 11 Pro,,1049.99
+Lenovo,Intel Core i5 13th Gen i5-13500H Dodeca-core (12 Core) 2.60 GHz,NVIDIA GeForce RTX 4050 with 6 GB In-plane Switching,16 GB,16 Inches,2560 x 1600,512 GB SSD,Windows 11 Pro,,1583.06
+ASUS,AMD Ryzen 7 7730U,AMD Radeon Graphics,24GB,17.3 Inches,1920 x 1080,2TB SSD,Windows 11 Pro,4.63,999.0
+Lenovo,Intel Core i5 13th Gen i5-1345U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,1330.64
+Dell,Intel Core i5 12th Gen i5-12500H Dodeca-core (12 Core) 2.50 GHz,Intel HD Graphics 620,8 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 10 Home,,1199.99
+Lenovo,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1562.21
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,16 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,4.05,2000.21
+LG,Intel Core i5,Intel HD Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,900.26
+DELL,Intel Core i7 13th Gen,Intel Iris Xe Graphics,16GB,14 Inches,1920x1080,512GB SSD,Windows 11 Pro,3.06,1420.0
+MSI,Intel Core i7-12700H (2.30GHz),NVIDIA GeForce RTX 3070 Ti,32GB,15.6 Inches,2560 x 1440,1TB PCIe SSD,Windows 11 Home,5.25 lbs.,1859.0
+MSI,Intel Core i7,NVIDIA GeForce RTX 4060,8GB,15.6 Inches,144hz,512GB SSD,Windows 10 Home,,1069.95
+LATITUDE,Intel Core i7-1365U,Intel HD Graphics,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,2520.99
+HP,Intel Celeron N4120 (1.10GHz),Intel UHD Graphics,4 GB,14 Inches,1366 x 768,64 GB SSD,Windows 11 Home,,378.99
+DELL,Intel Core i7 13th Gen,Intel Iris Plus Graphics,16GB,14 Inches,1920x1080,256GB SSD,Windows 11 Pro,3.06,1416.76
+ASUS,Intel Core m3-8100Y,Intel HD Graphics,8GB,14 Inches,1920 x 1080,64GB eMMC,Chrome OS,,298.0
+ASUS,Intel Core i7-1165G7,Intel HD Graphics,16GB,14 Inches,1920 x 1200,512GB SSD,ChromeOS,,1210.99
+Asus,Intel Core i5-1135G7,Intel Iris Xe Graphics,8GB,14 Inches,1920 x 1080,256GB SSD,Windows 10 Pro,3.20 lbs.,511.75
+Lenovo,Intel Core i5 13th Gen i5-1345U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1708.99
+Lenovo,AMD Ryzen 7 PRO 7840U,AMD Radeon Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1320.89
+HP,Intel Core i7 13th Gen i7-13700H Tetradeca-core (14 Core),Intel Evo Platform,16 GB,16 Inches,2560 x 1600,1 TB SSD,Windows 11 Home,,1659.99
+Microsoft,Intel Core i5 8th Gen,Intel HD Graphics 620,8GB,50 Inches,1920 x 1080,1TB SSD,Windows 10 Home,,8999.99
+Lenovo,Intel Core i7 13th Gen i7-1355U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,13.3 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1724.95
+MSI,Intel Core i7 13th Gen 1360P (2.20GHz),Intel Iris Xe Graphics,32GB,13.4 Inches,1920 x 1200,1TB SSD,Windows 11 Pro,2.98 lbs.,1610.34
+MSI,Intel Core i7-1260P (2.10GHz),Intel Iris Xe Graphics,16GB,13.4 Inches,1920 x 1200,512GB SSD,Windows 11 Pro,3.74 lbs.,764.62
+Dell,AMD R5-7530U,AMD Radeon Graphics,32GB,15.6 Inches,1920 x 1080,1024GB SSD,Windows 11 Home,,549.99
+HP,Intel Core i3-1115G4,Intel UHD Graphics,16GB,15.6 Inches,1366 x 768,1TB SSD,Windows 11 in S mode,3.75 pounds,487.0
+HP,Intel Core i5 13th Gen i5-1345U Deca-core (10 Core),Intel Iris Xe Graphics with 8 GB In-plane Switching,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1702.6
+Dell,Intel Core i7-1355U,Intel Iris Xe Graphics,32GB DDR4,15.6 Inches,1920 x 1080,2TB SSD,Windows 11 Pro,4,984.99
+Lenovo,AMD Ryzen 7 PRO 7840U Octa-core (8 Core) 3.30 GHz,AMD Radeon 780M Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1221.56
+MSI,Intel Core i7-1185G7,NVIDIA GeForce RTX 1650 Max-Q,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 10 Home,,801.88
+HP,Intel Core i5-13420H,NVIDIA GeForce RTX 3050,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,,775.0
+Lenovo,Intel Core i5-12500H,NVIDIA GeForce RTX 3050,8GB DDR4,15.6 Inches,1920 x 1080,512GB M.2 TLC SSD,Windows 11 Home,,938.99
+Lenovo,Intel Core i7 13th Gen i7-1365U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1892.48
+Lenovo,AMD Ryzen 7 7730U,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,893.09
+HP,AMD Ryzen 5 5500U,AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,429.99
+Lenovo,AMD Ryzen 7 PRO 7840U Octa-core (8 Core) 3.30 GHz,AMD Radeon 780M Graphics,32 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,1550.99
+HP,Celeron N4020 Dual-core (2 Core) 1.10 GHz,UHD Graphics,4 GB,14 Inches,1366 x 768,64 GB Flash Memory,Windows 10 Home,,259.99
+Lenovo,AMD Ryzen 7 PRO 7840U Octa-core (8 Core) 3.30 GHz,AMD Radeon 780M Graphics,32 GB,14 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,1450.09
+Lenovo,AMD Ryzen 5 7530U,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,889.93
+MSI,Intel Core i7-12700H (2.9GHz),NVIDIA GeForce RTX 3070 Ti,32GB,15.6 Inches,1920 x 1080,1TB NVMe SSD,Windows 11 Pro,,2840.78
+Lenovo,Intel Core i7 13th Gen i7-13700H Tetradeca-core (14 Core) 2.40 GHz,NVIDIA RTX A500 with 4 GB In-plane Switching,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1553.95
+Lenovo,AMD Ryzen 5 7530U,AMD Radeon Graphics,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,822.11
+HP,Intel Core i9 13th Gen i9-13900H Tetradeca-core (14 Core),"Intel Iris X? Graphics with 12 GB, NVIDIA RTX 4000 BrightView E",64 GB Total RAM,16 Inches,3840 x 2400,2 TB SSD,Windows 11 Pro,,4816.61
+Lenovo,Intel Core i7-8750H (2.20GHz),Intel UHD Graphics 620,16GB,16 Inches,1920 x 1200,512GB SSD,Windows 10 Home,,1568.83
+HP,AMD Ryzen 5 5500U,AMD Radeon,16GB,17.3 Inches,1920 x 1080,512GB NVMe SSD,Windows 10 Home,,529.99
+Dell,Intel Core i7-1355U,Intel Iris Xe Graphics,32GB DDR4,15.6 Inches,1920 x 1080,2TB SSD,Windows 11 Pro,4,984.99
+Dell,Intel Core i7-1360P,Intel Iris Xe Graphics,16GB,16 Inches,1920 x 1200,1TB SSD,Windows 11 Pro,4.21,949.0
+Lenovo,Intel Core i7 13th Gen i7-1365U Deca-core (10 Core),Intel Iris Xe Graphics,16 GB,14 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,2010.74
+Lenovo,AMD Ryzen 2GHz WIN11H,AMD Radeon Graphics,16GB,15.6 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,856.84
+Acer,Intel Core i5 i5-1135G7 Quad-core (4 Core) 2.40 GHz,Intel Iris Xe Graphics,8 GB,14 Inches,1920 x 1080,512 GB SSD,Windows 10 Pro,,802.77
+HP,Intel Core i5-1335U,Intel Iris Xe Graphics,16GB,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,3.86,799.99
+Dell,Intel Core i5 13th Gen Deca-core (10 Core),Intel Iris XE Graphics,16 GB,14 Inches,2560 x 1600,1TB PCIe NVMe M.2 SSD,Windows 11 Pro,3 - 3.9 lbs.,1319.99
+Acer,Intel Core i3 11th Gen i3-1115G4 Dual-core (2 Core) 3 GHz,Intel UHD Graphics,8 GB,15.6 Inches,1920 x 1080,128 GB SSD,Chrome OS,,541.43
+Lenovo,Intel Core i7 13th Gen i7-1370P Tetradeca-core (14 Core) 1.90 GHz,NVIDIA RTX A500,32 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,1931.54
+Lenovo,Intel Core i7 13th Gen i7-1360P Dodeca-core (12 Core) 2.20 GHz,NVIDIA RTX A500,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1639.01
+HP,Intel N200 (4 Core),Intel HD Graphics,8 GB,11.6 Inches,1366 x 768,256 GB SSD,Windows 10 Home,,757.05
+Lenovo,Intel Core i7 13th Gen i7-1360P Dodeca-core (12 Core),NVIDIA RTX A500,32 GB,14 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,1778.54
+Lenovo,Intel Core i5-1335U,Intel HD Graphics 620,16GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Home,,1627.58
+Lenovo,Intel Core i5-1335U,Intel HD Graphics 620,16GB,14 Inches,1920 x 1080,512GB SSD,Windows 11 Home,,1409.48
+Lenovo,AMD Ryzen 3 5300U,AMD Radeon Graphics,8GB,14 Inches,1920 x 1200,256GB SSD,Windows 11 in S mode,3.42 lbs.,442.93
+HP,Intel Core i7-1165G7,Intel Iris Xe Graphics,64GB,15.6 Inches,1920 x 1080,2TB SSD,Windows 11 Pro,3.75,942.0
+ASUS,Intel Core i7-12700H,GeForce RTX 4070,64GB,15.6 Inches,1920 x 1080,2TB PCIe 4.0 SSD,Windows 11 Pro,,1399.99
+Lenovo,AMD Ryzen 5 PRO 6650U Hexa-core (6 Core) 2.90 GHz,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,1596.83
+Lenovo,AMD Ryzen 5 PRO 6650U,AMD Radeon Graphics,16 GB,14 Inches,1920 x 1200,256 GB SSD,Windows 11 Pro,,1232.04
+Dell,Intel Core i7 13th Gen i7-13800H Tetradeca-core (14 Core) 2.50 GHz,Intel Iris Plus Graphics 640,32 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro NVIDA,,2815.78
+Lenovo,Intel Core i7 12th Gen i7-12700H Tetradeca-core (14 Core) 2.30 GHz,NVIDIA GeForce RTX 3050 with 4 GB In-plane Super-Speed GDDR6,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 11 Pro,,1957.54
+HP,Intel Core i5-1235U,Intel Iris Xe Graphics,8GB,14.0 Inches,1920 x 1080,1024GB SSD,Windows 11 Home,3.35 lbs,679.79
+Lenovo,Intel Core i7 13th Gen i7-1360P Dodeca-core (12 Core) 2.20 GHz,NVIDIA RTX A500,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1642.54
+Acer,Intel Core i7-12700H,NVIDIA GeForce RTX 3060,32GB DDR5,16 Inches,2560 x 1600,2TB SSD,Windows 11 Home,5 - 5.9 lbs.,1499.99
+Acer,Intel N100 Dual Core (2 Core) 800 MHz,Intel UHD Graphics,4GB,13.6 Inches,1366 x 768,32 GB Flash Memory,Chrome OS,,382.42
+Lenovo,AMD Ryzen 5 5000 Series,AMD Radeon Graphics,16GB,14 Inches,1920 x 1080,256 GB PCIe SSD,Windows 11 Pro 64-bit,3.09 lbs.,687.15
+Lenovo,Intel Core i7 13th Gen i7-1360P Dodeca-core (12 Core) 2.20 GHz,NVIDIA RTX A500,32 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,1554.63
+Microsoft,Intel Core i5,Intel HD Graphics,8GB,12.4 Inches,1920 x 1080,256GB SSD,Windows 11 Home,2.49 lbs.,699.99
+Lenovo,Intel Core i7-8550U (2.8GHz),Intel UHD Graphics 620,16GB,16 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,1557.32
+Dell,Intel Core i7 13th Gen i7-13800H Tetradeca-core (14 Core) 2.50 GHz,NVIDIA GeForce GTX 1080,32 GB,16 Inches,1920 x 1200,1 TB SSD,Windows 11 Pro,,3205.66
+HP,AMD Ryzen 5 7530U,AMD Radeon Graphics,8 GB,15.6 Inches,1920 x 1080,256 GB SSD,Windows 11 Home,,1162.9
+HP,Intel Core i3-1125G4,Intel HD Graphics,16GB,17.3 Inches,1600x900,512GB SSD,Windows 11 S,4.6 lb,499.99
+Microsoft,Intel Core i7-8550U,Intel HD Graphics 620,16GB,15.6 Inches,1920 x 1080,256GB SSD,Windows 10 Home,,1299.0
+Lenovo,Intel Core i7 13th Gen i7-13700H Tetradeca-core (14 Core) 2.40 GHz,NVIDIA RTX A1000 with 6 GB In-plane Switching,16 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1717.47
+HP,Intel Core i5 13th Gen ,Intel Iris Xe Graphics ,16GB ,15.6 Inches ,1920x1080,512GB SSD,Windows 11 Pro,,1299.0
+Lenovo,Intel Core i7-8550U (2.8GHz),Intel UHD Graphics 620,16GB,13.3 Inches,1920 x 1080,512GB SSD,Windows 10 Home,,1372.31
+Lenovo,Intel Core i7-1165G7,Intel UHD Graphics,16 GB,15.6 Inches,1920 x 1080,512 GB SSD,Windows 10 Pro,,1599.99
+LG,Intel Core i7 Evo Platform,Intel HD Graphics,32GB,16 Inches,1920 x 1080,2TB SSD,Windows 11 Home,,1622.99
+Dell,Core i7 11th Gen i7-1180G7 Quad-core (4 Core) 2.20 GHz,Intel HD Graphics,16 GB,13.3 Inches,1920 x 1280,256 GB SSD,Windows 10 Home,,1632.25
+Lenovo,Intel Core i9 13th Gen i9-13900HX Tetracosa-core (24 Core),NVIDIA GeForce RTX 4080 with 12 GB,32 GB,16 Inches,2560 x 1600,1 TB SSD,Windows 11 Pro,,2866.79
+HP,AMD Ryzen 5 7535HS,NVIDIA GeForce RTX 2050,16GB DDR5,15.6 Inches,1920 x 1080,1TB SSD,Windows 11 Home,5 - 5.9 lbs.,714.99
+THINKPAD,Intel Core i5-1335U,Intel HD Graphics 620,16GB,14 Inches,1920 x 1080,256GB SSD,Windows 11 Home,,1056.18
+Acer,Intel Core i3 10110U (2.10GHz),Intel HD Graphics,8GB,14 Inches,1920 x 1080,128GB SSD,Windows 10 Home,,782.99
+Lenovo,Intel Core i7 13th Gen i7-13700HX Hexadeca-core (16 Core),NVIDIA RTX A1000 In-plane Switch,16 GB,16 Inches,2560 x 1600,512 GB SSD,Windows 11 Pro,,2104.84
+Lenovo,AMD Ryzen 7 PRO 7840U Octa-core (8 Core) 3.30 GHz,AMD Radeon 780M Graphics,32 GB,16 Inches,1920 x 1200,512 GB SSD,Windows 11 Pro,,1479.19
+ASUS,Intel Celeron N4020 (2.40GHz),Intel UHD Graphics,4GB,15.6 Inches,1920 x 1080,64GB SSD,Windows 11 Home,,227.98
+Dell,Intel Core i7-1265U (3.3GHz),Intel Iris Xe Graphics,16GB,13.3 Inches,1920 x 1080,256GB SSD,Windows 11 Home,,701.18
+Lenovo,Intel Core i7 12th Gen i7-12800HX Dual-core (2 Core) 2 GHz,NVIDIA RTX A1000 with 4 GB,16 GB,16 Inches,2560 x 1600,512 GB SSD,Windows 11 Pro,,1911.29

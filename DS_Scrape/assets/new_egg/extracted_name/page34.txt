@@ -49,7 +49,7 @@ Lenovo ThinkPad E14 Gen 3 20Y7003AUS 14" Notebook - Full HD - 1920 x 1080 - AMD 
 HP ENVY Laptop 17 Home & Business Laptop (Intel i7-1255U 10-Core, 17.3" 60Hz Touch Full HD (1920x1080), Intel Iris Xe, 16GB RAM, 512GB SSD, Win 11 Home) with Microsoft 365 Personal , Hub
 MSI Modern 15 Laptop, 15.6" IPS FHD Display, Intel Core i7-1255U Upto 4.7GHz, 16GB RAM, 512GB NVMe SSD, Intel Arc A370M, HDMI, Wi-Fi, Bluetooth, Windows 11 Pro
 ASUS ROG Scar 15 Gaming & Entertainment Laptop (AMD Ryzen 9 5900HX 8-Core, 16GB RAM, 1TB SSD, 15.6" Full HD (1920x1080), NVIDIA RTX 3080, Wifi, Win 10 Home) with Microsoft 365 Personal , Hub
-Lenovo ThinkPad P15S Gen 2 15.6" 8GB 256GB SSD Coreâ„¢ i5-1135G7 2.4GHz Win10P, Black
+Lenovo ThinkPad P15S Gen 2 15.6" 8GB 256GB SSD Core™ i5-1135G7 2.4GHz Win10P, Black
 Lenovo ThinkPad X1 Carbon 11th Gen Business Laptop, 14 2.2K (2240 x 1400) Non-Touch, 13th Gen Intel Core i7-1355U, 32GB Ram, 256GB SSD, Windows 11 Pro
 ASUS Vivobook 15.6" FHD Laptop | Intel Core i5-1135G7 | Intel Iris Xe Graphics | 8GBDDR4 RAM | 256GB SSD | Windows 11 Home | with USB3.0 HUB Bundle
 ASUS Vivobook 15.6" FHD Laptop | Intel Core i5-1135G7 | Intel Iris Xe Graphics | 20GBDDR4 RAM | 1024GB SSD | Windows 11 Home | with USB3.0 HUB Bundle
@@ -82,7 +82,7 @@ Dell - Inspiron 13 7000 2-in-1 - 13.3" Touch-Screen Laptop - Intel Core i5 - 8GB
 HP Pavilion X360 14.0" Touchscreen FHD IPS 2-in-1 Laptop (Intel i5-1235U 10-Core, Intel Iris Xe, 16GB RAM, 256GB SSD, Backlit KYB, FP, WiFI 6, BT 5.2, Webcam, Win 11 Home)
 Lenovo Ideapad 3i 14.0" FHD Laptop, Intel Core i5-10210U(4-Core up to 4.2GHz), 20GB RAM, 512GB SSD, WiFi Bluetooth HDMI, Platinum Grey, Windows 11
 Lenovo ThinkPad X1 Carbon 11th Gen Business Laptop, 14 2.2K (2240 x 1400) Non-Touch, 13th Gen Intel Core i7-1355U, 32GB Ram, 1TB SSD, Windows 11 Pro
-Intel NUC M15 15.6" Laptop BBC710BCUXBC1 Kit Notebook 11th Generation IntelÂ® Core i7-1165G7 CPU,16 GB LPDDR4x 4266 MHz,512 GB Gen4 SSD,1080 IPS Touchscreen, Win 11 Home
+Intel NUC M15 15.6" Laptop BBC710BCUXBC1 Kit Notebook 11th Generation Intel® Core i7-1165G7 CPU,16 GB LPDDR4x 4266 MHz,512 GB Gen4 SSD,1080 IPS Touchscreen, Win 11 Home
 ASUS Vivobook 15.6" FHD Laptop | Intel Core i5-1135G7 | Intel Iris Xe Graphics | 20GBDDR4 RAM | 256GB SSD | Windows 11 Home | with USB3.0 HUB Bundle
 New MSI 15.6" FHD Premium Gaming Laptop | Intel Core i5-10500H Processor | 32GB RAM | 1TB SSD | NVIDIA GeForce GTX 1650 Max-Q | Backlit Keyboard | Windows 11 Home  | Bundle with Mouse Pad
 HP Pavilion X360 14-ek0097nr Home & Business 2-in-1 Laptop (Intel i5-1235U 10-Core, 14.0" 60Hz Touch Full HD (1920x1080), Intel Iris Xe, 16GB RAM, 256GB SSD, Win 11 Home) with DV4K Dock

@@ -36,7 +36,7 @@ Lenovo Slim 7i Pro Laptop: Core i7-11370H, 1TB SSD, 16GB RAM, 14" 2.8K IPS Touch
 Lenovo 13.3" ThinkPad X13 Yoga Gen 4 Multi-Touch 2-in-1 Laptop, 1.3 GHz Intel Core i5 10-Core, 16GB RAM, 256GB SSD, Intel Iris Xe, Windows 11 Pro, 1920 x 1200
 Lenovo ThinkPad L13 Yoga Gen 4 21FJ002CUS 13.3" Touchscreen Convertible 2 in 1 Notebook - WUXGA - 1920 x 1200 - Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) 1.30 GHz - 16 GB Total RAM - 16
 HP ProBook 455 G10 15.6" Notebook - Full HD - 1920 x 1080 - AMD Ryzen 7 7730U Octa-core (8 Core) - 32 GB Total RAM - 1 TB SSD - Pike Silver Plastic - Windows 11 Pro - AMD Radeon Graphics - In-pla
-Microsoft Surface Laptop 4 13.5‚Äù Touch-Screen ‚Äì Intel Core i7 - 16GB - 512GB Solid State Drive (Latest Model) - Matte Black
+Microsoft Surface Laptop 4 13.5î Touch-Screen ñ Intel Core i7 - 16GB - 512GB Solid State Drive (Latest Model) - Matte Black
 Lenovo 82RD006EUS Gaming Laptop AMD Ryzen 7 6800H 15.6"
 Lenovo ThinkPad T14 Gen 3 21AH00NGUS 14" Notebook - WUXGA - 1920 x 1200 - Intel Core i7 12th Gen i7-1260P Dodeca-core (12 Core) 2.10 GHz - 16 GB Total RAM - 8 GB On-board Memory - 512 GB SSD - Th
 Lenovo Yoga 7 Laptop, 16" IPS  60Hz, Ryzen 7 7735U, AMD Radeon, 16GB, 1TB
@@ -59,8 +59,7 @@ DELL Notebooks 16" Latitude 7640 Intel Core i7 13th Gen 16GB Memory 512 GB SSD I
 LG Ultra 15U50Q-G.APB7U1 15" Notebook - Intel Core i5 - 16 GB Total RAM - 512 GB SSD - Intel Chip - Windows 11 Pro - In-plane Switching (IPS) Technology
 DELL Notebooks 14" Latitude 5440 Intel Core i7 13th Gen 16GB Memory 512 GB SSD Windows 11 Pro
 MSI Vector GP66 12UGS-419 Gaming Laptop Intel Core i7-12700H 2.30 GHz 15.6" Windows 11 Home 64-bit
-MSI - Cyborg 15.6" 144hz Gaming Laptop - Intel Core i7 - NVIDIA GeForce RTX 4060 with 8GB RAM and 512GB SSD - Black
-Notebook PC
+MSI - Cyborg 15.6" 144hz Gaming Laptop - Intel Core i7 - NVIDIA GeForce RTX 4060 with 8GB RAM and 512GB SSD - Black Notebook PC
 LATITUDE 9440 14IN TOUCH 2IN1   I7-1365U 16GB 1DIMM 512GB SS W11
 HP Chromebook 14a-na0240nr Intel Celeron N4120 Quad-core (4 Core) 1.10 GHz - 4 GB Total RAM - 64 GB Flash Memory - Ceramic White
 DELL Notebooks 14" Latitude 5440 Intel Core i7 13th Gen 16GB Memory 256 GB SSD Windows 11 Pro
@@ -73,7 +72,7 @@ Lenovo ThinkPad X13 Gen 4 21J30007US 13.3" Touchscreen Notebook - 1920 x 1200 - 
 HP Envy 16-h0000 16-h1003nr 16" Touchscreen Notebook - WQXGA - 2560 x 1600 - Intel Core i7 13th Gen i7-13700H Tetradeca-core (14 Core) - Intel Evo Platform - 16 GB Total RAM - 1 TB SSD - Natural
 SURFACE HUB 2S 50IN ENG US
 Lenovo ThinkPad X13 Yoga Gen 4 21F2000KUS 13.3" Convertible 2 in 1 Notebook - WUXGA - 1920 x 1200 - Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) - 16 GB Total RAM - 16 GB On-board Memory -
-MSI SUMMIT E13FLIP EVO 13.4" FHD+ 120hz Touch Ultra Thin and Light Professional 2 in 1 Laptop Intel¬Æ Core‚Ñ¢ i7-1360P Iris Xe 32GB LPDDR5 1TB NVMe SSD Win 11 Pro with MSI Pen,  A13MT-220US
+MSI SUMMIT E13FLIP EVO 13.4" FHD+ 120hz Touch Ultra Thin and Light Professional 2 in 1 Laptop IntelÆ Coreô i7-1360P Iris Xe 32GB LPDDR5 1TB NVMe SSD Win 11 Pro with MSI Pen,  A13MT-220US
 MSI 2-in-1 Laptop Summit E13FlipEvo Intel Core i7-1260P 2.10 GHz 13.4" Windows 11 Pro 64-bit Summit E13FlipEvo A12MT-002
 TS X1C G11 i7 16G 11P
 Dell Inspiron 15.6 FHD Touch Laptop | AMD R5-7530U Processor | 32GB RAM | 1024GB SSD | AMD Radeon Graphics | Windows 11 Home | Carbon Black
@@ -93,5 +92,5 @@ Lenovo ThinkPad P16s Gen 2 21K90017US 16" Mobile Workstation - WUXGA - 1920 x 12
 HP 14-dq0000 14" Notebook - HD - 1366 x 768 - Intel Celeron N4020 Dual-core (2 Core) 1.10 GHz - 4 GB RAM - 64 GB Flash Memory - Pale Rose Gold, Natural Silver 14-dq0030nr
 Lenovo ThinkPad P14s Gen 4 21K5001BUS 14" Mobile Workstation - WUXGA - 1920 x 1200 - AMD Ryzen 7 PRO 7840U Octa-core (8 Core) 3.30 GHz - 32 GB Total RAM - 32 GB On-board Memory - 1 TB SSD - Villi
 Lenovo ThinkPad E14 21JR0017US 14" Notebook - WUXGA - 1920 x 1200 - AMD Ryzen 5 7530U Hexa-core (6 Core) 2 GHz - 16 GB Total RAM - 8 GB On-board Memory - 512 GB SSD - Graphite - AMD Chip - Window
-MSI Stealth GS66 12UGS-245 Gaming Laptop - 15.6" Full HD 240Hz - 12th Gen. Intel¬Æ Core i7-12700H - 32GB DDR5 - 1TB NVMe SSD - Windows 11 Pro GS6612245
-Microsoft Surface Pro 8-13" Touchscreen - Intel¬Æ Evo Platform Core i5 -16GB Memory - 256GB SSD - Device Only - Graphite
+MSI Stealth GS66 12UGS-245 Gaming Laptop - 15.6" Full HD 240Hz - 12th Gen. IntelÆ Core i7-12700H - 32GB DDR5 - 1TB NVMe SSD - Windows 11 Pro GS6612245
+Microsoft Surface Pro 8-13" Touchscreen - IntelÆ Evo Platform Core i5 -16GB Memory - 256GB SSD - Device Only - Graphite

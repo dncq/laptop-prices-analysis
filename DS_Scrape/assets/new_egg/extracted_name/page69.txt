@@ -66,8 +66,7 @@ Lenovo IdeaPad 14" Light Laptop, Intel Celeron N4020 Up to 2.8Ghz, 4GB DDR4 RAM,
 HP Envy 2-in-1 15.6" Touch Screen Laptop | AMD Ryzen 5 7530U Processor | AMD Radeon Graphics | 8GB RAM | 256GB SSD | Backlit Keyboard | Windows 11 Home | Bundle with Stylus Pen
 Lenovo ThinkPad T14s // Intel i5-10310U / 14 IPS FHD(1920 x 1080) / 16GB DDR4 RAM / 512 SSD / UHD Graphics / Fingerprint Reader / Win10 Pro
 Asus Vivobook Go 14 Flip TP1401 J1400KA-DS02T 14" Touchscreen Convertible Notebook - HD - 1366 x 768 - Intel Celeron N4500 Dual-core (2 Core) 1.10 GHz - 4 GB Total RAM - 4 GB On-board Memory - 64
-Lenovo ThinkPad L13 Yoga 13.3" Touchscreen 2-in-1 Laptop - 11th Gen Intel Core i5-1145G7 - 1080p - Windows 11
-16GB RAM 1TB SSD
+Lenovo ThinkPad L13 Yoga 13.3" Touchscreen 2-in-1 Laptop - 11th Gen Intel Core i5-1145G7 - 1080p - Windows 11 16GB RAM 1TB SSD
 HP - Pavilion x360 2-in-1 14" Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 128GB SSD - Natural Silver - 14m-dw1013dx
 HP - 14" Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 256GB SSD - Natural Silver 14-dq2013dx
 HP 15DY2076NR / 2P0A3UA#ABA / 2P0A3UA#ABA 15.6 Laptop - Intel Core i5-1135G7 Processor, 8GB Memory, 256GB SSD (2P0A3UA#ABA)
@@ -75,7 +74,7 @@ Lenovo Chromebook 100e 2nd Gen 11.6 and quot; HD Notebook Computer, Intel Celero
 Dell Latitude 5580 Notebook, 15.6" Anti-glare HD, Intel Dual-Core i5-7300U Upto 3.5GHz, 8GB RAM, 256GB SSD, VGA, HDMI, Card Reader, Backlit Keyboard, Wi-Fi, Bluetooth, Windows 10 Pro
 Lenovo ThinkPad X1 Yoga Gen8 14" Touchscreen Convertible 2 in 1 Notebook Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) Intel Evo Platform 16GB Total RAM 16GB On-board Memory 512GB SSD Storm Gray
 HP 15 Notebook, 15.6" HD Touch Display, AMD Ryzen 5 3500U Upto 3.7GHz, 8GB RAM, 256GB NVMe SSD, Vega 8, HDMI, Card Reader, Wi-Fi, Bluetooth, Windows 10 Pro S
-Lenovo LOQ Laptop, 15.6" FHD IPS, Ryzen 5 7640HS, NVIDIAÂ® GeForce RTX 3050 Laptop GPU 6GB GDDR6, 8GB, 512GB SSD, For Gaming
+Lenovo LOQ Laptop, 15.6" FHD IPS, Ryzen 5 7640HS, NVIDIA® GeForce RTX 3050 Laptop GPU 6GB GDDR6, 8GB, 512GB SSD, For Gaming
 Lenovo ThinkPad X1 Yoga Home and Business Laptop (Intel i7-8665U 4-Core, 16GB RAM, 1TB SSD, Intel UHD 620, 14" Touch  4K UHD (3840x2160), Active Pen, Fingerprint, Wifi, Bluetooth, Webcam, Win 10 Pro)
 Lenovo ThinkPad X1 Yoga Home and Business Laptop (Intel i7-8665U 4-Core, 16GB RAM, 1TB m.2 SATA SSD, Intel UHD 620, 14" Touch  4K UHD (3840x2160), Active Pen, Fingerprint, Wifi, Bluetooth, Win 10 Pro)
 Lenovo ThinkPad X1 Yoga Home and Business Laptop (Intel i7-8665U 4-Core, 16GB RAM, 1TB SSD, 14" Touch  4K UHD (3840x2160), Intel UHD 620, Active Pen, Fingerprint, Wifi, Bluetooth, Webcam, Win 10 Pro)
